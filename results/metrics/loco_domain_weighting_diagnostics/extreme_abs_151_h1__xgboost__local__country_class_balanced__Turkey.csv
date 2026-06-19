@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8842,2,0.6667240344993756,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Australia,1,1,2,5895.173913043478,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Bangladesh,0,2884,2,2.044096363746005,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Bangladesh,1,6343,2,0.9293983782190569,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Brazil,0,9597,2,0.6142725761220671,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Brazil,1,978,2,6.027785187161021,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+China,0,16763,2,0.3516777374600894,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+China,1,1940,2,3.038749439713133,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Egypt,0,8612,2,0.6845301803348209,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Egypt,1,4267,2,1.3815734504437494,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Ethiopia,0,7939,2,0.7425587495961051,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Ethiopia,1,713,2,8.268126105250321,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+France,0,9880,1,1.19335504312621,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Germany,0,8881,1,1.3275923686619702,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+India,0,10987,2,0.5365590163869554,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+India,1,6291,2,0.9370805774985659,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Indonesia,0,10058,2,0.586117907441189,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Indonesia,1,1340,2,4.399383517196625,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Japan,0,19176,1,0.6148491774137962,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Mexico,0,9646,2,0.6111521784204311,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Mexico,1,1004,2,5.871687164385935,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Nigeria,0,5323,2,1.1074908722606571,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Nigeria,1,3401,2,1.7333648671106963,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Pakistan,0,1705,2,3.457580007650134,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Pakistan,1,7880,2,0.7481185168836901,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Philippines,0,17281,2,0.3411361560698732,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Philippines,1,119,2,49.539276580197296,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Russia,0,9130,2,0.6456926520310491,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Russia,1,1046,2,5.635921522986117,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Saudi Arabia,0,9028,2,0.652987806052667,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Saudi Arabia,1,120,2,49.12644927536232,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+South Africa,0,9031,2,0.6527708906038621,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+South Africa,1,52,2,113.36872909698997,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+South Korea,0,10559,2,0.5583079754752797,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+South Korea,1,113,2,52.16968064640246,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Thailand,0,8322,2,0.7083842721753759,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Thailand,1,42,2,140.36128364389234,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+United Kingdom,0,8887,2,0.6633480266730594,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+United Kingdom,1,1,2,5895.173913043478,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+United States,0,23724,2,0.2484898799967745,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+United States,1,29,2,203.28185907046478,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Vietnam,0,8518,2,0.6920842818787836,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
+Vietnam,1,725,2,8.13127436281859,extreme_abs_151_h1,xgboost,local,country_class_balanced,Turkey
