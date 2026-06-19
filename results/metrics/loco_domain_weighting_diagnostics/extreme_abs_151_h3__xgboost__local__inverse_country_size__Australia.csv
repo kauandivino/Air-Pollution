@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8235,1.4123439191151237,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Ethiopia,8507,1.3671861024935987,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Nigeria,8604,1.351772684090312,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+United Kingdom,8763,1.3272454837285226,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Germany,8789,1.3233191687237504,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Turkey,8808,1.3204645974015716,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+South Africa,8996,1.2928692945657008,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Saudi Arabia,9019,1.2895722556728066,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Vietnam,9080,1.2809088297261062,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Bangladesh,9133,1.2734755473462218,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Pakistan,9475,1.227509464265229,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+France,9734,1.1948481789514118,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Russia,10147,1.1462158444774853,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Brazil,10358,1.122866593349396,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+South Korea,10541,1.10337275153335,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Mexico,10556,1.1018048667973706,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Indonesia,11191,1.0392862276751893,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Egypt,12780,0.910066680274886,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Philippines,16943,0.686457662392318,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+India,17177,0.6771061404152672,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+China,18351,0.6337884678716715,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+Japan,18885,0.6158672053965074,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
+United States,23433,0.49633645601984566,extreme_abs_151_h3,xgboost,local,inverse_country_size,Australia
