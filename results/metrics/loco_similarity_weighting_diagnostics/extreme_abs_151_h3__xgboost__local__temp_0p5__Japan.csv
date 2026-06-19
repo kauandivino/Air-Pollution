@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Japan,United States,0.4462832415303286,3.184942127158371,extreme_abs_151_h3,xgboost,local,0.5
+Japan,South Korea,0.5930898646905709,2.3745806942292065,extreme_abs_151_h3,xgboost,local,0.5
+Japan,France,0.7742888849691646,1.6527206876030638,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Germany,0.8230711407244093,1.4990900939766565,extreme_abs_151_h3,xgboost,local,0.5
+Japan,United Kingdom,0.8250468850000319,1.4931781448252748,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Thailand,0.8890336191513076,1.3138126936079264,extreme_abs_151_h3,xgboost,local,0.5
+Japan,South Africa,0.9276359736067722,1.2161968507336567,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Indonesia,0.9510597178537853,1.1605350697291026,extreme_abs_151_h3,xgboost,local,0.5
+Japan,China,0.9759477735396628,1.1041822926780296,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Philippines,1.0039153748679184,1.0441152245851963,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Ethiopia,1.06975560453935,0.9152934016219384,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Russia,1.0773724331350165,0.9014558019371668,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Mexico,1.176568096359369,0.7392378239235652,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Turkey,1.1854685393452933,0.7261951655531547,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Brazil,1.1989500736608618,0.7068763333603402,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Australia,1.230505066615717,0.6636439244190802,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Saudi Arabia,1.2418570343663324,0.6487463522525818,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Vietnam,1.4445626407282712,0.4325208784191792,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Nigeria,1.763956048126428,0.24453528787730117,extreme_abs_151_h3,xgboost,local,0.5
+Japan,India,1.8004439534244359,0.24453528787730117,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Egypt,1.8692318797935041,0.24453528787730117,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Bangladesh,2.5354323074657312,0.24453528787730117,extreme_abs_151_h3,xgboost,local,0.5
+Japan,Pakistan,2.5703775771821076,0.24453528787730117,extreme_abs_151_h3,xgboost,local,0.5
