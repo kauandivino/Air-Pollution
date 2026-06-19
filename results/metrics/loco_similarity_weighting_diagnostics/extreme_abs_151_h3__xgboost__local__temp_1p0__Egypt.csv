@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Egypt,Turkey,1.1369148150644859,1.5189888233114868,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Saudi Arabia,1.1702376878648035,1.469205814954639,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Thailand,1.3644490660439188,1.2098672159248884,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,China,1.380541666610411,1.1905531298320744,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Mexico,1.403119816913423,1.1639738271758575,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Ethiopia,1.4213597771562214,1.142935443762226,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Nigeria,1.4743578311847985,1.0839392397344134,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Russia,1.4855263043897888,1.0719006448773558,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,India,1.5067579190734472,1.0493823590855826,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,France,1.538169386459627,1.0169320434826563,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,South Korea,1.5657295736363894,0.9892878947443529,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,United Kingdom,1.5723400706729675,0.9827697777803303,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Germany,1.6150465042221342,0.9416827698442433,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Pakistan,1.6169843875570078,0.9398596655500783,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,South Africa,1.6354854699677617,0.9226311093199865,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,United States,1.6806855599210937,0.8818565488808983,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Philippines,1.6849134716285425,0.8781360078552024,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Vietnam,1.6877117561894068,0.875682168293973,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Australia,1.7719151856422983,0.8049657855279863,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Japan,1.8692318797935041,0.7303202086214671,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Indonesia,1.873550860523064,0.7271727714668152,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Bangladesh,1.8890720741070242,0.7159733070439832,extreme_abs_151_h3,xgboost,local,1.0
+Egypt,Brazil,1.923152930778926,0.6919834429295019,extreme_abs_151_h3,xgboost,local,1.0
