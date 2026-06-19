@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8272,1.4072828189386932,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Nigeria,8627,1.349373302221035,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Australia,8708,1.3368217131673024,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+United Kingdom,8753,1.3299489864344647,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Germany,8784,1.325255405084343,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Turkey,8845,1.3161157126354854,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+South Africa,8996,1.2940243973166818,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Saudi Arabia,9000,1.2934492753623188,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Bangladesh,9098,1.2795167595362573,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Vietnam,9113,1.2774106746692493,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Pakistan,9436,1.2336841329229409,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+France,9725,1.1970224656309378,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Russia,10151,1.1467878512718817,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Brazil,10393,1.120085007049059,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+South Korea,10531,1.1054072242200048,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Mexico,10571,1.101224432717895,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Indonesia,11224,1.037156403979051,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Egypt,12697,0.9168341717146468,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Philippines,16957,0.6865037139978103,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+India,17147,0.6788968028378649,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+China,18476,0.630062972410742,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+Japan,18847,0.6176602896090024,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
+United States,23393,0.4976293540059364,extreme_abs_151_h3,xgboost,local,inverse_country_size,Ethiopia
