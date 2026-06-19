@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+South Korea,Japan,0.5930898646905709,2.0683663244707593,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,South Africa,0.6278181288249653,1.929580365709699,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,United States,0.6375107428346092,1.8925352345786928,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Thailand,0.678294699446288,1.7442931656682088,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,France,0.7238010685349808,1.5925502669386205,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,United Kingdom,0.730730693797889,1.5706309572680155,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Germany,0.7544999052504555,1.497712582703055,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,China,0.8116207776419144,1.3360229519214073,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Turkey,0.9462675389958551,1.020613310949144,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Indonesia,0.9584397859945458,0.9960669924569959,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Saudi Arabia,0.9650863178204159,0.9829138271426033,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Philippines,0.9945856931324282,0.926600676017344,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Ethiopia,1.0144604045815353,0.8904912525919664,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Australia,1.0260601933613132,0.8700700295041501,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Russia,1.1377642384572602,0.6958719140771682,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Mexico,1.1853126854541198,0.6327457722831482,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Brazil,1.2376871926468138,0.569819533909198,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Vietnam,1.4080602119375194,0.4052781676061425,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,India,1.4978797128909678,0.3386390067094292,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Egypt,1.5657295736363894,0.29566733129666023,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Nigeria,1.645821743898723,0.2519046394509588,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Bangladesh,2.411725592259653,0.24581284837331766,extreme_abs_151_h3,xgboost,local,0.5
+South Korea,Pakistan,2.4351106985239594,0.24581284837331766,extreme_abs_151_h3,xgboost,local,0.5
