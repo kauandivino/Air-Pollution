@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8707,2,0.6669920753416791,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Australia,1,1,2,5807.5,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Bangladesh,0,2871,2,2.0228143504005573,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Bangladesh,1,6209,2,0.9353358028668063,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Brazil,0,9418,2,0.6166383520917392,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Brazil,1,964,2,6.024377593360996,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+China,0,16567,2,0.3505462666747148,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+China,1,1900,2,3.056578947368421,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Egypt,0,8481,2,0.6847659474118618,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Egypt,1,4215,2,1.377817319098458,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Ethiopia,0,7844,2,0.7403748087710352,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Ethiopia,1,672,2,8.642113095238095,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+France,0,9745,1,1.1918932786044125,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Germany,0,8771,1,1.3242503705392772,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+India,0,10878,2,0.533875712447141,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+India,1,6236,2,0.9312860808210391,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Indonesia,0,9937,2,0.5844319211029486,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Indonesia,1,1334,2,4.353448275862069,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Japan,0,18905,1,0.6143877281142555,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Mexico,0,9539,2,0.6088164377817381,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Mexico,1,994,2,5.842555331991952,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Nigeria,0,5235,2,1.109360076408787,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Nigeria,1,3326,2,1.7460914010823811,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Pakistan,0,1718,2,3.380384167636787,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Pakistan,1,7761,2,0.748292745780183,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Philippines,0,16956,2,0.3425041283321538,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Philippines,1,117,2,49.636752136752136,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Russia,0,9056,2,0.6412875441696113,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Russia,1,1036,2,5.605694980694981,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Saudi Arabia,0,8896,2,0.6528214928057554,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Saudi Arabia,1,111,2,52.31981981981982,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+South Africa,0,8913,2,0.6515763491529227,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+South Africa,1,53,2,109.5754716981132,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+South Korea,0,10416,2,0.5575556835637481,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+South Korea,1,104,2,55.84134615384615,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Thailand,0,8182,2,0.7097897824492789,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Thailand,1,41,2,141.64634146341464,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Turkey,0,8376,2,0.6933500477554919,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+Turkey,1,507,2,11.454635108481263,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+United Kingdom,0,8805,2,0.6595684270300965,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+United Kingdom,1,1,2,5807.5,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+United States,0,23319,2,0.24904584244607403,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
+United States,1,28,2,207.41071428571428,extreme_abs_151_h3,xgboost,local,country_class_balanced,Vietnam
