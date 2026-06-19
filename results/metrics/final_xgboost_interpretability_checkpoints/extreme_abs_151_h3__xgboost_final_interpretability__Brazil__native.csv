@@ -1,0 +1,92 @@
+target,held_out_country,feature,native_importance
+extreme_abs_151_h3,Brazil,PM2.5 (ug/m3),0.13173276
+extreme_abs_151_h3,Brazil,humidity_PM25,0.0935209
+extreme_abs_151_h3,Brazil,PM25_city_past_anomaly,0.06332881
+extreme_abs_151_h3,Brazil,AQI_lag_6,0.042374477
+extreme_abs_151_h3,Brazil,AQI_roll_mean_6,0.036828067
+extreme_abs_151_h3,Brazil,CO (mg/m3),0.035545476
+extreme_abs_151_h3,Brazil,PM10_city_past_anomaly,0.029665671
+extreme_abs_151_h3,Brazil,PM10 (ug/m3),0.027299175
+extreme_abs_151_h3,Brazil,AQI,0.027258314
+extreme_abs_151_h3,Brazil,month,0.025456041
+extreme_abs_151_h3,Brazil,SO2 (ug/m3),0.023903009
+extreme_abs_151_h3,Brazil,PM25_city_past_zscore,0.020102069
+extreme_abs_151_h3,Brazil,industry_NO2,0.012877327
+extreme_abs_151_h3,Brazil,quarter,0.012558083
+extreme_abs_151_h3,Brazil,AQI_roll_max_6,0.012318612
+extreme_abs_151_h3,Brazil,NO (ug/m3),0.0121285925
+extreme_abs_151_h3,Brazil,is_dec_feb,0.0120515665
+extreme_abs_151_h3,Brazil,Population_Density_per_SqKm,0.012016793
+extreme_abs_151_h3,Brazil,deforestation_aug_oct,0.011268837
+extreme_abs_151_h3,Brazil,Xylene (ug/m3),0.011178946
+extreme_abs_151_h3,Brazil,month_cos,0.010733129
+extreme_abs_151_h3,Brazil,SO2_lag_1,0.010700286
+extreme_abs_151_h3,Brazil,PM10_roll_mean_3,0.0105357
+extreme_abs_151_h3,Brazil,Toluene (ug/m3),0.010464225
+extreme_abs_151_h3,Brazil,NO2 (ug/m3),0.010256239
+extreme_abs_151_h3,Brazil,month_sin,0.010228663
+extreme_abs_151_h3,Brazil,AQI_city_past_zscore,0.010192205
+extreme_abs_151_h3,Brazil,is_aug_oct,0.009968638
+extreme_abs_151_h3,Brazil,NO2_city_past_anomaly,0.009777361
+extreme_abs_151_h3,Brazil,PM10_city_past_zscore,0.009556596
+extreme_abs_151_h3,Brazil,AQI_city_past_anomaly,0.00936745
+extreme_abs_151_h3,Brazil,NOx (ppb),0.009027136
+extreme_abs_151_h3,Brazil,CO_city_past_anomaly,0.008714057
+extreme_abs_151_h3,Brazil,Deforestation_Rate_%,0.008341838
+extreme_abs_151_h3,Brazil,PM25_roll_max_3,0.007986187
+extreme_abs_151_h3,Brazil,Deforestation_Rate_lag_1,0.0077323387
+extreme_abs_151_h3,Brazil,PM25_roll_mean_3,0.00712929
+extreme_abs_151_h3,Brazil,PM10_roll_max_3,0.0071142404
+extreme_abs_151_h3,Brazil,Industry_Growth_%,0.007110015
+extreme_abs_151_h3,Brazil,CO2_Emission_MT,0.006932733
+extreme_abs_151_h3,Brazil,AQI_lag_12,0.0067080646
+extreme_abs_151_h3,Brazil,Humidity_city_past_anomaly,0.0065417164
+extreme_abs_151_h3,Brazil,AQI_roll_max_3,0.006228972
+extreme_abs_151_h3,Brazil,CO_city_past_zscore,0.005849934
+extreme_abs_151_h3,Brazil,AQI_trend_3,0.005769401
+extreme_abs_151_h3,Brazil,Humidity_lag_1,0.005572974
+extreme_abs_151_h3,Brazil,Benzene (ug/m3),0.0051508415
+extreme_abs_151_h3,Brazil,NH3 (ug/m3),0.0048779338
+extreme_abs_151_h3,Brazil,NO2_lag_1,0.0048553813
+extreme_abs_151_h3,Brazil,NO2_city_past_zscore,0.0046413997
+extreme_abs_151_h3,Brazil,AQI_delta_1,0.00458392
+extreme_abs_151_h3,Brazil,Humidity_city_past_zscore,0.004462625
+extreme_abs_151_h3,Brazil,Humidity (%),0.0042903405
+extreme_abs_151_h3,Brazil,AQI_roll_std_6,0.004232213
+extreme_abs_151_h3,Brazil,low_wind_PM25,0.0040820367
+extreme_abs_151_h3,Brazil,AQI_roll_mean_3,0.004075237
+extreme_abs_151_h3,Brazil,time_index_months,0.0040501105
+extreme_abs_151_h3,Brazil,CO_lag_1,0.004025942
+extreme_abs_151_h3,Brazil,PM10_lag_3,0.003994432
+extreme_abs_151_h3,Brazil,PM25_lag_2,0.0038318369
+extreme_abs_151_h3,Brazil,O3 (ug/m3),0.0036418173
+extreme_abs_151_h3,Brazil,PM10_lag_1,0.0035292823
+extreme_abs_151_h3,Brazil,AQI_city_history_count,0.0033419146
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_past_anomaly,0.0033122126
+extreme_abs_151_h3,Brazil,PM10_lag_2,0.0033105405
+extreme_abs_151_h3,Brazil,PM25_roll_std_3,0.0031439792
+extreme_abs_151_h3,Brazil,Wind_Speed_lag_1,0.002946602
+extreme_abs_151_h3,Brazil,O3_lag_1,0.002945096
+extreme_abs_151_h3,Brazil,O3_city_past_zscore,0.002917793
+extreme_abs_151_h3,Brazil,AQI_roll_std_3,0.0028984244
+extreme_abs_151_h3,Brazil,AQI_lag_3,0.0028852187
+extreme_abs_151_h3,Brazil,PM25_lag_1,0.0028224313
+extreme_abs_151_h3,Brazil,PM25_lag_3,0.0027801562
+extreme_abs_151_h3,Brazil,AQI_lag_1,0.0027366774
+extreme_abs_151_h3,Brazil,PM10_roll_std_3,0.0027262168
+extreme_abs_151_h3,Brazil,PM25_PM10_ratio,0.0026480837
+extreme_abs_151_h3,Brazil,AQI_lag_2,0.0026384518
+extreme_abs_151_h3,Brazil,O3_city_past_anomaly,0.0025674284
+extreme_abs_151_h3,Brazil,Wind_Speed (km/h),0.002500277
+extreme_abs_151_h3,Brazil,PM25_city_history_count,0.00249909
+extreme_abs_151_h3,Brazil,Wind_Speed_city_past_anomaly,0.0024037128
+extreme_abs_151_h3,Brazil,Wind_Speed_city_past_zscore,0.0021989627
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_past_zscore,0.0021514047
+extreme_abs_151_h3,Brazil,PM10_city_history_count,0.000867559
+extreme_abs_151_h3,Brazil,year,0.00047956963
+extreme_abs_151_h3,Brazil,Humidity_city_history_count,0.0
+extreme_abs_151_h3,Brazil,O3_city_history_count,0.0
+extreme_abs_151_h3,Brazil,Wind_Speed_city_history_count,0.0
+extreme_abs_151_h3,Brazil,NO2_city_history_count,0.0
+extreme_abs_151_h3,Brazil,CO_city_history_count,0.0
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_history_count,0.0
