@@ -1,0 +1,3 @@
+split_name,target,held_out_country,model,model_family,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+leave_one_country_out,extreme_abs_151_h1,South Korea,majority_class,baseline,validation,47555,6497,0.13662075491536116,0.8633792450846388,0.5,0.0,0.0,0.0,0.4633405933666618,41058,0,6497,0,0.0,1.0,0.5,0.13662075491536116
+leave_one_country_out,extreme_abs_151_h1,South Korea,majority_class,baseline,test,12584,130,0.010330578512396695,0.9896694214876033,0.5,0.0,0.0,0.0,0.4974039460020768,12454,0,130,0,0.0,1.0,0.5,0.010330578512396695
