@@ -1,0 +1,274 @@
+target,held_out_country,feature,permutation_importance_mean,permutation_importance_std,sample_rows,repeats,group
+extreme_abs_151_h3,Brazil,PM25_city_past_anomaly,0.16666181432329075,0.002468214838500449,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM10_city_past_anomaly,0.09935279063295205,0.0014802268587630807,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,AQI_roll_max_6,0.07716693959005111,0.005888872418747733,8000,3,rolling
+extreme_abs_151_h3,Brazil,Deforestation_Rate_%,0.07516822407839392,0.0032958748270018336,8000,3,current_socio_environmental
+extreme_abs_151_h3,Brazil,AQI_city_past_anomaly,0.07105106483710183,0.0024170243019036946,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,Deforestation_Rate_lag_1,0.07103319951786961,0.005733377622662324,8000,3,lag
+extreme_abs_151_h3,Brazil,AQI_city_past_zscore,0.05729286844303753,0.0027716829426465387,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,CO_city_past_anomaly,0.04579257975526535,0.002060830663186593,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM25_city_past_zscore,0.040139302311038606,0.0006729758557534417,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM25_roll_max_3,0.034846077776597185,0.0020511769460158143,8000,3,rolling
+extreme_abs_151_h3,Brazil,Humidity_lag_1,0.029066424452567075,0.001390106347766053,8000,3,lag
+extreme_abs_151_h3,Brazil,CO_city_past_zscore,0.02797495263317797,0.000125414214490678,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,month_cos,0.027490902706307812,0.004286856712584522,8000,3,calendar
+extreme_abs_151_h3,Brazil,deforestation_aug_oct,0.02281512815483309,0.0012753827558759385,8000,3,interaction
+extreme_abs_151_h3,Brazil,PM10_roll_mean_3,0.021793846169110658,0.0008191096870519947,8000,3,rolling
+extreme_abs_151_h3,Brazil,NO2_city_past_zscore,0.01776835694168416,0.0007158109817717137,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_past_anomaly,0.01720111187848226,0.0032743283781640074,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,AQI_roll_std_6,0.015954948396142716,0.0011062414570894746,8000,3,rolling
+extreme_abs_151_h3,Brazil,PM25_roll_mean_3,0.015655486649774102,0.0016724537447280567,8000,3,rolling
+extreme_abs_151_h3,Brazil,PM10_roll_max_3,0.014791781990598904,0.00040012761685077224,8000,3,rolling
+extreme_abs_151_h3,Brazil,Population_Density_per_SqKm,0.012848910816341227,0.0005367966501921964,8000,3,current_socio_environmental
+extreme_abs_151_h3,Brazil,PM25_lag_1,0.012443297644723886,0.0011746073916535638,8000,3,lag
+extreme_abs_151_h3,Brazil,PM25_lag_2,0.012138755703367273,0.0007665098310857814,8000,3,lag
+extreme_abs_151_h3,Brazil,PM10_city_past_zscore,0.011813110792073922,0.004321129914597307,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM10_lag_3,0.011364832597209976,0.0011925723713804655,8000,3,lag
+extreme_abs_151_h3,Brazil,Humidity_city_past_anomaly,0.011247821935897406,0.0029077112110771296,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,O3_lag_1,0.010141258370188847,0.0010867682492308062,8000,3,lag
+extreme_abs_151_h3,Brazil,is_aug_oct,0.008726713808748824,0.001218210389106852,8000,3,calendar
+extreme_abs_151_h3,Brazil,is_dec_feb,0.007858135431103475,0.0007029327303609582,8000,3,calendar
+extreme_abs_151_h3,Brazil,PM10_lag_2,0.006809249780372599,0.00037663633665010527,8000,3,lag
+extreme_abs_151_h3,Brazil,Humidity_city_past_zscore,0.006631121977069036,0.002339652273149461,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM25_lag_3,0.006246478918033871,0.0004717375421262871,8000,3,lag
+extreme_abs_151_h3,Brazil,PM10_lag_1,0.002621547248856567,0.0006268778902925241,8000,3,lag
+extreme_abs_151_h3,Brazil,AQI_trend_3,0.0017119093034644872,0.0007926363569998262,8000,3,rolling
+extreme_abs_151_h3,Brazil,Industry_Growth_%,0.001486117491686571,0.0013712253865143255,8000,3,current_socio_environmental
+extreme_abs_151_h3,Brazil,quarter,0.0010455400271449273,0.0005887773165034234,8000,3,calendar
+extreme_abs_151_h3,Brazil,AQI_city_history_count,0.0009153530455090486,0.0002850290939598387,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,Wind_Speed (km/h),0.0009086562261357104,0.00036389259706538546,8000,3,current_meteorology
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_past_zscore,0.0008764027013626144,0.0007220584206418176,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,NO2_city_past_anomaly,0.0005197109408017023,0.0005758578521940991,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM25_roll_std_3,0.00034836715527660395,0.00029935362746775417,8000,3,rolling
+extreme_abs_151_h3,Brazil,O3_city_past_anomaly,0.0002359876287087078,0.00014469000428866933,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM10_city_history_count,4.372742127648858e-07,1.729737955130627e-07,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,CO_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,NO2_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,year,0.0,0.0,8000,3,calendar
+extreme_abs_151_h3,Brazil,O3_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,Wind_Speed_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,Humidity_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM25_city_history_count,-2.0879474007307053e-05,2.6912985283886684e-05,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,Wind_Speed_lag_1,-0.0006082841807255231,0.0004709801016893676,8000,3,lag
+extreme_abs_151_h3,Brazil,O3_city_past_zscore,-0.0008617370067240948,0.00030214652991698436,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,PM25_PM10_ratio,-0.0009313437334645033,0.0006118469221379388,8000,3,interaction
+extreme_abs_151_h3,Brazil,AQI_delta_1,-0.0011014177107556515,0.0001317932505963155,8000,3,rolling
+extreme_abs_151_h3,Brazil,time_index_months,-0.0022720795047057596,0.00085300743968182,8000,3,calendar
+extreme_abs_151_h3,Brazil,month,-0.002666831018736234,0.00207763302869457,8000,3,calendar
+extreme_abs_151_h3,Brazil,Humidity (%),-0.002692326015571178,0.0009124114196662376,8000,3,current_meteorology
+extreme_abs_151_h3,Brazil,SO2_lag_1,-0.0034400020602101864,0.0015378655800954363,8000,3,lag
+extreme_abs_151_h3,Brazil,PM10_roll_std_3,-0.0035153717273710785,0.0013988631205023474,8000,3,rolling
+extreme_abs_151_h3,Brazil,AQI_roll_std_3,-0.003911956489662767,0.00024134984805335486,8000,3,rolling
+extreme_abs_151_h3,Brazil,Wind_Speed_city_past_anomaly,-0.004859431977803567,0.00012203789670881012,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,AQI_lag_2,-0.004959431705203447,0.00039679453610896984,8000,3,lag
+extreme_abs_151_h3,Brazil,Wind_Speed_city_past_zscore,-0.005578580541299265,0.0007514652053559413,8000,3,local_normalization
+extreme_abs_151_h3,Brazil,industry_NO2,-0.007424189973802157,0.0008704237042416888,8000,3,interaction
+extreme_abs_151_h3,Brazil,Benzene (ug/m3),-0.007955225777571498,0.0005583706971560786,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,AQI_roll_mean_3,-0.009093500763055465,0.0008007664699964789,8000,3,rolling
+extreme_abs_151_h3,Brazil,NO2_lag_1,-0.009351980456014005,0.00021855798044601135,8000,3,lag
+extreme_abs_151_h3,Brazil,low_wind_PM25,-0.009385447956581713,0.0002844555585582268,8000,3,interaction
+extreme_abs_151_h3,Brazil,NH3 (ug/m3),-0.011390334308400621,0.0015394318411321914,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,month_sin,-0.013375441732818275,0.0019973091927515544,8000,3,calendar
+extreme_abs_151_h3,Brazil,AQI_lag_6,-0.01429704987942996,0.001837593932971566,8000,3,lag
+extreme_abs_151_h3,Brazil,NO (ug/m3),-0.017141979017026132,0.0006518109092379725,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,AQI_lag_1,-0.01796657663391284,0.0007045500548378891,8000,3,lag
+extreme_abs_151_h3,Brazil,CO_lag_1,-0.01953491271146242,0.0009499729768774818,8000,3,lag
+extreme_abs_151_h3,Brazil,humidity_PM25,-0.02069867782439196,0.0007762302084919864,8000,3,interaction
+extreme_abs_151_h3,Brazil,Xylene (ug/m3),-0.021127148211023867,0.002457021960559865,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,Toluene (ug/m3),-0.022014368584653794,0.0013110976473007323,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,SO2 (ug/m3),-0.0223408134428519,0.0009065293952630191,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,AQI_lag_12,-0.023415070086008738,0.0019944325135779124,8000,3,lag
+extreme_abs_151_h3,Brazil,O3 (ug/m3),-0.02350880488898373,0.00028930273522234835,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,NOx (ppb),-0.02608123437953358,0.003514538768932343,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,AQI_roll_max_3,-0.036719520683685,0.0001381045064272679,8000,3,rolling
+extreme_abs_151_h3,Brazil,CO2_Emission_MT,-0.038964948464289106,0.0034456994203430047,8000,3,current_socio_environmental
+extreme_abs_151_h3,Brazil,AQI_lag_3,-0.039060105018987636,0.000671212105990618,8000,3,lag
+extreme_abs_151_h3,Brazil,NO2 (ug/m3),-0.04288006360335097,0.0014911316473967993,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,PM10 (ug/m3),-0.049994013033727726,0.0014719450501869636,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,PM2.5 (ug/m3),-0.05277358866046289,0.00358438848458874,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,CO (mg/m3),-0.055717143015932315,0.004946325636146252,8000,3,current_pollutant
+extreme_abs_151_h3,Brazil,AQI_roll_mean_6,-0.07411302221876788,0.00274344026429835,8000,3,rolling
+extreme_abs_151_h3,Brazil,AQI,-0.10660006557190237,0.0015877262089117397,8000,3,current_aqi
+extreme_abs_151_h3,China,month,0.1273344109743084,0.0029933278573825274,8000,3,calendar
+extreme_abs_151_h3,China,deforestation_aug_oct,0.06457931640387034,0.0012819887576452679,8000,3,interaction
+extreme_abs_151_h3,China,AQI,0.03494123253355882,0.0030801011714515405,8000,3,current_aqi
+extreme_abs_151_h3,China,NO2 (ug/m3),0.02734398584373247,0.00626402754845398,8000,3,current_pollutant
+extreme_abs_151_h3,China,AQI_roll_mean_6,0.022582631592289015,0.006280345961136455,8000,3,rolling
+extreme_abs_151_h3,China,PM10 (ug/m3),0.021799861266062887,0.005947840135379759,8000,3,current_pollutant
+extreme_abs_151_h3,China,PM25_city_past_anomaly,0.01822116929257663,0.0036910346521876703,8000,3,local_normalization
+extreme_abs_151_h3,China,CO (mg/m3),0.017377064635617206,0.001490080597844585,8000,3,current_pollutant
+extreme_abs_151_h3,China,PM2.5 (ug/m3),0.016996662420916093,0.00531420785790679,8000,3,current_pollutant
+extreme_abs_151_h3,China,PM25_city_past_zscore,0.01633264412769016,0.0024193006193468885,8000,3,local_normalization
+extreme_abs_151_h3,China,AQI_lag_6,0.014951115423130804,0.003998741889429461,8000,3,lag
+extreme_abs_151_h3,China,month_sin,0.014054888508871044,0.00011283882244714432,8000,3,calendar
+extreme_abs_151_h3,China,AQI_trend_3,0.012998784213524961,0.0010829468840695678,8000,3,rolling
+extreme_abs_151_h3,China,AQI_city_past_zscore,0.011421445517932782,0.0023318062520423953,8000,3,local_normalization
+extreme_abs_151_h3,China,Deforestation_Rate_%,0.008257146540143534,0.0026543254541708627,8000,3,current_socio_environmental
+extreme_abs_151_h3,China,NO2_city_past_zscore,0.007359158354108571,0.0033118539986684227,8000,3,local_normalization
+extreme_abs_151_h3,China,AQI_delta_1,0.007347328430604705,0.0010421050660138506,8000,3,rolling
+extreme_abs_151_h3,China,NO2_city_past_anomaly,0.0069887122222102764,0.0009399150790398193,8000,3,local_normalization
+extreme_abs_151_h3,China,AQI_city_past_anomaly,0.006467419483644561,0.0011518054575956629,8000,3,local_normalization
+extreme_abs_151_h3,China,CO_city_past_zscore,0.004906355505047033,0.0008305060810564888,8000,3,local_normalization
+extreme_abs_151_h3,China,O3_lag_1,0.004687049374605993,0.00041725670006715303,8000,3,lag
+extreme_abs_151_h3,China,Deforestation_Rate_lag_1,0.004611296941338661,0.0002497437372981422,8000,3,lag
+extreme_abs_151_h3,China,Humidity_lag_1,0.004483866625055362,0.0022864617751820623,8000,3,lag
+extreme_abs_151_h3,China,CO_city_past_anomaly,0.00385820336809084,0.0028197316651620316,8000,3,local_normalization
+extreme_abs_151_h3,China,PM10_city_past_zscore,0.0036001698351837788,0.002286689076951693,8000,3,local_normalization
+extreme_abs_151_h3,China,humidity_PM25,0.0035653361025524224,0.0005992775715207605,8000,3,interaction
+extreme_abs_151_h3,China,time_index_months,0.0028812463699631197,0.00053802897825177,8000,3,calendar
+extreme_abs_151_h3,China,AQI_roll_max_6,0.0026513813126288386,0.00037022211854110995,8000,3,rolling
+extreme_abs_151_h3,China,O3_city_past_zscore,0.0023020620161723717,0.0002913752274810782,8000,3,local_normalization
+extreme_abs_151_h3,China,AQI_lag_3,0.0021406829299716414,0.0008031583271421803,8000,3,lag
+extreme_abs_151_h3,China,AQI_roll_std_6,0.0021395042124613775,0.0006003403359146732,8000,3,rolling
+extreme_abs_151_h3,China,month_cos,0.0019810764160106777,0.000132256425826915,8000,3,calendar
+extreme_abs_151_h3,China,PM25_lag_2,0.00177696190049829,0.0007383173562017919,8000,3,lag
+extreme_abs_151_h3,China,AQI_lag_12,0.0017361357271761246,0.0008866628773864162,8000,3,lag
+extreme_abs_151_h3,China,PM25_PM10_ratio,0.001543022759189124,0.00025802681974726753,8000,3,interaction
+extreme_abs_151_h3,China,PM10_roll_max_3,0.0015212002899419597,0.00023970665827168644,8000,3,rolling
+extreme_abs_151_h3,China,Toluene (ug/m3),0.0012717618168564722,0.0011327722107567337,8000,3,current_pollutant
+extreme_abs_151_h3,China,PM10_lag_1,0.0012419916707876455,0.0003643486679342373,8000,3,lag
+extreme_abs_151_h3,China,PM25_roll_max_3,0.0010342981692848714,0.0005849014585488844,8000,3,rolling
+extreme_abs_151_h3,China,Humidity (%),0.0009496298128526629,0.0003628199724897714,8000,3,current_meteorology
+extreme_abs_151_h3,China,PM10_city_past_anomaly,0.0008511496901161634,0.0019998980167722394,8000,3,local_normalization
+extreme_abs_151_h3,China,low_wind_PM25,0.0006743233340091859,0.0008031180534365205,8000,3,interaction
+extreme_abs_151_h3,China,O3 (ug/m3),0.0006734253305763863,0.00045251886508999086,8000,3,current_pollutant
+extreme_abs_151_h3,China,PM25_lag_3,0.0006322660597317675,0.00027493242065309816,8000,3,lag
+extreme_abs_151_h3,China,PM25_roll_mean_3,0.0006053618066563793,0.0003044365060367677,8000,3,rolling
+extreme_abs_151_h3,China,Humidity_city_past_zscore,0.0005455027992212758,0.0004416164078681963,8000,3,local_normalization
+extreme_abs_151_h3,China,year,0.0005098190056863258,5.238315943840757e-05,8000,3,calendar
+extreme_abs_151_h3,China,NO2_lag_1,0.0004732633121887024,0.00015239062007442022,8000,3,lag
+extreme_abs_151_h3,China,AQI_lag_2,0.00045332161651005326,0.00012912335145047753,8000,3,lag
+extreme_abs_151_h3,China,Wind_Speed_lag_1,0.0004512754149427571,0.00031887885527329894,8000,3,lag
+extreme_abs_151_h3,China,Wind_Speed_city_past_anomaly,0.00040234749160787214,0.0001742871750710446,8000,3,local_normalization
+extreme_abs_151_h3,China,PM25_lag_1,0.0003937565512573589,0.00033932232238733506,8000,3,lag
+extreme_abs_151_h3,China,PM10_lag_2,0.0003508394478431616,0.0003472794337585723,8000,3,lag
+extreme_abs_151_h3,China,AQI_roll_max_3,0.0002989338424122338,0.0017878284223870687,8000,3,rolling
+extreme_abs_151_h3,China,O3_city_past_anomaly,0.0002653738978762125,0.00014453996437517635,8000,3,local_normalization
+extreme_abs_151_h3,China,AQI_city_history_count,0.00023481651405314144,0.0002912526660195152,8000,3,local_normalization
+extreme_abs_151_h3,China,PM10_lag_3,0.00023138438669219794,0.00032475821100483483,8000,3,lag
+extreme_abs_151_h3,China,Deforestation_Rate_city_past_anomaly,0.00010889199870430429,0.0003803027433926368,8000,3,local_normalization
+extreme_abs_151_h3,China,CO_lag_1,7.667946815418751e-05,0.0003964273032350693,8000,3,lag
+extreme_abs_151_h3,China,AQI_roll_mean_3,5.8468869709800884e-05,0.0019109236466699593,8000,3,rolling
+extreme_abs_151_h3,China,industry_NO2,2.4300808588358553e-05,0.0016713811513689929,8000,3,interaction
+extreme_abs_151_h3,China,O3_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,China,Wind_Speed_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,China,NO2_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,China,CO_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,China,Humidity_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,China,Deforestation_Rate_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,China,PM10_city_history_count,-1.7163475466541733e-05,1.8707092443385272e-05,8000,3,local_normalization
+extreme_abs_151_h3,China,PM25_city_history_count,-5.582170015761001e-05,4.547390618796088e-05,8000,3,local_normalization
+extreme_abs_151_h3,China,AQI_lag_1,-7.841103810846128e-05,0.0012127846213490405,8000,3,lag
+extreme_abs_151_h3,China,Wind_Speed_city_past_zscore,-0.00010459971702492243,0.0001401905442068853,8000,3,local_normalization
+extreme_abs_151_h3,China,Deforestation_Rate_city_past_zscore,-0.00018965223174146248,8.685761716163768e-05,8000,3,local_normalization
+extreme_abs_151_h3,China,Industry_Growth_%,-0.00020376425233877468,0.00016803712660628714,8000,3,current_socio_environmental
+extreme_abs_151_h3,China,NH3 (ug/m3),-0.00020693756334733138,0.0006938560866132509,8000,3,current_pollutant
+extreme_abs_151_h3,China,PM10_roll_mean_3,-0.0002123327071216948,0.0006890099409658,8000,3,rolling
+extreme_abs_151_h3,China,Benzene (ug/m3),-0.0002941782987755011,0.0017341768764785508,8000,3,current_pollutant
+extreme_abs_151_h3,China,Xylene (ug/m3),-0.0003048923781564146,0.00027500593635775586,8000,3,current_pollutant
+extreme_abs_151_h3,China,Wind_Speed (km/h),-0.00033321590206732604,0.00015552498894719582,8000,3,current_meteorology
+extreme_abs_151_h3,China,is_aug_oct,-0.000374667809854438,0.00024154595245895336,8000,3,calendar
+extreme_abs_151_h3,China,quarter,-0.0005010709941347669,0.00019678315929663604,8000,3,calendar
+extreme_abs_151_h3,China,SO2 (ug/m3),-0.0006416653321836089,0.001400619127459286,8000,3,current_pollutant
+extreme_abs_151_h3,China,is_dec_feb,-0.0006653986835204831,0.00045719029658090757,8000,3,calendar
+extreme_abs_151_h3,China,PM10_roll_std_3,-0.0006959184599538334,0.0006089175756588881,8000,3,rolling
+extreme_abs_151_h3,China,AQI_roll_std_3,-0.0007675154374960543,0.00042560985558457327,8000,3,rolling
+extreme_abs_151_h3,China,NOx (ppb),-0.0010858939583573795,0.0001691005469444509,8000,3,current_pollutant
+extreme_abs_151_h3,China,Population_Density_per_SqKm,-0.001708224217709109,0.0021180031011011654,8000,3,current_socio_environmental
+extreme_abs_151_h3,China,Humidity_city_past_anomaly,-0.001749876134668371,0.0007198905357592517,8000,3,local_normalization
+extreme_abs_151_h3,China,PM25_roll_std_3,-0.0018750061006973147,0.0007577483816826954,8000,3,rolling
+extreme_abs_151_h3,China,SO2_lag_1,-0.0028788594411198,0.0005143683782340024,8000,3,lag
+extreme_abs_151_h3,China,NO (ug/m3),-0.00469112347712608,0.0026659392972637292,8000,3,current_pollutant
+extreme_abs_151_h3,China,CO2_Emission_MT,-0.01318484749873198,0.00022854060094301348,8000,3,current_socio_environmental
+extreme_abs_151_h3,Vietnam,AQI,0.09516993192924407,0.003055491167343159,8000,3,current_aqi
+extreme_abs_151_h3,Vietnam,month,0.06394519993308066,0.0070643916816987545,8000,3,calendar
+extreme_abs_151_h3,Vietnam,PM10 (ug/m3),0.06231877856258683,0.0024530377936436,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,CO (mg/m3),0.049311052393453424,0.0025672820040242906,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,PM25_city_past_anomaly,0.04817160309183203,0.002046378709082805,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,PM2.5 (ug/m3),0.04061500951512461,0.0019791456509868073,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,NO2 (ug/m3),0.04052197885368336,0.0033920744810909806,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,SO2 (ug/m3),0.01885518094555405,0.0007907541010533081,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,PM10_city_past_anomaly,0.018406966140616876,0.0016967837614818208,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,deforestation_aug_oct,0.017705578612394985,0.0029438925333772144,8000,3,interaction
+extreme_abs_151_h3,Vietnam,NO2_city_past_anomaly,0.01657635657333924,0.005813489853203169,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_lag_6,0.015071276959911969,0.002598258990835714,8000,3,lag
+extreme_abs_151_h3,Vietnam,AQI_city_past_anomaly,0.014854620602958982,0.0009167846400651321,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,humidity_PM25,0.014672522619222953,0.0011282936467450159,8000,3,interaction
+extreme_abs_151_h3,Vietnam,month_cos,0.014124160421689088,0.0023414492422876316,8000,3,calendar
+extreme_abs_151_h3,Vietnam,NOx (ppb),0.01266676081623519,0.00315144741438935,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,NO (ug/m3),0.01183171977047015,0.0007922850325065572,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,AQI_trend_3,0.011808407798901152,0.002694415984056129,8000,3,rolling
+extreme_abs_151_h3,Vietnam,AQI_roll_mean_6,0.0100429087179393,0.004486559575344434,8000,3,rolling
+extreme_abs_151_h3,Vietnam,AQI_city_past_zscore,0.009020079575701353,0.0011108751005271932,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,PM25_city_past_zscore,0.007569529933251236,0.0026024423680009027,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,month_sin,0.007526931202839537,0.0016584412558623195,8000,3,calendar
+extreme_abs_151_h3,Vietnam,low_wind_PM25,0.00741473978922876,0.0024288815196447785,8000,3,interaction
+extreme_abs_151_h3,Vietnam,Toluene (ug/m3),0.0070440232102563964,0.0006634907401725309,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,is_dec_feb,0.006945860638494117,0.0014479267369158738,8000,3,calendar
+extreme_abs_151_h3,Vietnam,PM10_roll_mean_3,0.0063911422811924745,0.0017443998452456421,8000,3,rolling
+extreme_abs_151_h3,Vietnam,NO2_city_past_zscore,0.005589482025688153,0.00269903881494937,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_delta_1,0.005058517133434137,0.0022716242320942152,8000,3,rolling
+extreme_abs_151_h3,Vietnam,CO_city_past_anomaly,0.004053401337459332,0.0028254176807316123,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,Wind_Speed_lag_1,0.0024381213600522256,0.000484218610730527,8000,3,lag
+extreme_abs_151_h3,Vietnam,Benzene (ug/m3),0.0023376524682146758,0.0006075885654481341,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,PM25_roll_mean_3,0.002328140775685624,0.0010912013473606413,8000,3,rolling
+extreme_abs_151_h3,Vietnam,O3 (ug/m3),0.0023091496972129275,0.0005883928368032119,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,PM10_lag_3,0.0022835913294237953,0.0025009722667510247,8000,3,lag
+extreme_abs_151_h3,Vietnam,O3_city_past_zscore,0.002087836628566838,0.001650034616043156,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_city_history_count,0.0020536001500423375,0.0001958945234341342,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,PM25_lag_3,0.00205300013424764,9.940633009811852e-05,8000,3,lag
+extreme_abs_151_h3,Vietnam,industry_NO2,0.0018919352974292036,0.001505108364463626,8000,3,interaction
+extreme_abs_151_h3,Vietnam,Humidity_lag_1,0.0016570997494107325,0.000528257557657342,8000,3,lag
+extreme_abs_151_h3,Vietnam,PM25_lag_2,0.0015728404963893754,0.0005537673296367965,8000,3,lag
+extreme_abs_151_h3,Vietnam,Humidity_city_past_anomaly,0.0014170716072611593,0.0009142580915871615,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,CO_lag_1,0.0013606974078557894,0.0014304006644879986,8000,3,lag
+extreme_abs_151_h3,Vietnam,PM10_city_past_zscore,0.001334348322981127,0.0023380906008801886,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_lag_1,0.0013325949424969157,0.0005138666959879565,8000,3,lag
+extreme_abs_151_h3,Vietnam,Population_Density_per_SqKm,0.0013100077181644558,0.003148000607272081,8000,3,current_socio_environmental
+extreme_abs_151_h3,Vietnam,PM10_lag_2,0.0012921125464942507,0.0005593885531264221,8000,3,lag
+extreme_abs_151_h3,Vietnam,AQI_lag_3,0.0012911574466786442,0.002399038643630199,8000,3,lag
+extreme_abs_151_h3,Vietnam,AQI_roll_max_3,0.0011910756545081003,0.0007688723992824321,8000,3,rolling
+extreme_abs_151_h3,Vietnam,Humidity (%),0.001181982560053178,0.00011363901842034193,8000,3,current_meteorology
+extreme_abs_151_h3,Vietnam,Industry_Growth_%,0.0011568152373930458,0.0004955183489234056,8000,3,current_socio_environmental
+extreme_abs_151_h3,Vietnam,SO2_lag_1,0.0010893778244941605,0.0007677598994573709,8000,3,lag
+extreme_abs_151_h3,Vietnam,AQI_roll_mean_3,0.001072910317120405,0.0006406494436847696,8000,3,rolling
+extreme_abs_151_h3,Vietnam,NH3 (ug/m3),0.0009036588413426546,0.0005659197686089151,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_past_zscore,0.0008711580776205041,0.00015905917817380977,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,PM10_roll_max_3,0.000867345790867724,0.0017942952865756675,8000,3,rolling
+extreme_abs_151_h3,Vietnam,Xylene (ug/m3),0.0008161652991211151,0.0015055831527782603,8000,3,current_pollutant
+extreme_abs_151_h3,Vietnam,quarter,0.0006915272872619985,0.0006147485680796311,8000,3,calendar
+extreme_abs_151_h3,Vietnam,PM25_PM10_ratio,0.0006080940640310432,0.00030351547174427453,8000,3,interaction
+extreme_abs_151_h3,Vietnam,PM25_roll_max_3,0.00037238375781941296,0.0007518311769065141,8000,3,rolling
+extreme_abs_151_h3,Vietnam,is_aug_oct,0.00034275959663336114,0.0009713375327894695,8000,3,calendar
+extreme_abs_151_h3,Vietnam,NO2_lag_1,0.00020487490683163134,0.00024558464644405456,8000,3,lag
+extreme_abs_151_h3,Vietnam,Humidity_city_past_zscore,0.00019442956017593863,0.0014519032822032621,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,O3_lag_1,0.00016290483077476456,0.0009244018738681919,8000,3,lag
+extreme_abs_151_h3,Vietnam,AQI_lag_12,0.0001070739847314391,0.0014491206823275692,8000,3,lag
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_past_anomaly,9.02812326926868e-05,0.00041978820433407417,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_lag_1,5.0963965438022285e-05,0.0027582787075311477,8000,3,lag
+extreme_abs_151_h3,Vietnam,AQI_lag_2,3.015166813804167e-05,0.00016618067592471072,8000,3,lag
+extreme_abs_151_h3,Vietnam,PM10_city_history_count,1.415095080814499e-05,6.901105361748294e-06,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,PM10_roll_std_3,1.2711912489156893e-05,0.00025540882960515214,8000,3,rolling
+extreme_abs_151_h3,Vietnam,NO2_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,O3_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,CO_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,Humidity_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_history_count,0.0,0.0,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,year,-1.440396073563536e-05,0.00015985506735696238,8000,3,calendar
+extreme_abs_151_h3,Vietnam,PM25_city_history_count,-3.7878638641205185e-05,2.64817367331463e-05,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,O3_city_past_anomaly,-0.00011668390525311952,0.0010658359959557987,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,time_index_months,-0.00016811889179990658,0.0013143776190436471,8000,3,calendar
+extreme_abs_151_h3,Vietnam,PM25_lag_1,-0.0002953969378137744,0.00033488789564120006,8000,3,lag
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_past_zscore,-0.0004241692593244066,0.00022125651202029291,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_roll_std_3,-0.000633417342167597,0.0007222735672511006,8000,3,rolling
+extreme_abs_151_h3,Vietnam,Wind_Speed (km/h),-0.0006334180003003861,0.0007978352103979009,8000,3,current_meteorology
+extreme_abs_151_h3,Vietnam,PM10_lag_1,-0.0008607246668037027,0.0005984478666351955,8000,3,lag
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_%,-0.0008947749813441042,0.0010878068449702582,8000,3,current_socio_environmental
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_past_anomaly,-0.0017560206204661661,0.0005623254796007475,8000,3,local_normalization
+extreme_abs_151_h3,Vietnam,CO2_Emission_MT,-0.0018252796656222,0.0011244349659369065,8000,3,current_socio_environmental
+extreme_abs_151_h3,Vietnam,AQI_roll_max_6,-0.002896937435306316,0.0017503760585322228,8000,3,rolling
+extreme_abs_151_h3,Vietnam,PM25_roll_std_3,-0.003084368666728806,0.0011599063303990719,8000,3,rolling
+extreme_abs_151_h3,Vietnam,AQI_roll_std_6,-0.003293934699900599,0.00293057913400089,8000,3,rolling
+extreme_abs_151_h3,Vietnam,CO_city_past_zscore,-0.007520669288005877,0.0018968137244647434,8000,3,local_normalization
