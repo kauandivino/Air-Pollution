@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8232,1.4134924155997803,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Ethiopia,8529,1.3642712586724577,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Australia,8717,1.3348479482869555,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Germany,8756,1.3289024172244623,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+United Kingdom,8768,1.3270836639162171,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Turkey,8889,1.3090189633499147,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Saudi Arabia,8967,1.2976323815342246,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+South Africa,8968,1.2974876856843656,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Bangladesh,9100,1.2786669851887242,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Vietnam,9117,1.2762827207653167,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Pakistan,9388,1.2394407291454401,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+France,9741,1.1945251581169687,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Russia,10156,1.145713820915458,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Brazil,10424,1.1162576328873168,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+South Korea,10506,1.1075451708754418,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Mexico,10544,1.103553638582833,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Indonesia,11252,1.0341156741217021,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Egypt,12697,0.9164266807291007,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Philippines,17040,0.6828561951418657,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+India,17065,0.6818558198193607,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+China,18457,0.6304312491313535,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+Japan,18898,0.6157196298665145,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
+United States,23414,0.49696205540349325,extreme_abs_151_h3,xgboost,local,inverse_country_size,Nigeria
