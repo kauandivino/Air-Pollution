@@ -1,0 +1,129 @@
+target,feature,importance,group
+extreme_abs_151_h1,AQI,0.13337931014496318,current_aqi
+extreme_abs_151_h1,PM2.5 (ug/m3),0.09302446525372589,current_pollutant
+extreme_abs_151_h1,PM10 (ug/m3),0.06410968536653872,current_pollutant
+extreme_abs_151_h1,humidity_PM25,0.06288849405714417,interaction
+extreme_abs_151_h1,AQI_roll_max_6,0.058480164541980253,rolling
+extreme_abs_151_h1,CO (mg/m3),0.05257330711457721,current_pollutant
+extreme_abs_151_h1,PM25_roll_mean_3,0.05005564130109799,rolling
+extreme_abs_151_h1,AQI_lag_12,0.04423483195712186,lag
+extreme_abs_151_h1,AQI_roll_mean_6,0.034517351261610964,rolling
+extreme_abs_151_h1,PM10_lag_1,0.0275359579239275,lag
+extreme_abs_151_h1,PM10_roll_mean_3,0.024285730594804197,rolling
+extreme_abs_151_h1,AQI_roll_mean_3,0.02342156177998994,rolling
+extreme_abs_151_h1,PM10_roll_max_3,0.022607667104090217,rolling
+extreme_abs_151_h1,low_wind_PM25,0.021719264538959893,interaction
+extreme_abs_151_h1,AQI_lag_1,0.02135940434068629,lag
+extreme_abs_151_h1,PM25_roll_max_3,0.020651574422177566,rolling
+extreme_abs_151_h1,NH3 (ug/m3),0.019345102136316152,current_pollutant
+extreme_abs_151_h1,PM25_lag_1,0.012431012408058549,lag
+extreme_abs_151_h1,AQI_roll_max_3,0.011195529156951285,rolling
+extreme_abs_151_h1,CO2_Emission_MT,0.010359253626441961,current_socio_environmental
+extreme_abs_151_h1,Toluene (ug/m3),0.010115908496859968,current_pollutant
+extreme_abs_151_h1,month,0.009350765786072527,calendar
+extreme_abs_151_h1,Population_Density_per_SqKm,0.009054584898219363,current_socio_environmental
+extreme_abs_151_h1,NO2 (ug/m3),0.009026980647269664,current_pollutant
+extreme_abs_151_h1,month_sin,0.008937325925287485,calendar
+extreme_abs_151_h1,Deforestation_Rate_lag_1,0.008163069552792066,lag
+extreme_abs_151_h1,Deforestation_Rate_%,0.007606357775663565,current_socio_environmental
+extreme_abs_151_h1,industry_NO2,0.007019533919691819,interaction
+extreme_abs_151_h1,NO (ug/m3),0.006579807253220794,current_pollutant
+extreme_abs_151_h1,Benzene (ug/m3),0.006543681989222836,current_pollutant
+extreme_abs_151_h1,CO_lag_1,0.006495601658944785,lag
+extreme_abs_151_h1,month_cos,0.006461723280746913,calendar
+extreme_abs_151_h1,PM25_lag_2,0.005413296111945498,lag
+extreme_abs_151_h1,SO2 (ug/m3),0.005383496957137841,current_pollutant
+extreme_abs_151_h1,NOx (ppb),0.005361383977370612,current_pollutant
+extreme_abs_151_h1,AQI_lag_6,0.005090332986542615,lag
+extreme_abs_151_h1,deforestation_aug_oct,0.005072163209369571,interaction
+extreme_abs_151_h1,PM25_PM10_ratio,0.004785983159711538,interaction
+extreme_abs_151_h1,AQI_delta_1,0.00443982941780243,rolling
+extreme_abs_151_h1,Xylene (ug/m3),0.004324713157932477,current_pollutant
+extreme_abs_151_h1,AQI_trend_3,0.004208428294304001,rolling
+extreme_abs_151_h1,quarter,0.0039106147962673496,calendar
+extreme_abs_151_h1,Humidity_lag_1,0.0037798980361495667,lag
+extreme_abs_151_h1,Industry_Growth_%,0.003432660007594243,current_socio_environmental
+extreme_abs_151_h1,PM10_lag_3,0.0029675386566179298,lag
+extreme_abs_151_h1,NO2_lag_1,0.0029044198233003,lag
+extreme_abs_151_h1,Humidity (%),0.0028116885510660714,current_meteorology
+extreme_abs_151_h1,O3 (ug/m3),0.0027943376970991727,current_pollutant
+extreme_abs_151_h1,AQI_roll_std_6,0.002473436835836024,rolling
+extreme_abs_151_h1,is_aug_oct,0.0024330272824915084,calendar
+extreme_abs_151_h1,AQI_lag_2,0.002389378408109534,lag
+extreme_abs_151_h1,PM10_roll_std_3,0.0023769073439448654,rolling
+extreme_abs_151_h1,SO2_lag_1,0.0023619080262256968,lag
+extreme_abs_151_h1,PM10_lag_2,0.00212586141860738,lag
+extreme_abs_151_h1,O3_lag_1,0.002039285326525016,lag
+extreme_abs_151_h1,Wind_Speed_lag_1,0.0019365367414112995,lag
+extreme_abs_151_h1,PM25_lag_3,0.0018572817865043247,lag
+extreme_abs_151_h1,Wind_Speed (km/h),0.0018103009833719509,current_meteorology
+extreme_abs_151_h1,AQI_roll_std_3,0.0016392028252046123,rolling
+extreme_abs_151_h1,time_index_months,0.00162812838977419,calendar
+extreme_abs_151_h1,AQI_lag_3,0.0016198706467022838,lag
+extreme_abs_151_h1,PM25_roll_std_3,0.0016160094194440958,rolling
+extreme_abs_151_h1,is_dec_feb,0.0008562364125440354,calendar
+extreme_abs_151_h1,year,0.0006251930979364144,calendar
+extreme_abs_151_h3,AQI_roll_mean_6,0.09290136579934648,rolling
+extreme_abs_151_h3,AQI_roll_max_6,0.07381366726109917,rolling
+extreme_abs_151_h3,PM2.5 (ug/m3),0.05297092575857064,current_pollutant
+extreme_abs_151_h3,PM25_roll_mean_3,0.050146197188991805,rolling
+extreme_abs_151_h3,AQI,0.048005364458595275,current_aqi
+extreme_abs_151_h3,humidity_PM25,0.04657903919198006,interaction
+extreme_abs_151_h3,PM10 (ug/m3),0.045516052049797584,current_pollutant
+extreme_abs_151_h3,AQI_lag_6,0.03753838885560505,lag
+extreme_abs_151_h3,PM10_roll_mean_3,0.03131509941332755,rolling
+extreme_abs_151_h3,PM10_roll_max_3,0.02926916927764054,rolling
+extreme_abs_151_h3,PM25_roll_max_3,0.02679644006847379,rolling
+extreme_abs_151_h3,CO (mg/m3),0.026014700967601376,current_pollutant
+extreme_abs_151_h3,Population_Density_per_SqKm,0.02273723538762868,current_socio_environmental
+extreme_abs_151_h3,AQI_roll_mean_3,0.020846981376064486,rolling
+extreme_abs_151_h3,CO2_Emission_MT,0.020679660593553254,current_socio_environmental
+extreme_abs_151_h3,month,0.018815872601836817,calendar
+extreme_abs_151_h3,NH3 (ug/m3),0.017864920777835778,current_pollutant
+extreme_abs_151_h3,Deforestation_Rate_%,0.017356302707663675,current_socio_environmental
+extreme_abs_151_h3,Deforestation_Rate_lag_1,0.016719612533762813,lag
+extreme_abs_151_h3,Humidity_lag_1,0.014857497071137364,lag
+extreme_abs_151_h3,PM10_lag_1,0.014405084168796508,lag
+extreme_abs_151_h3,month_sin,0.013161695021084309,calendar
+extreme_abs_151_h3,low_wind_PM25,0.013091008804984797,interaction
+extreme_abs_151_h3,SO2 (ug/m3),0.012545218358888362,current_pollutant
+extreme_abs_151_h3,quarter,0.012520430404004568,calendar
+extreme_abs_151_h3,PM10_lag_2,0.012457799715893853,lag
+extreme_abs_151_h3,AQI_roll_max_3,0.011623097891164263,rolling
+extreme_abs_151_h3,deforestation_aug_oct,0.011446376573745561,interaction
+extreme_abs_151_h3,month_cos,0.011348224994430018,calendar
+extreme_abs_151_h3,AQI_lag_1,0.010138328212832904,lag
+extreme_abs_151_h3,AQI_lag_12,0.009605606666498104,lag
+extreme_abs_151_h3,Benzene (ug/m3),0.00928210446556816,current_pollutant
+extreme_abs_151_h3,Toluene (ug/m3),0.009256703964399305,current_pollutant
+extreme_abs_151_h3,AQI_lag_3,0.009101192231435368,lag
+extreme_abs_151_h3,PM10_lag_3,0.008912838373328453,lag
+extreme_abs_151_h3,PM25_lag_2,0.008847448984714228,lag
+extreme_abs_151_h3,industry_NO2,0.00822832035383745,interaction
+extreme_abs_151_h3,PM25_lag_1,0.006874387938703954,lag
+extreme_abs_151_h3,Xylene (ug/m3),0.006287488173735085,current_pollutant
+extreme_abs_151_h3,is_aug_oct,0.006175440914550466,calendar
+extreme_abs_151_h3,NO2 (ug/m3),0.0058387484376788545,current_pollutant
+extreme_abs_151_h3,Humidity (%),0.005810198734452343,current_meteorology
+extreme_abs_151_h3,Industry_Growth_%,0.005372323623701084,current_socio_environmental
+extreme_abs_151_h3,NO (ug/m3),0.005277415228887028,current_pollutant
+extreme_abs_151_h3,AQI_roll_std_6,0.00454080396161935,rolling
+extreme_abs_151_h3,O3_lag_1,0.004084641965449723,lag
+extreme_abs_151_h3,NO2_lag_1,0.004038652914665172,lag
+extreme_abs_151_h3,SO2_lag_1,0.0039593543869271145,lag
+extreme_abs_151_h3,NOx (ppb),0.0039223917625418854,current_pollutant
+extreme_abs_151_h3,PM25_PM10_ratio,0.003913843211999114,interaction
+extreme_abs_151_h3,CO_lag_1,0.0036663339647304673,lag
+extreme_abs_151_h3,Wind_Speed_lag_1,0.0033912276923471346,lag
+extreme_abs_151_h3,O3 (ug/m3),0.0032751939160265966,current_pollutant
+extreme_abs_151_h3,is_dec_feb,0.003208084417470569,calendar
+extreme_abs_151_h3,PM25_lag_3,0.00309315682939065,lag
+extreme_abs_151_h3,Wind_Speed (km/h),0.0029782124524397537,current_meteorology
+extreme_abs_151_h3,PM10_roll_std_3,0.002914093168760475,rolling
+extreme_abs_151_h3,AQI_lag_2,0.0028748963181460105,lag
+extreme_abs_151_h3,AQI_trend_3,0.002422930568903527,rolling
+extreme_abs_151_h3,PM25_roll_std_3,0.0024010121394225886,rolling
+extreme_abs_151_h3,AQI_roll_std_3,0.0021113982462582994,rolling
+extreme_abs_151_h3,AQI_delta_1,0.0020768333855568813,rolling
+extreme_abs_151_h3,time_index_months,0.0019902308094541894,calendar
+extreme_abs_151_h3,year,0.0007847323100633978,calendar
