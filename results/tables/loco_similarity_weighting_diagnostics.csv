@@ -1,0 +1,553 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Australia,South Africa,0.4596832087370165,1.5284694628969226,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Germany,0.6202830968156856,1.4105320020300451,extreme_abs_151_h3,xgboost,local,2.0
+Australia,France,0.6290274453150737,1.4043783725053562,extreme_abs_151_h3,xgboost,local,2.0
+Australia,United Kingdom,0.639483958471362,1.397055082741675,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Thailand,0.7992529838949864,1.289793329814499,extreme_abs_151_h3,xgboost,local,2.0
+Australia,United States,0.932887045957595,1.206429251681714,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Turkey,1.010776429052223,1.160348363637644,extreme_abs_151_h3,xgboost,local,2.0
+Australia,South Korea,1.0260601933613132,1.151514913266096,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Saudi Arabia,1.0871463638606889,1.116875780894864,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Philippines,1.184891007398021,1.0636038331727082,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Japan,1.230505066615717,1.0396207204189774,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Indonesia,1.3805209882163565,0.9644936734487978,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Ethiopia,1.5021414622371154,0.9075902733010488,extreme_abs_151_h3,xgboost,local,2.0
+Australia,China,1.5402657896459395,0.8904534899272196,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Brazil,1.6148927058890827,0.8578398388682826,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Mexico,1.6163470482306637,0.8572162692167163,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Russia,1.622417661604592,0.8546182997542389,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Vietnam,1.6619473016915198,0.8378927560147762,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Egypt,1.7719151856422983,0.7930657841134274,extreme_abs_151_h3,xgboost,local,2.0
+Australia,India,1.8987998398393977,0.7443146388403209,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Nigeria,2.221723017524533,0.6333367417990511,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Bangladesh,2.920944412082097,0.4464786402476572,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Pakistan,2.931724920564589,0.444078481407969,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Pakistan,0.6968638402570901,2.004619951328443,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Nigeria,1.15279634659193,1.5959804333784466,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,India,1.5719251772195524,1.2942402246324658,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,China,1.755220015267408,1.180899462928794,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Russia,1.7747920545185378,1.1693995187239254,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Egypt,1.889072074107024,1.1044532050150402,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Mexico,1.9184259012061395,1.08836161708673,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Ethiopia,1.9622137674897964,1.0647920572784209,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Indonesia,2.162544377188392,0.9633044437948884,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Brazil,2.1995295923651645,0.9456541358335095,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Turkey,2.208123600899585,0.941599373880244,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Vietnam,2.287923342611399,0.9047693235791626,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Thailand,2.366016708545493,0.8701219177451823,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,South Korea,2.411725592259653,0.8504612890780895,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Philippines,2.41816680605848,0.8477266934752057,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Saudi Arabia,2.453426803489013,0.8329122460161845,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Japan,2.5354323074657312,0.7994512363330581,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,United States,2.558816408237308,0.7901584439584873,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,United Kingdom,2.562980562547501,0.7885149846117011,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,France,2.5881674816722,0.7786471187396223,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Germany,2.600019119075145,0.7740466413413133,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,South Africa,2.6615596344902177,0.7505917340604603,extreme_abs_151_h3,xgboost,local,2.0
+Bangladesh,Australia,2.920944412082097,0.659293947180621,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Russia,0.7121512600727223,1.2955541311972745,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Indonesia,0.7440570538321982,1.275050272553598,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Philippines,0.7827606043621457,1.2506130011436478,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Ethiopia,0.8334533639292256,1.2193128376557396,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Vietnam,0.8747626907354921,1.1943866485845636,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Mexico,0.892680178121513,1.183734232110002,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,China,1.0599188739683478,1.0887766181226373,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Thailand,1.068645427013376,1.084036333772758,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,United Kingdom,1.103551003094798,1.0652810197408848,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Turkey,1.1065560331041222,1.0636816208858253,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Germany,1.1147477733698157,1.0593338291773484,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Japan,1.1989500736608618,1.0156604569373078,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,United States,1.222450413231151,1.0037961146477432,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,South Korea,1.2376871926468138,0.9961778609188796,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,India,1.3130586460853624,0.959334764048852,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,France,1.3294831431410288,0.9514887294335378,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,South Africa,1.4057501923048874,0.915888211182336,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Nigeria,1.577072904838041,0.8406983880642449,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Australia,1.6148927058890827,0.8249502324735105,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Saudi Arabia,1.6550618207785288,0.808546751876736,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Egypt,1.923152930778926,0.7071147426127165,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Bangladesh,2.1995295923651645,0.6158507326248531,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Pakistan,2.3169584533819165,0.5807324702350092,extreme_abs_151_h3,xgboost,local,2.0
+China,Ethiopia,0.6971670659163055,1.2368075936666192,extreme_abs_151_h3,xgboost,local,2.0
+China,Russia,0.8112934017999147,1.1682073223420828,extreme_abs_151_h3,xgboost,local,2.0
+China,South Korea,0.8116207776419144,1.168016116563657,extreme_abs_151_h3,xgboost,local,2.0
+China,Mexico,0.9106319398282158,1.1116007589554568,extreme_abs_151_h3,xgboost,local,2.0
+China,Japan,0.9759477735396628,1.0758845761932392,extreme_abs_151_h3,xgboost,local,2.0
+China,Indonesia,1.000022933073101,1.0630111675786664,extreme_abs_151_h3,xgboost,local,2.0
+China,Thailand,1.005441413011853,1.0601351129558203,extreme_abs_151_h3,xgboost,local,2.0
+China,India,1.0422902517636383,1.0407815753611214,extreme_abs_151_h3,xgboost,local,2.0
+China,United States,1.0568225016671278,1.033246534812143,extreme_abs_151_h3,xgboost,local,2.0
+China,Brazil,1.0599188739683478,1.0316481144821583,extreme_abs_151_h3,xgboost,local,2.0
+China,Nigeria,1.066233100951013,1.0283962203021808,extreme_abs_151_h3,xgboost,local,2.0
+China,Turkey,1.0674437068680829,1.027773917387384,extreme_abs_151_h3,xgboost,local,2.0
+China,Philippines,1.1143511798176458,1.0039492595049615,extreme_abs_151_h3,xgboost,local,2.0
+China,Saudi Arabia,1.1316418212732002,0.9953072066481236,extreme_abs_151_h3,xgboost,local,2.0
+China,United Kingdom,1.1357664500685365,0.9932566854022572,extreme_abs_151_h3,xgboost,local,2.0
+China,Germany,1.1636795465455072,0.9794905379624442,extreme_abs_151_h3,xgboost,local,2.0
+China,France,1.177377777412821,0.972804815978372,extreme_abs_151_h3,xgboost,local,2.0
+China,South Africa,1.1804124252598425,0.9713298752226048,extreme_abs_151_h3,xgboost,local,2.0
+China,Vietnam,1.3111608618478474,0.9098610719033132,extreme_abs_151_h3,xgboost,local,2.0
+China,Egypt,1.380541666610411,0.8788388233643999,extreme_abs_151_h3,xgboost,local,2.0
+China,Australia,1.5402657896459395,0.8113823968244638,extreme_abs_151_h3,xgboost,local,2.0
+China,Bangladesh,1.755220015267408,0.7287001590255155,extreme_abs_151_h3,xgboost,local,2.0
+China,Pakistan,1.808425951450428,0.7095701575630126,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Turkey,1.136914815064486,1.2392759099612378,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Saudi Arabia,1.1702376878648035,1.2187988554818496,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Thailand,1.3644490660439188,1.1060113220538503,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,China,1.380541666610411,1.0971477302218735,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Mexico,1.403119816913423,1.0848315967217863,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Ethiopia,1.4213597771562214,1.0749829321996212,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Nigeria,1.4743578311847985,1.046871044269261,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Russia,1.4855263043897888,1.0410413609804108,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,India,1.5067579190734472,1.0300483197000734,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,France,1.538169386459627,1.0139970336581512,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,South Korea,1.5657295736363894,1.0001198933765292,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,United Kingdom,1.5723400706729675,0.9968197055557412,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Germany,1.6150465042221342,0.9757600442450326,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Pakistan,1.6169843875570078,0.9748150475780007,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,South Africa,1.6354854699677617,0.9658390611867956,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,United States,1.6806855599210937,0.944255864223452,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Philippines,1.6849134716285423,0.942261857375657,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Vietnam,1.6877117561894068,0.9409444208272704,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Australia,1.7719151856422983,0.9021514035793846,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Japan,1.869231879793504,0.8593050765654473,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Indonesia,1.873550860523064,0.8574514177317557,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Bangladesh,1.889072074107024,0.8508228286405874,extreme_abs_151_h3,xgboost,local,2.0
+Egypt,Brazil,1.923152930778926,0.8364472738662354,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Mexico,0.5318297038572102,1.3103611091433134,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Russia,0.6591245971437487,1.229558680202739,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,China,0.6971670659163055,1.206391984416047,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Brazil,0.8334533639292256,1.1269230172232176,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Turkey,0.8765522020151557,1.1028982702710362,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Philippines,0.9004287108129546,1.0898098719073714,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Thailand,0.9047178108493616,1.0874752244056771,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,United Kingdom,0.9903181255403402,1.0419131017498209,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Germany,1.01278727753315,1.0302731571759036,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,South Korea,1.0144604045815353,1.0294116286445718,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Vietnam,1.044368295725716,1.0141323903555883,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Indonesia,1.0444272180892806,1.014102513256994,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Japan,1.06975560453935,1.0013407026598125,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,United States,1.0973130537622289,0.9876381236958882,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Nigeria,1.1022246651441416,0.9852156521483068,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Saudi Arabia,1.1027222678377335,0.9849705596581028,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,France,1.1706671965855588,0.952070691374014,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,India,1.1908264732743048,0.942522365802608,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,South Africa,1.2272374962432897,0.9255185155874516,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Egypt,1.4213597771562214,0.8399085336479194,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Australia,1.5021414622371154,0.8066599103543339,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Pakistan,1.933974085684816,0.6500087622151967,extreme_abs_151_h3,xgboost,local,2.0
+Ethiopia,Bangladesh,1.9622137674897964,0.6408952341040894,extreme_abs_151_h3,xgboost,local,2.0
+France,United Kingdom,0.406012609056984,1.3713146773363951,extreme_abs_151_h3,xgboost,local,2.0
+France,Germany,0.4077123805024065,1.3701497116847416,extreme_abs_151_h3,xgboost,local,2.0
+France,United States,0.4112270599316971,1.367744007620152,extreme_abs_151_h3,xgboost,local,2.0
+France,South Africa,0.5047514843855468,1.305257658213288,extreme_abs_151_h3,xgboost,local,2.0
+France,Thailand,0.5095174316829632,1.3021509666611717,extreme_abs_151_h3,xgboost,local,2.0
+France,Australia,0.6290274453150737,1.226620074522604,extreme_abs_151_h3,xgboost,local,2.0
+France,South Korea,0.7238010685349808,1.1698501555816334,extreme_abs_151_h3,xgboost,local,2.0
+France,Japan,0.7742888849691646,1.1406881951694885,extreme_abs_151_h3,xgboost,local,2.0
+France,Turkey,0.7817358979221979,1.1364487330176465,extreme_abs_151_h3,xgboost,local,2.0
+France,Philippines,0.8911352913162208,1.0759549115144842,extreme_abs_151_h3,xgboost,local,2.0
+France,Saudi Arabia,0.9309079307775048,1.054769476467338,extreme_abs_151_h3,xgboost,local,2.0
+France,Indonesia,1.0528437127368224,0.992383500017272,extreme_abs_151_h3,xgboost,local,2.0
+France,Ethiopia,1.1706671965855588,0.9356092144910604,extreme_abs_151_h3,xgboost,local,2.0
+France,China,1.177377777412821,0.9324752345094562,extreme_abs_151_h3,xgboost,local,2.0
+France,Russia,1.1840910312219597,0.929350510250057,extreme_abs_151_h3,xgboost,local,2.0
+France,Mexico,1.2306742193184974,0.9079545951827592,extreme_abs_151_h3,xgboost,local,2.0
+France,Brazil,1.3294831431410288,0.864187630479837,extreme_abs_151_h3,xgboost,local,2.0
+France,Vietnam,1.3581317110482074,0.8518969988740416,extreme_abs_151_h3,xgboost,local,2.0
+France,Egypt,1.538169386459627,0.7785605674769669,extreme_abs_151_h3,xgboost,local,2.0
+France,India,1.7019521700393256,0.7173439241722637,extreme_abs_151_h3,xgboost,local,2.0
+France,Nigeria,1.914706015517184,0.6449536630266077,extreme_abs_151_h3,xgboost,local,2.0
+France,Pakistan,2.574270498585913,0.4637734749190052,extreme_abs_151_h3,xgboost,local,2.0
+France,Bangladesh,2.5881674816722,0.4605621188117293,extreme_abs_151_h3,xgboost,local,2.0
+Germany,United Kingdom,0.072809756257476,1.5676133634484877,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Thailand,0.3646699533048578,1.3547598600437114,extreme_abs_151_h3,xgboost,local,2.0
+Germany,France,0.4077123805024065,1.325915282183608,extreme_abs_151_h3,xgboost,local,2.0
+Germany,South Africa,0.5338569516836945,1.2448695114906427,extreme_abs_151_h3,xgboost,local,2.0
+Germany,United States,0.5509713228446906,1.2342623803779125,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Australia,0.6202830968156856,1.1922206276304232,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Turkey,0.649046783567134,1.1751970062485495,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Philippines,0.6741198762063109,1.160556059750229,extreme_abs_151_h3,xgboost,local,2.0
+Germany,South Korea,0.7544999052504555,1.1148381501867772,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Japan,0.8230711407244093,1.0772630588719314,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Indonesia,0.9718324715464308,1.000042955367225,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Saudi Arabia,1.0049234528835218,0.9836328846743017,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Ethiopia,1.01278727753315,0.9797729199063792,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Mexico,1.1055609609856902,0.9353623447486976,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Russia,1.1068280561542816,0.934769935874162,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Brazil,1.1147477733698157,0.9310756982539125,extreme_abs_151_h3,xgboost,local,2.0
+Germany,China,1.1636795465455072,0.9085725085440578,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Vietnam,1.16838110207191,0.906439164985448,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Egypt,1.6150465042221342,0.7250141827585758,extreme_abs_151_h3,xgboost,local,2.0
+Germany,India,1.6382153130360984,0.7166637858361248,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Nigeria,1.8487213104830065,0.6450667591246018,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Bangladesh,2.600019119075145,0.4430598708958439,extreme_abs_151_h3,xgboost,local,2.0
+Germany,Pakistan,2.600146338873805,0.4430316887983987,extreme_abs_151_h3,xgboost,local,2.0
+India,China,1.0422902517636383,1.242437378132992,extreme_abs_151_h3,xgboost,local,2.0
+India,Ethiopia,1.1908264732743048,1.153507115315825,extreme_abs_151_h3,xgboost,local,2.0
+India,Russia,1.2240836780917024,1.1344845021821262,extreme_abs_151_h3,xgboost,local,2.0
+India,Nigeria,1.271998689922928,1.1076280740630404,extreme_abs_151_h3,xgboost,local,2.0
+India,Turkey,1.2804797733480349,1.1029410757424642,extreme_abs_151_h3,xgboost,local,2.0
+India,Indonesia,1.298525325713846,1.0930342460365634,extreme_abs_151_h3,xgboost,local,2.0
+India,Brazil,1.3130586460853624,1.0851203263060138,extreme_abs_151_h3,xgboost,local,2.0
+India,Mexico,1.3510888884007193,1.0646815703820174,extreme_abs_151_h3,xgboost,local,2.0
+India,Vietnam,1.405277882628883,1.03622185057397,extreme_abs_151_h3,xgboost,local,2.0
+India,Philippines,1.4416448527083665,1.0175500001798834,extreme_abs_151_h3,xgboost,local,2.0
+India,Thailand,1.4418128720344752,1.017464519737869,extreme_abs_151_h3,xgboost,local,2.0
+India,South Korea,1.4978797128909678,0.9893375979874026,extreme_abs_151_h3,xgboost,local,2.0
+India,Egypt,1.5067579190734472,0.984955559753534,extreme_abs_151_h3,xgboost,local,2.0
+India,Bangladesh,1.5719251772195524,0.9533793603614312,extreme_abs_151_h3,xgboost,local,2.0
+India,United Kingdom,1.609488326999242,0.93564049783583,extreme_abs_151_h3,xgboost,local,2.0
+India,Saudi Arabia,1.6144580235921584,0.9333184592902276,extreme_abs_151_h3,xgboost,local,2.0
+India,South Africa,1.6189956827530037,0.9312033191154554,extreme_abs_151_h3,xgboost,local,2.0
+India,Germany,1.6382153130360984,0.922297487593476,extreme_abs_151_h3,xgboost,local,2.0
+India,France,1.7019521700393256,0.8933687214984471,extreme_abs_151_h3,xgboost,local,2.0
+India,Pakistan,1.7364333025967509,0.8780985502802218,extreme_abs_151_h3,xgboost,local,2.0
+India,United States,1.7705155556954872,0.8632615404966393,extreme_abs_151_h3,xgboost,local,2.0
+India,Japan,1.800443953424436,0.8504396967052035,extreme_abs_151_h3,xgboost,local,2.0
+India,Australia,1.8987998398393977,0.8096285504293704,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Brazil,0.7440570538321982,1.2358704665609153,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Philippines,0.7492712167189535,1.2326526479812714,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Russia,0.8100111707920533,1.19577976374575,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Thailand,0.9169852808798866,1.13350141521779,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Japan,0.9510597178537852,1.1143532825811784,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,United Kingdom,0.9581973575616084,1.1103834444940002,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,South Korea,0.9584397859945458,1.110248858391835,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Germany,0.9718324715464308,1.102839088337972,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,United States,0.987833481223088,1.0940510202420488,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,China,1.000022933073101,1.0874033575444435,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Turkey,1.0369904980250078,1.0674886469944425,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Ethiopia,1.0444272180892806,1.06352671039293,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Vietnam,1.0448078849710938,1.0633243049575176,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,France,1.0528437127368224,1.0590605309451058,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,South Africa,1.1282823375440183,1.0198574995069205,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Mexico,1.154494293369602,1.0065784770058863,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,India,1.298525325713846,0.9366378387658952,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Australia,1.3805209882163565,0.8990142315927282,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Saudi Arabia,1.5896290877434716,0.8097655935071417,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Nigeria,1.6314101266227012,0.7930246420478274,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Egypt,1.873550860523064,0.7025973222780862,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Bangladesh,2.162544377188392,0.6080682751587093,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Pakistan,2.3488883296577576,0.5539725817496064,extreme_abs_151_h3,xgboost,local,2.0
+Japan,United States,0.4462832415303286,1.4353654841656611,extreme_abs_151_h3,xgboost,local,2.0
+Japan,South Korea,0.5930898646905709,1.3337789085006757,extreme_abs_151_h3,xgboost,local,2.0
+Japan,France,0.7742888849691646,1.2182515655988766,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Germany,0.8230711407244093,1.1888964928712595,extreme_abs_151_h3,xgboost,local,2.0
+Japan,United Kingdom,0.8250468850000319,1.1877225950771386,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Thailand,0.8890336191513076,1.150324781008354,extreme_abs_151_h3,xgboost,local,2.0
+Japan,South Africa,0.9276359736067722,1.1283350549985651,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Indonesia,0.9510597178537852,1.1151972235964052,extreme_abs_151_h3,xgboost,local,2.0
+Japan,China,0.9759477735396628,1.1014056675219768,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Philippines,1.0039153748679184,1.0861110181152895,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Ethiopia,1.06975560453935,1.050938241041817,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Russia,1.0773724331350163,1.0469434445668824,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Mexico,1.176568096359369,0.9962840036333118,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Turkey,1.1854685393452933,0.9918601699680492,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Brazil,1.1989500736608618,0.985196755004556,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Australia,1.230505066615717,0.9697747965341912,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Saudi Arabia,1.2418570343663324,0.9642859624293648,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Vietnam,1.4445626407282712,0.8713424679592171,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Nigeria,1.763956048126428,0.742734306543571,extreme_abs_151_h3,xgboost,local,2.0
+Japan,India,1.800443953424436,0.729306755264534,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Egypt,1.869231879793504,0.7046494671398403,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Bangladesh,2.5354323074657312,0.5050211227335046,extreme_abs_151_h3,xgboost,local,2.0
+Japan,Pakistan,2.570377577182108,0.496273715726956,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Ethiopia,0.5318297038572102,1.356452011178466,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Russia,0.583683768642724,1.3217352322002884,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Turkey,0.8883618333425969,1.1349702178468553,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Brazil,0.892680178121513,1.1325222652165228,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,China,0.9106319398282158,1.1224023657496984,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Thailand,0.9654428768158206,1.0920600744803997,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Philippines,1.019627041375189,1.062871073817656,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Vietnam,1.076470620564732,1.033087630067584,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,United Kingdom,1.0780459494828123,1.0322742240458669,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Germany,1.1055609609856902,1.0181699477603314,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Nigeria,1.146324840932642,0.9976277253132352,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Indonesia,1.154494293369602,0.9935610005703924,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,United States,1.1626478821446038,0.9895187020682172,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Japan,1.176568096359369,0.9826554580800688,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,South Korea,1.1853126854541198,0.9783683779968518,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,France,1.2306742193184974,0.9564279858370112,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Saudi Arabia,1.2360921902451685,0.9538405425820852,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,India,1.3510888884007193,0.9005432229154026,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,South Africa,1.3857670792085983,0.8850632105925823,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Egypt,1.403119816913423,0.8774172930849682,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Australia,1.6163470482306637,0.7886866410658061,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Pakistan,1.8219938845489272,0.7116211408071147,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Bangladesh,1.9184259012061395,0.6781236567225948,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,China,1.066233100951013,1.2724033628640012,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Ethiopia,1.1022246651441416,1.2497102715928126,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Russia,1.1459533148175098,1.2226827462572365,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Mexico,1.146324840932642,1.2224556380666671,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Bangladesh,1.15279634659193,1.2185064664939076,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Pakistan,1.1846599026888482,1.199247315542205,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,India,1.271998689922928,1.1480039392951995,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Egypt,1.4743578311847985,1.0375323555433948,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Turkey,1.5476708697797985,1.0001886571983951,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Brazil,1.577072904838041,0.9855924188714488,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Indonesia,1.6314101266227012,0.9591757193604716,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,South Korea,1.645821743898723,0.9522889249368556,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Thailand,1.6640021904519622,0.94367163188299,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Saudi Arabia,1.6895646615620592,0.9316870942177792,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Japan,1.763956048126428,0.8976689333408752,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Vietnam,1.7651828881643057,0.8971184541015385,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Philippines,1.7668363602338102,0.8963770804504747,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,United Kingdom,1.8191442728696985,0.8732371922716242,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Germany,1.8487213104830065,0.8604183272674141,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,United States,1.8494785859483196,0.8600926020926539,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,France,1.914706015517184,0.8324942754697198,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,South Africa,1.931769924569931,0.8254216865749601,extreme_abs_151_h3,xgboost,local,2.0
+Nigeria,Australia,2.221723017524533,0.7140249063073758,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Bangladesh,0.6968638402570901,2.0067963555042927,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Nigeria,1.1846599026888482,1.5724604627281995,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Egypt,1.6169843875570078,1.2667813632552,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,India,1.7364333025967509,1.1933385298802557,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,China,1.808425951450428,1.1511466608044036,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Russia,1.812295905304372,1.1489213722115432,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Mexico,1.8219938845489272,1.1433637497173308,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Ethiopia,1.933974085684816,1.0811058741973014,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Turkey,2.142419669537149,0.9741029165750068,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Vietnam,2.2767244427328475,0.9108375631755348,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Brazil,2.3169584533819165,0.8926973145727533,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Saudi Arabia,2.318847605383008,0.8918544922312,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Thailand,2.3391670085379253,0.8828393896599476,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Indonesia,2.3488883296577576,0.8785586191721528,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,South Korea,2.4351106985239594,0.8414877426075253,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Philippines,2.4435176749123446,0.8379579826654073,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,United Kingdom,2.557577538984198,0.7915064490500412,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,United States,2.5628676502233048,0.7894156368453532,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Japan,2.570377577182108,0.7864569682815064,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,France,2.574270498585913,0.784927649561249,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Germany,2.600146338873805,0.7748377303423918,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,South Africa,2.686368385754775,0.7421434874512778,extreme_abs_151_h3,xgboost,local,2.0
+Pakistan,Australia,2.931724920564589,0.6564616895101298,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Vietnam,0.5635514477773921,1.2851646885083663,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Thailand,0.627477546496159,1.244736452835706,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,United Kingdom,0.6567595213429097,1.2266450433035196,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Germany,0.6741198762063109,1.216043624344724,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Turkey,0.6924322079071176,1.2049601457551695,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Indonesia,0.7492712167189535,1.1711978024827008,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Brazil,0.7827606043621457,1.1517497342592364,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Russia,0.8807278114530929,1.0966923448156551,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,France,0.8911352913162208,1.0910002659619111,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,United States,0.8941462299687519,1.089359034248538,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Ethiopia,0.9004287108129546,1.085942464558768,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,South Korea,0.9945856931324282,1.0360026996989404,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Japan,1.0039153748679184,1.031181166552066,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Mexico,1.019627041375189,1.0231121153116949,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,South Africa,1.046905286322305,1.0092524952476063,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,China,1.1143511798176458,0.9757850098547508,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Australia,1.184891007398021,0.9419690058781393,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Saudi Arabia,1.4080724557355488,0.8425067275367675,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,India,1.4416448527083665,0.8284822802716394,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Egypt,1.6849134716285423,0.7335979595037758,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Nigeria,1.7668363602338102,0.7041558398980796,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Bangladesh,2.41816680605848,0.5084335214039959,extreme_abs_151_h3,xgboost,local,2.0
+Philippines,Pakistan,2.4435176749123446,0.5020295777682443,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Mexico,0.583683768642724,1.2929367597736277,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Ethiopia,0.6591245971437487,1.2450750069589005,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Brazil,0.7121512600727223,1.212497695477725,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Indonesia,0.8100111707920533,1.1545982960268812,extreme_abs_151_h3,xgboost,local,2.0
+Russia,China,0.8112934017999147,1.1538583023945284,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Philippines,0.8807278114530929,1.1144869533568629,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Turkey,0.926954949784314,1.0890226017588789,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Vietnam,0.9307692930369752,1.086947628046809,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Thailand,0.9786545122788826,1.0612323392959295,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Japan,1.0773724331350163,1.010122748522922,extreme_abs_151_h3,xgboost,local,2.0
+Russia,United States,1.080679243782298,1.0084539861434496,extreme_abs_151_h3,xgboost,local,2.0
+Russia,United Kingdom,1.085680178560763,1.0059355298087107,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Germany,1.1068280561542816,0.9953548673054332,extreme_abs_151_h3,xgboost,local,2.0
+Russia,South Korea,1.1377642384572602,0.9800770911217022,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Nigeria,1.1459533148175098,0.976072332466308,extreme_abs_151_h3,xgboost,local,2.0
+Russia,France,1.1840910312219597,0.9576360853025756,extreme_abs_151_h3,xgboost,local,2.0
+Russia,India,1.2240836780917024,0.9386770714253032,extreme_abs_151_h3,xgboost,local,2.0
+Russia,South Africa,1.385240005192198,0.8660073099807851,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Saudi Arabia,1.4321079326895876,0.8459492637359151,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Egypt,1.4855263043897888,0.8236537209472543,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Australia,1.622417661604592,0.7691642389482649,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Bangladesh,1.7747920545185378,0.7127404471878226,extreme_abs_151_h3,xgboost,local,2.0
+Russia,Pakistan,1.812295905304372,0.6994997240134092,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,South Africa,0.872978089473261,1.232640655779982,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,France,0.9309079307775048,1.197449432804049,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Thailand,0.9481364698249768,1.187178582099774,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,South Korea,0.965086317820416,1.1771598478162348,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,United Kingdom,0.9864275655517036,1.1646655971269386,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Turkey,0.9980003446025204,1.157945848605726,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Germany,1.0049234528835218,1.1539444858214452,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,United States,1.0675789685899777,1.1183543821819228,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Australia,1.0871463638606889,1.1074660917808008,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Ethiopia,1.1027222678377335,1.0988746971374626,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,China,1.1316418212732002,1.0830995418492575,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Egypt,1.1702376878648035,1.0623983467200586,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Mexico,1.2360921902451685,1.0279861481438957,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Japan,1.2418570343663324,1.0250273245303214,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Philippines,1.4080724557355488,0.9432834668834672,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Russia,1.4321079326895876,0.9320151781614364,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Indonesia,1.5896290877434716,0.8614254547348682,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,India,1.6144580235921584,0.8507974232340593,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Brazil,1.6550618207785288,0.8336987750228837,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Nigeria,1.6895646615620592,0.8194396358158765,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Vietnam,1.718636052675742,0.8076146610629429,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Pakistan,2.318847605383008,0.5982323740191486,extreme_abs_151_h3,xgboost,local,2.0
+Saudi Arabia,Bangladesh,2.453426803489013,0.5593020486674514,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Australia,0.4596832087370165,1.3860852738242877,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,France,0.5047514843855468,1.3552003269568778,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,United Kingdom,0.5334577666317704,1.3358878741439832,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Germany,0.5338569516836945,1.335621267516011,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Thailand,0.6255165805372858,1.275791458898454,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,South Korea,0.6278181288249653,1.2743241555039526,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,United States,0.7295693951778642,1.211113677314836,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Saudi Arabia,0.872978089473261,1.1273119388064632,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Turkey,0.8881336132312787,1.1188017222910729,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Japan,0.9276359736067722,1.0969208655737694,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Philippines,1.046905286322305,1.033418651320053,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Indonesia,1.1282823375440183,0.9922143261940224,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,China,1.1804124252598425,0.9666863553684676,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Ethiopia,1.2272374962432897,0.9443166641721608,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Russia,1.385240005192198,0.8725852043773452,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Mexico,1.3857670792085983,0.8723552761818089,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Brazil,1.4057501923048874,0.8636824885847335,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Vietnam,1.5310829146393523,0.8112196452263923,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,India,1.6189956827530037,0.7763337096678236,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Egypt,1.6354854699677617,0.7699592353694245,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Nigeria,1.931769924569931,0.6639423643733847,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Bangladesh,2.6615596344902177,0.4609550303110943,extreme_abs_151_h3,xgboost,local,2.0
+South Africa,Pakistan,2.686368385754775,0.4552724880235852,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Japan,0.5930898646905709,1.272054518532005,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,South Africa,0.6278181288249653,1.2501570612404358,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,United States,0.6375107428346092,1.2441130736565358,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Thailand,0.678294699446288,1.2190000689997769,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,France,0.7238010685349808,1.1915770985038483,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,United Kingdom,0.730730693797889,1.1874556512659644,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Germany,0.7544999052504555,1.1734267382078762,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,China,0.8116207776419144,1.140387216128958,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Turkey,0.9462675389958553,1.0661398274186429,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Indonesia,0.9584397859945458,1.059670874153618,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Saudi Arabia,0.965086317820416,1.0561551511355107,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Philippines,0.9945856931324282,1.0406915147891065,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Ethiopia,1.0144604045815353,1.030401007903922,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Australia,1.0260601933613132,1.0244420881357317,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Russia,1.1377642384572602,0.9687934357633072,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Mexico,1.1853126854541198,0.9460327548985468,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Brazil,1.2376871926468138,0.9215803236288524,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Vietnam,1.4080602119375194,0.8463249858218315,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,India,1.4978797128909678,0.8091575780485932,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Egypt,1.5657295736363894,0.7821673725125248,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Nigeria,1.645821743898723,0.7514635190667055,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Bangladesh,2.411725592259653,0.512382153242335,extreme_abs_151_h3,xgboost,local,2.0
+South Korea,Pakistan,2.4351106985239594,0.5064259869453756,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,United Kingdom,0.2971548981872281,1.3722253650811749,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Germany,0.3646699533048578,1.3266755790981972,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Turkey,0.4121156125469599,1.2955734541830273,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,France,0.5095174316829632,1.233989614510453,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,South Africa,0.6255165805372858,1.164454730430544,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Philippines,0.627477546496159,1.1633135619266013,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,United States,0.6462221949445969,1.1524615438030383,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,South Korea,0.678294699446288,1.1341277751398064,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Australia,0.7992529838949864,1.067569674906358,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Japan,0.8890336191513076,1.0207058681929984,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Ethiopia,0.9047178108493616,1.0127326989809873,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Indonesia,0.9169852808798866,1.006539876944711,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Saudi Arabia,0.9481364698249768,0.9909838814278618,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Mexico,0.9654428768158206,0.9824456908681516,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Russia,0.9786545122788826,0.975977221988298,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,China,1.005441413011853,0.9629926676008868,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Vietnam,1.0318751792253202,0.9503486474095704,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Brazil,1.068645427013376,0.9330360049775666,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Egypt,1.3644490660439188,0.8047582897342803,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,India,1.4418128720344752,0.7742230947247782,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Nigeria,1.6640021904519622,0.6928166632037692,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Pakistan,2.3391670085379253,0.4943199600252156,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Bangladesh,2.366016708545493,0.4877281348417251,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Thailand,0.4121156125469599,1.3519540905105685,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,United Kingdom,0.604371194307171,1.2280446996650425,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Germany,0.649046783567134,1.2009170038156212,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Philippines,0.6924322079071176,1.1751463847957218,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,France,0.7817358979221979,1.1238281829397685,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Ethiopia,0.8765522020151557,1.0717927627041168,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,South Africa,0.8881336132312787,1.0656042615295402,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Mexico,0.8883618333425969,1.0654826723053552,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Vietnam,0.8954573012850566,1.0617093206147967,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Russia,0.926954949784314,1.0451196241150216,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,South Korea,0.9462675389958553,1.0350762102484403,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,United States,0.967069136915196,1.0243663826057157,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Saudi Arabia,0.9980003446025204,1.0086458153167943,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Australia,1.010776429052223,1.002223079453656,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Indonesia,1.0369904980250078,0.9891726202301496,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,China,1.0674437068680829,0.9742249698165304,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Brazil,1.1065560331041222,0.9553579519264108,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Egypt,1.136914815064486,0.9409657091349846,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Japan,1.1854685393452933,0.9183970706199596,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,India,1.2804797733480349,0.8757881457204868,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Nigeria,1.5476708697797985,0.76626546571435,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Pakistan,2.142419669537149,0.5691558344076665,extreme_abs_151_h3,xgboost,local,2.0
+Turkey,Bangladesh,2.208123600899585,0.5507617418093047,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Germany,0.072809756257476,1.5529515954004245,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Thailand,0.2971548981872281,1.3881678779021474,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,France,0.406012609056984,1.3146309092199255,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,South Africa,0.5334577666317704,1.2334725093639909,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,United States,0.5528955772226839,1.2215425737237326,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Turkey,0.604371194307171,1.1905038920643023,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Australia,0.639483958471362,1.1697853543117034,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Philippines,0.6567595213429097,1.1597245182998883,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,South Korea,0.730730693797889,1.1176149507963389,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Japan,0.8250468850000319,1.066133775529012,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Indonesia,0.9581973575616084,0.9974667885898608,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Saudi Arabia,0.9864275655517036,0.9834863409899814,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Ethiopia,0.9903181255403402,0.9815750442924966,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Mexico,1.0780459494828123,0.9394499623871,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Russia,1.085680178560763,0.93587080964082,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Brazil,1.103551003094798,0.9275456678062234,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,China,1.1357664500685365,0.9127247051032644,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Vietnam,1.1431040761010547,0.9093822240431316,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Egypt,1.5723400706729675,0.733734683763299,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,India,1.609488326999242,0.7202319902871489,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Nigeria,1.8191442728696985,0.6485540820658359,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Pakistan,2.557577538984198,0.4483296388504855,extreme_abs_151_h3,xgboost,local,2.0
+United Kingdom,Bangladesh,2.562980562547501,0.447120105568887,extreme_abs_151_h3,xgboost,local,2.0
+United States,France,0.4112270599316971,1.3858395537090131,extreme_abs_151_h3,xgboost,local,2.0
+United States,Japan,0.4462832415303286,1.3617600822587796,extreme_abs_151_h3,xgboost,local,2.0
+United States,Germany,0.5509713228446906,1.2923134709363322,extreme_abs_151_h3,xgboost,local,2.0
+United States,United Kingdom,0.5528955772226839,1.2910706989574612,extreme_abs_151_h3,xgboost,local,2.0
+United States,South Korea,0.6375107428346092,1.2375879584876504,extreme_abs_151_h3,xgboost,local,2.0
+United States,Thailand,0.6462221949445969,1.232209087320313,extreme_abs_151_h3,xgboost,local,2.0
+United States,South Africa,0.7295693951778642,1.1819137707433145,extreme_abs_151_h3,xgboost,local,2.0
+United States,Philippines,0.8941462299687519,1.0885500125438037,extreme_abs_151_h3,xgboost,local,2.0
+United States,Australia,0.932887045957595,1.067667261336017,extreme_abs_151_h3,xgboost,local,2.0
+United States,Turkey,0.967069136915196,1.0495747618869806,extreme_abs_151_h3,xgboost,local,2.0
+United States,Indonesia,0.987833481223088,1.0387342673350832,extreme_abs_151_h3,xgboost,local,2.0
+United States,China,1.0568225016671278,1.0035145727622974,extreme_abs_151_h3,xgboost,local,2.0
+United States,Saudi Arabia,1.0675789685899777,0.998131924651725,extreme_abs_151_h3,xgboost,local,2.0
+United States,Russia,1.080679243782298,0.9916153886089374,extreme_abs_151_h3,xgboost,local,2.0
+United States,Ethiopia,1.0973130537622289,0.9834024182239752,extreme_abs_151_h3,xgboost,local,2.0
+United States,Mexico,1.1626478821446038,0.9517962605190884,extreme_abs_151_h3,xgboost,local,2.0
+United States,Brazil,1.222450413231151,0.9237576320743972,extreme_abs_151_h3,xgboost,local,2.0
+United States,Vietnam,1.36010680156899,0.8623157820946311,extreme_abs_151_h3,xgboost,local,2.0
+United States,Egypt,1.6806855599210937,0.7346044278544569,extreme_abs_151_h3,xgboost,local,2.0
+United States,India,1.7705155556954872,0.7023396809918394,extreme_abs_151_h3,xgboost,local,2.0
+United States,Nigeria,1.8494785859483196,0.6751505127893305,extreme_abs_151_h3,xgboost,local,2.0
+United States,Bangladesh,2.558816408237308,0.4735543723590814,extreme_abs_151_h3,xgboost,local,2.0
+United States,Pakistan,2.5628676502233048,0.472596101555493,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Philippines,0.5635514477773921,1.4494552398750051,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Brazil,0.8747626907354921,1.2405839146918136,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Turkey,0.8954573012850566,1.2278133983642363,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Russia,0.9307692930369752,1.2063253844185595,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Thailand,1.0318751792253202,1.1468578786810937,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Ethiopia,1.044368295725716,1.1397162925259117,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Indonesia,1.0448078849710938,1.1394658165410692,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Mexico,1.076470620564732,1.1215685569579226,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,United Kingdom,1.1431040761010547,1.084817179936888,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Germany,1.16838110207191,1.0711929800860591,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,China,1.3111608618478474,0.9973865033122,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,France,1.3581317110482074,0.9742353788879998,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,United States,1.36010680156899,0.9732737522601344,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,India,1.405277882628883,0.9515382168354264,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,South Korea,1.4080602119375194,0.9502153908486533,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Japan,1.4445626407282712,0.933030109200298,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,South Africa,1.5310829146393523,0.8935276990674408,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Australia,1.6619473016915198,0.836933938815231,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Egypt,1.6877117561894068,0.8262215137154117,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Saudi Arabia,1.718636052675742,0.8135446128121975,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Nigeria,1.7651828881643057,0.7948292788363699,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Pakistan,2.2767244427328475,0.6154517621288037,extreme_abs_151_h3,xgboost,local,2.0
+Vietnam,Bangladesh,2.287923342611399,0.6120152012012733,extreme_abs_151_h3,xgboost,local,2.0
