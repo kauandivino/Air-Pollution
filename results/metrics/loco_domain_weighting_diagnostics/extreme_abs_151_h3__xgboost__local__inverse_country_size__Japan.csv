@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8296,1.3485650496834514,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Ethiopia,8516,1.3137265913778666,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Nigeria,8648,1.2936743353577604,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+United Kingdom,8676,1.289499268346463,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Australia,8694,1.286829497604545,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Germany,8736,1.2806428173275999,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Turkey,8852,1.2638607831195112,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+South Africa,9042,1.237303213025206,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Saudi Arabia,9076,1.2326680974188975,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Bangladesh,9102,1.2291469624449476,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Vietnam,9125,1.2260488385944015,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Pakistan,9431,1.1862682273538239,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+France,9773,1.1447555154173654,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Russia,10032,1.1152009222661396,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Brazil,10385,1.077293755625798,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Mexico,10503,1.0651904838783122,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+South Korea,10565,1.0589394843515298,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Indonesia,11275,0.9922568205919213,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Egypt,12743,0.8779483365121175,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+Philippines,16950,0.6600410414261896,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+India,17100,0.6542512077294687,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+China,18412,0.6076306567550463,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
+United States,23385,0.478413327011927,extreme_abs_151_h3,xgboost,local,inverse_country_size,Japan
