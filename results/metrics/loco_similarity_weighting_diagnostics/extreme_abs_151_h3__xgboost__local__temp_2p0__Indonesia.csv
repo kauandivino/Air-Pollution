@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Indonesia,Brazil,0.7440570538321982,1.2358704665609153,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Philippines,0.7492712167189535,1.2326526479812714,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Russia,0.8100111707920533,1.19577976374575,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Thailand,0.9169852808798866,1.13350141521779,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Japan,0.9510597178537853,1.1143532825811784,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,United Kingdom,0.9581973575616085,1.1103834444940002,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,South Korea,0.9584397859945458,1.110248858391835,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Germany,0.9718324715464308,1.102839088337972,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,United States,0.987833481223088,1.0940510202420488,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,China,1.000022933073101,1.0874033575444437,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Turkey,1.0369904980250078,1.0674886469944425,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Ethiopia,1.0444272180892806,1.06352671039293,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Vietnam,1.0448078849710938,1.0633243049575176,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,France,1.0528437127368224,1.0590605309451058,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,South Africa,1.1282823375440183,1.0198574995069205,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Mexico,1.1544942933696019,1.0065784770058865,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,India,1.298525325713846,0.9366378387658953,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Australia,1.3805209882163563,0.8990142315927282,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Saudi Arabia,1.5896290877434716,0.8097655935071417,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Nigeria,1.6314101266227012,0.7930246420478274,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Egypt,1.873550860523064,0.7025973222780862,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Bangladesh,2.1625443771883917,0.6080682751587093,extreme_abs_151_h3,xgboost,local,2.0
+Indonesia,Pakistan,2.3488883296577576,0.5539725817496064,extreme_abs_151_h3,xgboost,local,2.0
