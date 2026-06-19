@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Turkey,Thailand,0.41211561254695994,1.769749934402422,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,United Kingdom,0.604371194307171,1.4602135247359636,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Germany,0.649046783567134,1.3964133906147103,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Philippines,0.6924322079071176,1.3371248323269844,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,France,0.7817358979221979,1.222891297896234,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Ethiopia,0.8765522020151557,1.1122685485183077,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,South Africa,0.8881336132312787,1.0994612157216732,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Mexico,0.8883618333425969,1.0992103251908525,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Vietnam,0.8954573012850566,1.091438518475513,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Russia,0.9269549497843141,1.057596540864167,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,South Korea,0.9462675389958551,1.037367578874823,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,United States,0.967069136915196,1.0160115652767507,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Saudi Arabia,0.9980003446025204,0.9850661571468354,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Australia,1.010776429052223,0.9725609227998747,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Indonesia,1.0369904980250078,0.9473974037680993,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,China,1.0674437068680829,0.918980994276175,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Brazil,1.1065560331041222,0.8837313511454912,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Egypt,1.1369148150644859,0.8573055016427119,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Japan,1.1854685393452933,0.8166745017383361,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,India,1.2804797733480349,0.7426533451345936,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Nigeria,1.5476708697797985,0.5685210150846306,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Pakistan,2.142419669537149,0.31365368981766173,extreme_abs_151_h3,xgboost,local,1.0
+Turkey,Bangladesh,2.208123600899585,0.29370784454718923,extreme_abs_151_h3,xgboost,local,1.0
