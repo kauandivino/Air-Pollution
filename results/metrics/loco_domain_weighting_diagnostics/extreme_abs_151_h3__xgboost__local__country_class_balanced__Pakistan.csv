@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8717,2,0.6653316108952522,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Australia,1,1,2,5799.695652173913,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Bangladesh,0,2870,2,2.0207998788062413,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Bangladesh,1,6229,2,0.93107973224818,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Brazil,0,9438,2,0.6145047311055216,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Brazil,1,962,2,6.028789659224442,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+China,0,16528,2,0.3509012374258176,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+China,1,1879,2,3.0865862970590277,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Egypt,0,8477,2,0.6841684147898919,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Egypt,1,4246,2,1.3659198427164185,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Ethiopia,0,7834,2,0.7403236727309054,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Ethiopia,1,664,2,8.734481403876375,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+France,0,9723,1,1.192984809662432,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Germany,0,8743,1,1.3267060853651866,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+India,0,10909,2,0.5316431984759293,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+India,1,6213,2,0.9334774910951091,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Indonesia,0,9933,2,0.5838815717481036,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Indonesia,1,1330,2,4.360673422687153,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Japan,0,18899,1,0.6137568815465276,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Mexico,0,9524,2,0.6089558643609736,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Mexico,1,1001,2,5.7939017504234895,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Nigeria,0,5223,2,1.1104146375979156,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Nigeria,1,3326,2,1.7437449345080918,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Philippines,0,16906,2,0.3430554626862601,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Philippines,1,114,2,50.87452326468345,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Russia,0,9111,2,0.6365597247474386,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Russia,1,1043,2,5.560590270540665,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Saudi Arabia,0,8879,2,0.6531924374562352,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Saudi Arabia,1,109,2,53.20821699242122,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+South Africa,0,8937,2,0.6489533011272142,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+South Africa,1,51,2,113.71952259164536,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+South Korea,0,10407,2,0.5572879458224188,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+South Korea,1,107,2,54.202763104429096,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Thailand,0,8207,2,0.7066766969871955,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Thailand,1,43,2,134.87664307381192,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Turkey,0,8372,2,0.6927491223332433,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Turkey,1,503,2,11.530210044083326,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+United Kingdom,0,8776,2,0.6608586659268361,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+United Kingdom,1,1,2,5799.695652173913,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+United States,0,23419,2,0.24764915889550848,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+United States,1,29,2,199.98950524737631,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Vietnam,0,8406,2,0.6899471392069847,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
+Vietnam,1,697,2,8.320940677437465,extreme_abs_151_h3,xgboost,local,country_class_balanced,Pakistan
