@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+China,Ethiopia,0.6971670659163055,1.5059804682848197,extreme_abs_151_h3,xgboost,local,1.0
+China,Russia,0.8112934017999147,1.3435533045142294,extreme_abs_151_h3,xgboost,local,1.0
+China,South Korea,0.8116207776419144,1.34311352960966,extreme_abs_151_h3,xgboost,local,1.0
+China,Mexico,0.9106319398282158,1.21650170659725,extreme_abs_151_h3,xgboost,local,1.0
+China,Japan,0.9759477735396628,1.1395841924470829,extreme_abs_151_h3,xgboost,local,1.0
+China,Indonesia,1.000022933073101,1.1124761458217702,extreme_abs_151_h3,xgboost,local,1.0
+China,Thailand,1.005441413011853,1.106464517794632,extreme_abs_151_h3,xgboost,local,1.0
+China,India,1.0422902517636383,1.0664346418175272,extreme_abs_151_h3,xgboost,local,1.0
+China,United States,1.0568225016671278,1.0510490117757953,extreme_abs_151_h3,xgboost,local,1.0
+China,Brazil,1.0599188739683478,1.0477996060096582,extreme_abs_151_h3,xgboost,local,1.0
+China,Nigeria,1.066233100951013,1.0412044051747447,extreme_abs_151_h3,xgboost,local,1.0
+China,Turkey,1.0674437068680829,1.039944679630411,extreme_abs_151_h3,xgboost,local,1.0
+China,Philippines,1.1143511798176458,0.9922899224387403,extreme_abs_151_h3,xgboost,local,1.0
+China,Saudi Arabia,1.1316418212732002,0.9752800725565083,extreme_abs_151_h3,xgboost,local,1.0
+China,United Kingdom,1.1357664500685365,0.9712656888981848,extreme_abs_151_h3,xgboost,local,1.0
+China,Germany,1.1636795465455072,0.9445295363355616,extreme_abs_151_h3,xgboost,local,1.0
+China,France,1.177377777412821,0.9316793659211906,extreme_abs_151_h3,xgboost,local,1.0
+China,South Africa,1.1804124252598425,0.9288563327614965,extreme_abs_151_h3,xgboost,local,1.0
+China,Vietnam,1.3111608618478474,0.8150142869423335,extreme_abs_151_h3,xgboost,local,1.0
+China,Egypt,1.380541666610411,0.7603849652924533,extreme_abs_151_h3,xgboost,local,1.0
+China,Australia,1.5402657896459395,0.6481361065569579,extreme_abs_151_h3,xgboost,local,1.0
+China,Bangladesh,1.755220015267408,0.5227725578546506,extreme_abs_151_h3,xgboost,local,1.0
+China,Pakistan,1.808425951450428,0.49568495496434123,extreme_abs_151_h3,xgboost,local,1.0
