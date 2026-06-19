@@ -1,0 +1,3 @@
+split_name,target,held_out_country,model,model_family,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+leave_one_country_out,extreme_abs_151_h3,United States,majority_class,baseline,validation,44627,6402,0.14345575548434805,0.8565442445156519,0.5,0.0,0.0,0.0,0.4613648433351036,38225,0,6402,0,0.0,1.0,0.5,0.14345575548434805
+leave_one_country_out,extreme_abs_151_h3,United States,majority_class,baseline,test,27495,35,0.0012729587197672304,0.9987270412802328,0.5,0.0,0.0,0.0,0.4996815576380675,27460,0,35,0,0.0,1.0,0.5,0.0012729587197672304
