@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Nigeria,China,1.066233100951013,1.57881111837429,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Ethiopia,1.1022246651441416,1.5229976682429973,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Russia,1.1459533148175098,1.4578341759611408,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Mexico,1.146324840932642,1.4572926530944115,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Bangladesh,1.15279634659193,1.447892225709952,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Pakistan,1.1846599026888482,1.4024844981459363,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,India,1.271998689922928,1.2851899367236885,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Egypt,1.4743578311847985,1.0497451042504964,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Turkey,1.5476708697797985,0.9755384912250735,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Brazil,1.577072904838041,0.9472732384801597,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Indonesia,1.6314101266227012,0.8971744819676599,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,South Korea,1.645821743898723,0.8843374699367653,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Thailand,1.6640021904519622,0.86840508758245,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Saudi Arabia,1.6895646615620592,0.8464878306968066,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Japan,1.763956048126428,0.785801675137577,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Vietnam,1.7651828881643057,0.7848382133083056,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Philippines,1.7668363602338102,0.7835415775144688,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,United Kingdom,1.8191442728696983,0.7436096358485507,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Germany,1.8487213104830065,0.721937937838863,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,United States,1.8494785859483194,0.7213914389022937,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,France,1.914706015517184,0.6758387225651158,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,South Africa,1.9317699245699307,0.6644041091274991,extreme_abs_151_h3,xgboost,local,1.0
+Nigeria,Australia,2.221723017524533,0.4971727093655008,extreme_abs_151_h3,xgboost,local,1.0
