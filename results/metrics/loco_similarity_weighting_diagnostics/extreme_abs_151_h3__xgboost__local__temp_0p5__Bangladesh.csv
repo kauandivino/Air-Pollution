@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Bangladesh,Pakistan,0.6968638402570901,5.013445740343467,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Nigeria,1.15279634659193,4.554819981092505,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,India,1.5719251772195524,1.9697927762780392,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,China,1.755220015267408,1.3652515145609363,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Russia,1.7747920545185378,1.3128424462917172,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Egypt,1.8890720741070242,1.0446005397611384,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Mexico,1.9184259012061395,0.985039930096481,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Ethiopia,1.9622137674897964,0.9024438263082212,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Indonesia,2.1625443771883917,0.6045263304777405,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Brazil,2.1995295923651645,0.5614230921333251,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Turkey,2.208123600899585,0.5518557993744825,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Vietnam,2.287923342611399,0.4704488766872526,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Thailand,2.366016708545493,0.4024217080757366,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,South Korea,2.411725592259653,0.3672646834474179,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Philippines,2.4181668060584793,0.3625637673715181,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Saudi Arabia,2.453426803489013,0.3378764762997544,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Japan,2.5354323074657312,0.3133403587714667,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,United States,2.558816408237308,0.3133403587714667,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,United Kingdom,2.5629805625475015,0.3133403587714667,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,France,2.5881674816722,0.3133403587714667,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Germany,2.600019119075145,0.3133403587714667,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,South Africa,2.6615596344902177,0.3133403587714667,extreme_abs_151_h3,xgboost,local,0.5
+Bangladesh,Australia,2.920944412082097,0.3133403587714667,extreme_abs_151_h3,xgboost,local,0.5
