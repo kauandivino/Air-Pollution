@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8833,2,0.6632145265530939,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Australia,1,1,2,5858.173913043478,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Bangladesh,0,2888,2,2.028453570998434,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Bangladesh,1,6339,2,0.9241479591486793,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Brazil,0,9572,2,0.6120114827667654,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Brazil,1,975,2,6.0083835005574135,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+China,0,16781,2,0.34909563870111904,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+China,1,1956,2,2.9949764381612876,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Egypt,0,8622,2,0.6794448982885036,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Egypt,1,4258,2,1.3758041129740437,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Ethiopia,0,7932,2,0.7385494091078515,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Ethiopia,1,707,2,8.285960273045939,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+France,0,9884,1,1.1853852515264018,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Germany,0,8896,1,1.3170355020331561,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+India,0,11001,2,0.5325128545626286,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+India,1,6307,2,0.9288368341594226,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Indonesia,0,10066,2,0.5819763474114323,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Indonesia,1,1340,2,4.3717715768981185,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Japan,0,19174,1,0.6110539181228203,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Mexico,0,9648,2,0.6071904967914052,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Mexico,1,1008,2,5.811680469289165,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Nigeria,0,5329,2,1.099300790588005,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Nigeria,1,3410,2,1.717939563942369,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Pakistan,0,1694,2,3.458190031312561,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Pakistan,1,7896,2,0.7419166556539359,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Philippines,0,17264,2,0.33932888745617923,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Philippines,1,122,2,48.017818959372775,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Russia,0,9128,2,0.6417806653202759,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Russia,1,1045,2,5.605908050759309,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Saudi Arabia,0,9019,2,0.6495369678504799,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Saudi Arabia,1,111,2,52.77634155895026,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+South Africa,0,9048,2,0.6474551185945489,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+South Africa,1,51,2,114.86615515771526,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Thailand,0,8328,2,0.7034310654471035,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Thailand,1,41,2,142.88229056203605,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Turkey,0,8450,2,0.6932750192950862,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Turkey,1,506,2,11.577418800481182,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+United Kingdom,0,8860,2,0.6611934439100992,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+United Kingdom,1,1,2,5858.173913043478,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+United States,0,23699,2,0.24719076387372793,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+United States,1,29,2,202.00599700149925,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Vietnam,0,8547,2,0.6854070332331202,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
+Vietnam,1,710,2,8.250949173300674,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Korea
