@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Russia,Mexico,0.583683768642724,1.630802918704348,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Ethiopia,0.6591245971437487,1.512299973419124,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Brazil,0.7121512600727223,1.43419682727027,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Indonesia,0.8100111707920533,1.3004951538820457,extreme_abs_151_h3,xgboost,local,1.0
+Russia,China,0.8112934017999147,1.298828687296052,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Philippines,0.8807278114530929,1.2117049760179284,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Turkey,0.9269549497843141,1.1569662766557975,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Vietnam,0.9307692930369751,1.152561615929202,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Thailand,0.9786545122788826,1.098671516943364,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Japan,1.0773724331350165,0.9953944554030416,extreme_abs_151_h3,xgboost,local,1.0
+Russia,United States,1.080679243782298,0.9921083107432425,extreme_abs_151_h3,xgboost,local,1.0
+Russia,United Kingdom,1.085680178560763,0.9871592271246794,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Germany,1.1068280561542816,0.96650210167714,extreme_abs_151_h3,xgboost,local,1.0
+Russia,South Korea,1.1377642384572602,0.9370599780042552,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Nigeria,1.1459533148175098,0.9294176567747131,extreme_abs_151_h3,xgboost,local,1.0
+Russia,France,1.1840910312219597,0.8946391906930024,extreme_abs_151_h3,xgboost,local,1.0
+Russia,India,1.2240836780917024,0.8595662067486635,extreme_abs_151_h3,xgboost,local,1.0
+Russia,South Africa,1.385240005192198,0.7316275142485603,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Saudi Arabia,1.4321079326895876,0.698128788602663,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Egypt,1.4855263043897888,0.6618144468854998,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Australia,1.622417661604592,0.5771451921634133,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Bangladesh,1.7747920545185378,0.4955753817064698,extreme_abs_151_h3,xgboost,local,1.0
+Russia,Pakistan,1.8122959053043717,0.4773336031065213,extreme_abs_151_h3,xgboost,local,1.0
