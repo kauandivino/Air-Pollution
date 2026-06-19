@@ -1,0 +1,2 @@
+rows,columns,countries,states,cities,dates,min_date,max_date,missing_values,duplicated_rows,duplicated_city_months
+331920,24,24,446,2305,144,2014-01-01,2025-12-01,0,0,0
