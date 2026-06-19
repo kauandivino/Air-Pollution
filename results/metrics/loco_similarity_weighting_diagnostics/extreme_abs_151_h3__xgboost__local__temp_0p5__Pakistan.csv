@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Pakistan,Bangladesh,0.6968638402570901,5.027779534144375,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Nigeria,1.1846599026888482,4.315675070801001,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Egypt,1.6169843875570078,1.8177596658694932,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,India,1.7364333025967509,1.4314772599291867,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,China,1.808425951450428,1.239516844603469,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Russia,1.8122959053043717,1.2299601303757217,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Mexico,1.8219938845489272,1.2063337436407637,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Ethiopia,1.933974085684816,0.9642790008943493,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Turkey,2.142419669537149,0.6355491987665561,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Vietnam,2.2767244427328475,0.48584029493711006,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Brazil,2.3169584533819165,0.44827726557812037,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Saudi Arabia,2.318847605383008,0.44658673347471517,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Thailand,2.3391670085379253,0.42880180837721915,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Indonesia,2.3488883296577576,0.42054529255669243,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,South Korea,2.4351106985239594,0.35393293536801096,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Philippines,2.4435176749123446,0.3480316744950556,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,United Kingdom,2.557577538984198,0.3142362208840234,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,United States,2.5628676502233048,0.3142362208840234,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Japan,2.5703775771821076,0.3142362208840234,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,France,2.574270498585913,0.3142362208840234,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Germany,2.600146338873805,0.3142362208840234,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,South Africa,2.686368385754775,0.3142362208840234,extreme_abs_151_h3,xgboost,local,0.5
+Pakistan,Australia,2.9317249205645894,0.3142362208840234,extreme_abs_151_h3,xgboost,local,0.5
