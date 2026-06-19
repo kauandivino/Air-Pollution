@@ -1,0 +1,43 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Bangladesh,0,2923,2,2.017723006440673,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Bangladesh,1,6342,2,0.9299596890296573,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Brazil,0,9538,2,0.6183481178261782,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Brazil,1,980,2,6.018167701863354,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+China,0,16681,2,0.3535641956612965,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+China,1,1945,2,3.0322901531239523,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Egypt,0,8667,2,0.6804897136063328,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Egypt,1,4246,2,1.3890259886542833,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Ethiopia,0,7926,2,0.7441085475430339,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Ethiopia,1,712,2,8.283433072789448,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+France,0,9875,1,1.1944920198128783,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Germany,0,8903,1,1.3249026952321885,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+India,0,11062,2,0.5331589538804996,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+India,1,6281,2,0.9389912988100759,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Indonesia,0,10049,2,0.5869046022316735,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Indonesia,1,1341,2,4.39806439062348,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Japan,0,19125,1,0.6167638533674339,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Mexico,0,9674,2,0.6096551941106148,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Mexico,1,1016,2,5.804925539198904,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Nigeria,0,5350,2,1.1023933360422593,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Nigeria,1,3398,2,1.7356693195485835,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Pakistan,0,1712,2,3.44497917513206,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Pakistan,1,7900,2,0.746557512383049,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Philippines,0,17085,2,0.3452036492728175,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Philippines,1,116,2,50.84314092953523,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Russia,0,9269,2,0.636293488814984,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Russia,1,1043,2,5.654654216515903,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Saudi Arabia,0,8974,2,0.6572102014515363,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Saudi Arabia,1,118,2,49.98139277818718,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+South Africa,0,9096,2,0.6483953768498336,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+South Africa,1,55,2,107.23280632411067,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+South Korea,0,10546,2,0.5592456237271086,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+South Korea,1,116,2,50.84314092953523,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Thailand,0,8322,2,0.7087003542208709,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Thailand,1,45,2,131.0623188405797,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Turkey,0,8454,2,0.6976347702656833,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Turkey,1,521,2,11.32016189601936,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+United Kingdom,0,8899,1,1.3254982240310342,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+United States,0,23715,2,0.24869510216428786,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+United States,1,32,2,184.30638586956522,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Vietnam,0,8531,2,0.6913379847410722,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
+Vietnam,1,716,2,8.23715691037163,extreme_abs_151_h1,xgboost,local,country_class_balanced,Australia
