@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8696,2,0.6480615775368985,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Australia,1,1,2,5635.54347826087,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Bangladesh,0,2867,2,1.9656586948939203,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Bangladesh,1,6213,2,0.9070567323774135,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Brazil,0,9410,2,0.5988887862126323,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Brazil,1,963,2,5.852070070883562,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+China,0,16524,2,0.3410520139349352,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+China,1,1889,2,2.983347526871821,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Egypt,0,8496,2,0.6633172643904036,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Egypt,1,4227,2,1.333225331975602,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Ethiopia,0,7841,2,0.7187276467620035,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Ethiopia,1,685,2,8.227070771183751,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+France,0,9770,1,1.153642472520137,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Germany,0,8730,1,1.2910752527516312,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+India,0,10907,2,0.5166905178565022,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+India,1,6199,2,0.9091052554058509,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Indonesia,0,9940,2,0.5669560843320794,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Indonesia,1,1324,2,4.256452778142651,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Japan,0,18944,1,0.5949686949177438,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Mexico,0,9534,2,0.5910995886575278,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Mexico,1,981,2,5.744692638390285,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Nigeria,0,5226,2,1.0783665285612074,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Nigeria,1,3359,2,1.6777444115096367,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Pakistan,0,1718,2,3.2802930606873515,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Pakistan,1,7763,2,0.7259491792169096,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Russia,0,8981,2,0.6274962118094721,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Russia,1,1028,2,5.482046185078667,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Saudi Arabia,0,8984,2,0.6272866738936854,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Saudi Arabia,1,115,2,49.00472589792061,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+South Africa,0,8947,2,0.6298807956030926,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+South Africa,1,52,2,108.37583612040133,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+South Korea,0,10470,2,0.5382563016486026,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+South Korea,1,110,2,51.23221343873518,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Thailand,0,8262,2,0.6821040278698705,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Thailand,1,46,2,122.51181474480151,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Turkey,0,8324,2,0.6770234836930406,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Turkey,1,497,2,11.339121686641588,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+United Kingdom,0,8707,2,0.6472428480832514,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+United Kingdom,1,1,2,5635.54347826087,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+United States,0,23344,2,0.2414129317281044,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+United States,1,30,2,187.8514492753623,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Vietnam,0,8423,2,0.6690660665155965,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
+Vietnam,1,707,2,7.971065740114384,extreme_abs_151_h3,xgboost,local,country_class_balanced,Philippines
