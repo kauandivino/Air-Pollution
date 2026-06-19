@@ -1,0 +1,92 @@
+feature,group,native_importance_mean,native_importance_std,folds
+PM2.5 (ug/m3),current_pollutant,0.101852685,0.03380691,3
+humidity_PM25,interaction,0.077277325,0.015011841,3
+PM25_city_past_anomaly,local_normalization,0.069615014,0.005818815,3
+CO (mg/m3),current_pollutant,0.046036478,0.011069371,3
+AQI_lag_6,lag,0.043477077,0.018450584,3
+PM10_city_past_anomaly,local_normalization,0.031761605,0.0027372495,3
+AQI,current_aqi,0.029852914,0.006632425,3
+AQI_roll_mean_6,rolling,0.028294243,0.0104045905,3
+PM10 (ug/m3),current_pollutant,0.028170459,0.0092226,3
+month,calendar,0.023039745,0.00216447,3
+SO2 (ug/m3),current_pollutant,0.022579828,0.0020373287,3
+PM25_city_past_zscore,local_normalization,0.021116147,0.0009041181,3
+CO_city_past_anomaly,local_normalization,0.016091792,0.0065662586,3
+is_aug_oct,calendar,0.014998718,0.0045899334,3
+AQI_roll_max_6,rolling,0.014727652,0.0023085421,3
+month_cos,calendar,0.013365097,0.0023432183,3
+is_dec_feb,calendar,0.012420229,0.0009387112,3
+NO (ug/m3),current_pollutant,0.012416259,0.0003118385,3
+industry_NO2,interaction,0.011943728,0.0026000685,3
+SO2_lag_1,lag,0.011703204,0.00093215844,3
+AQI_city_past_anomaly,local_normalization,0.011582491,0.002362721,3
+Population_Density_per_SqKm,current_socio_environmental,0.011551722,0.000643362,3
+quarter,calendar,0.01150393,0.0031944292,3
+Toluene (ug/m3),current_pollutant,0.011306736,0.0016637134,3
+month_sin,calendar,0.011296743,0.0013015851,3
+deforestation_aug_oct,interaction,0.010971782,0.0016412684,3
+AQI_city_past_zscore,local_normalization,0.010523825,0.00067011727,3
+NO2_city_past_anomaly,local_normalization,0.010382024,0.00065820763,3
+NO2 (ug/m3),current_pollutant,0.010296409,0.00028686947,3
+Xylene (ug/m3),current_pollutant,0.009971995,0.0013583053,3
+NOx (ppb),current_pollutant,0.009844828,0.0016451062,3
+PM10_city_past_zscore,local_normalization,0.009691839,0.00015601752,3
+Deforestation_Rate_%,current_socio_environmental,0.008992229,0.00058041274,3
+PM10_roll_max_3,rolling,0.008768469,0.0023041263,3
+Humidity_lag_1,lag,0.008704285,0.0027329582,3
+PM10_roll_mean_3,rolling,0.008489272,0.0017835817,3
+CO2_Emission_MT,current_socio_environmental,0.008327314,0.0016497631,3
+AQI_trend_3,rolling,0.007985472,0.0019413528,3
+Deforestation_Rate_lag_1,lag,0.007920509,0.00035160195,3
+PM25_roll_max_3,rolling,0.007897813,0.0010888813,3
+low_wind_PM25,interaction,0.007829948,0.003272834,3
+AQI_lag_12,lag,0.0066003297,0.0011598057,3
+Humidity_city_past_anomaly,local_normalization,0.0062132776,0.0012395371,3
+CO_city_past_zscore,local_normalization,0.0061631403,0.0008614976,3
+Industry_Growth_%,current_socio_environmental,0.005918021,0.0010456489,3
+PM25_roll_mean_3,rolling,0.0059048794,0.0011316533,3
+AQI_roll_max_3,rolling,0.0057517644,0.00043206415,3
+Benzene (ug/m3),current_pollutant,0.0055261087,0.00059825124,3
+AQI_roll_std_6,rolling,0.0052844808,0.0010082612,3
+Humidity_city_past_zscore,local_normalization,0.004767122,0.00069896,3
+AQI_delta_1,rolling,0.0047028996,0.00016448506,3
+NO2_lag_1,lag,0.004603844,0.00065486116,3
+PM10_lag_3,lag,0.0045589744,0.0017497826,3
+NO2_city_past_zscore,local_normalization,0.004542861,9.172084e-05,3
+time_index_months,calendar,0.0042591863,0.00020070128,3
+NH3 (ug/m3),current_pollutant,0.004229927,0.0005799176,3
+CO_lag_1,lag,0.0041932394,0.0010085886,3
+Humidity (%),current_meteorology,0.004094677,0.00021243363,3
+AQI_roll_mean_3,rolling,0.0039033098,0.00030130302,3
+AQI_city_history_count,local_normalization,0.0038559316,0.00057980587,3
+PM25_lag_2,lag,0.0034425433,0.00033992328,3
+PM10_lag_2,lag,0.0033776443,0.00035704827,3
+PM25_roll_std_3,rolling,0.003247185,0.00050371385,3
+PM10_roll_std_3,rolling,0.003146341,0.00051976886,3
+AQI_lag_3,lag,0.0031332455,0.0002576765,3
+O3 (ug/m3),current_pollutant,0.0031231707,0.0004497344,3
+PM10_lag_1,lag,0.0031177942,0.00040687053,3
+Deforestation_Rate_city_past_anomaly,local_normalization,0.0030992066,0.000416444,3
+PM25_lag_3,lag,0.0030937002,0.00033304916,3
+O3_lag_1,lag,0.0030335512,0.0001744585,3
+PM25_PM10_ratio,interaction,0.0030116152,0.0003796081,3
+Wind_Speed_lag_1,lag,0.0029709267,2.556827e-05,3
+AQI_roll_std_3,rolling,0.002960604,0.00025334448,3
+O3_city_past_zscore,local_normalization,0.002857549,0.00011550845,3
+year,calendar,0.0027744912,0.0020264557,3
+AQI_lag_1,lag,0.0027272168,0.00010888496,3
+PM25_lag_1,lag,0.0026765831,0.00013019276,3
+PM25_city_history_count,local_normalization,0.0026358517,0.00053427793,3
+AQI_lag_2,lag,0.0026031926,0.00010716052,3
+Wind_Speed (km/h),current_meteorology,0.0025653797,9.387615e-05,3
+O3_city_past_anomaly,local_normalization,0.0025332493,4.5988087e-05,3
+Wind_Speed_city_past_anomaly,local_normalization,0.0022595802,0.00013973739,3
+Wind_Speed_city_past_zscore,local_normalization,0.002180985,2.1842343e-05,3
+Deforestation_Rate_city_past_zscore,local_normalization,0.0021149125,0.00012351699,3
+PM10_city_history_count,local_normalization,0.0016596954,0.0012109239,3
+Wind_Speed_city_history_count,local_normalization,0.0,0.0,3
+O3_city_history_count,local_normalization,0.0,0.0,3
+NO2_city_history_count,local_normalization,0.0,0.0,3
+Humidity_city_history_count,local_normalization,0.0,0.0,3
+Deforestation_Rate_city_history_count,local_normalization,0.0,0.0,3
+CO_city_history_count,local_normalization,0.0,0.0,3
