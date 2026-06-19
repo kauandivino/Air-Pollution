@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8212,1.3388837120650585,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Ethiopia,8513,1.2915438791822227,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Nigeria,8601,1.2783296178907406,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Australia,8694,1.2646552845040557,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+United Kingdom,8730,1.2594402111658947,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Germany,8737,1.2584311598349847,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Turkey,8871,1.2394220542755339,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+South Africa,9007,1.2207075656132187,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Saudi Arabia,9041,1.216116916655045,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Bangladesh,9101,1.2080994443993254,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Vietnam,9102,1.207966715389833,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Pakistan,9467,1.1613935822835386,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+France,9775,1.124799288335372,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Russia,10100,1.0886052518295308,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Brazil,10398,1.0574065246661146,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+South Korea,10508,1.0463373661475315,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Mexico,10531,1.044052135929946,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Indonesia,11261,0.9763709300664472,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Egypt,12714,0.8647878750572803,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Philippines,17076,0.6438810636846019,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+India,17114,0.6424513873716408,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+China,18395,0.5977120436791661,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
+Japan,18935,0.580666123236243,extreme_abs_151_h3,xgboost,local,inverse_country_size,United States
