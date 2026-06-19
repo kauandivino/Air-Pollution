@@ -1,0 +1,3 @@
+split_name,target,held_out_country,model,model_family,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+leave_one_country_out,extreme_abs_151_h3,Indonesia,majority_class,baseline,validation,46763,6172,0.1319846887496525,0.8680153112503475,0.5,0.0,0.0,0.0,0.46467248208439227,40591,0,6172,0,0.0,1.0,0.5,0.1319846887496525
+leave_one_country_out,extreme_abs_151_h3,Indonesia,majority_class,baseline,test,13254,1568,0.11830390825411197,0.881696091745888,0.5,0.0,0.0,0.0,0.4685645549318364,11686,0,1568,0,0.0,1.0,0.5,0.11830390825411197
