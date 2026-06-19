@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8835,2,0.6612706380256391,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Australia,1,1,2,5842.326086956522,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Bangladesh,0,2882,2,2.027177684578946,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Bangladesh,1,6342,2,0.9212119342410158,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Brazil,0,9570,2,0.6104833946663032,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Brazil,1,974,2,5.9982814034461205,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+China,0,16777,2,0.348234254452913,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+China,1,1950,2,2.9960646599777037,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Egypt,0,8622,2,0.6776068298488195,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Egypt,1,4245,2,1.3762841194243867,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Ethiopia,0,7931,2,0.7366443181132923,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Ethiopia,1,719,2,8.125627381024369,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+France,0,9883,1,1.1822981052224064,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Germany,0,8897,1,1.3133249605387258,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+India,0,11005,2,0.5308792446121329,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+India,1,6285,2,0.9295666009477361,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Japan,0,19126,1,0.6109302611059837,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Mexico,0,9681,2,0.6034837400017066,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Mexico,1,1032,2,5.661168688911358,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Nigeria,0,5350,2,1.0920235676554246,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Nigeria,1,3414,2,1.7112847354881435,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Pakistan,0,1729,2,3.3790202932079363,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Pakistan,1,7866,2,0.7427315137244498,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Philippines,0,17070,2,0.3422569470976287,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Philippines,1,125,2,46.738608695652175,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Russia,0,9265,2,0.6305802576315728,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Russia,1,1061,2,5.5064336352087855,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Saudi Arabia,0,9013,2,0.648211038162268,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Saudi Arabia,1,119,2,49.09517720131531,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+South Africa,0,9068,2,0.644279453788765,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+South Africa,1,51,2,114.55541346973573,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+South Korea,0,10570,2,0.5527271605446095,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+South Korea,1,112,2,52.16362577639752,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Thailand,0,8329,2,0.7014438812530341,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Thailand,1,48,2,121.7151268115942,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Turkey,0,8452,2,0.6912359307804687,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Turkey,1,519,2,11.256890340956689,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+United Kingdom,0,8868,2,0.6588098880194544,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+United Kingdom,1,1,2,5842.326086956522,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+United States,0,23700,2,0.2465116492386718,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+United States,1,32,2,182.5726902173913,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Vietnam,0,8533,2,0.6846743334063661,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
+Vietnam,1,695,2,8.406224585548951,extreme_abs_151_h1,xgboost,local,country_class_balanced,Indonesia
