@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8264,1.3632465591986194,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Ethiopia,8522,1.3219748375049742,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Nigeria,8545,1.3184165670236854,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Australia,8703,1.2944811634169127,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Germany,8768,1.284884758806728,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+United Kingdom,8784,1.2825443494099944,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Turkey,8799,1.2803579458140006,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+South Africa,8970,1.255949784305172,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Saudi Arabia,9088,1.239642337721984,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Vietnam,9121,1.23515728157191,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Bangladesh,9130,1.2339397114148294,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Pakistan,9487,1.1875060150961727,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+France,9751,1.1553553035809037,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Russia,10143,1.1107038908821247,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Brazil,10391,1.084194934579674,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+South Korea,10507,1.0722251418309119,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Mexico,10589,1.0639219534627813,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Indonesia,11209,1.0050735627814606,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Egypt,12679,0.888545592335152,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Philippines,16956,0.6644178795244982,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+China,18436,0.6110799286839549,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+Japan,18862,0.5972786324471101,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
+United States,23411,0.48122120222192094,extreme_abs_151_h3,xgboost,local,inverse_country_size,India
