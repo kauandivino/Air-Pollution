@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Mexico,Ethiopia,0.5318297038572102,1.356452011178466,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Russia,0.583683768642724,1.3217352322002884,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Turkey,0.8883618333425969,1.1349702178468553,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Brazil,0.892680178121513,1.1325222652165228,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,China,0.9106319398282158,1.1224023657496984,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Thailand,0.9654428768158206,1.0920600744803997,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Philippines,1.0196270413751887,1.062871073817656,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Vietnam,1.0764706205647319,1.033087630067584,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,United Kingdom,1.0780459494828123,1.0322742240458669,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Germany,1.1055609609856902,1.0181699477603314,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Nigeria,1.146324840932642,0.9976277253132353,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Indonesia,1.1544942933696019,0.9935610005703923,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,United States,1.1626478821446038,0.9895187020682172,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Japan,1.176568096359369,0.9826554580800687,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,South Korea,1.1853126854541198,0.9783683779968518,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,France,1.2306742193184974,0.9564279858370113,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Saudi Arabia,1.2360921902451683,0.9538405425820853,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,India,1.3510888884007193,0.9005432229154026,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,South Africa,1.3857670792085985,0.8850632105925823,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Egypt,1.403119816913423,0.8774172930849682,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Australia,1.6163470482306637,0.7886866410658061,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Pakistan,1.8219938845489272,0.7116211408071147,extreme_abs_151_h3,xgboost,local,2.0
+Mexico,Bangladesh,1.9184259012061395,0.6781236567225948,extreme_abs_151_h3,xgboost,local,2.0
