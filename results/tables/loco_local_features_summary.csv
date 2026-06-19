@@ -1,0 +1,2 @@
+target,model,model_family,feature_set,countries,n_features,mean_event_rate,mean_precision,mean_recall,mean_f1,mean_balanced_accuracy,mean_roc_auc,mean_pr_auc,mean_false_alarm_rate,mean_missed_event_rate
+extreme_abs_151_h1,random_forest,ensemble,all_plus_local_normalization,24,91.0,0.14003470164693402,0.3171338352799224,0.40599008929474345,0.34159580139564305,0.7065402022391876,0.8339592887400892,0.40834347504693785,0.11790968481636825,0.4690099107052565
