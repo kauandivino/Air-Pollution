@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8308,1.3566546649640996,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Ethiopia,8526,1.32196656773654,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Nigeria,8585,1.3128814160188398,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Australia,8697,1.2959741240107783,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+United Kingdom,8708,1.2943370414012103,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Germany,8730,1.2910752527516312,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Turkey,8821,1.2777561451674118,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+South Africa,8999,1.2524821598535103,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Bangladesh,9080,1.2413091361808082,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Saudi Arabia,9099,1.2387171069921683,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Vietnam,9130,1.2345111671984381,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Pakistan,9481,1.1888078215928424,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+France,9770,1.153642472520137,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Russia,10009,1.1260952099632071,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Brazil,10373,1.0865792882022307,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Mexico,10515,1.071905559345862,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+South Korea,10580,1.0653201282156652,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Indonesia,11264,1.0006291687252964,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Egypt,12723,0.8858828072405674,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+India,17106,0.6588967003695627,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+China,18413,0.6121265929789681,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+Japan,18944,0.5949686949177438,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
+United States,23374,0.4822061673877701,extreme_abs_151_h3,xgboost,local,inverse_country_size,Philippines
