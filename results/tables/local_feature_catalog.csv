@@ -1,0 +1,28 @@
+feature,group,description
+AQI_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+AQI_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+AQI_city_history_count,local_normalization,Number of previous city observations available
+PM25_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+PM25_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+PM25_city_history_count,local_normalization,Number of previous city observations available
+PM10_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+PM10_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+PM10_city_history_count,local_normalization,Number of previous city observations available
+CO_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+CO_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+CO_city_history_count,local_normalization,Number of previous city observations available
+NO2_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+NO2_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+NO2_city_history_count,local_normalization,Number of previous city observations available
+O3_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+O3_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+O3_city_history_count,local_normalization,Number of previous city observations available
+Wind_Speed_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+Wind_Speed_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+Wind_Speed_city_history_count,local_normalization,Number of previous city observations available
+Humidity_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+Humidity_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+Humidity_city_history_count,local_normalization,Number of previous city observations available
+Deforestation_Rate_city_past_anomaly,local_normalization,Current value minus past city expanding mean
+Deforestation_Rate_city_past_zscore,local_normalization,Current value z-score using past city expanding statistics
+Deforestation_Rate_city_history_count,local_normalization,Number of previous city observations available
