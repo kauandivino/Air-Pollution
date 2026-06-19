@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Turkey,Thailand,0.41211561254695994,2.7878228149516437,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,United Kingdom,0.604371194307171,1.8979033457240195,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Germany,0.649046783567134,1.7356788347435101,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Philippines,0.6924322079071176,1.5914216677806707,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,France,0.7817358979221979,1.3311195664007929,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Ethiopia,0.8765522020151557,1.1011859762111589,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,South Africa,0.8881336132312787,1.0759725354797554,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Mexico,0.8883618333425969,1.0754815304018686,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Vietnam,0.8954573012850566,1.060327222183729,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Russia,0.9269549497843141,0.9955920075040191,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,South Korea,0.9462675389958551,0.9578702824094073,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,United States,0.967069136915196,0.9188373936846667,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Saudi Arabia,0.9980003446025204,0.8637183682615349,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Australia,1.010776429052223,0.8419280708985672,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Indonesia,1.0369904980250078,0.7989244983832336,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,China,1.0674437068680829,0.7517170790374195,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Brazil,1.1065560331041222,0.6951553710191336,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Egypt,1.1369148150644859,0.6542030727703582,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Japan,1.1854685393452933,0.5936621363538497,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,India,1.2804797733480349,0.49092329594292805,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Nigeria,1.5476708697797985,0.2876963842362691,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Pakistan,2.142419669537149,0.2464292728107319,extreme_abs_151_h3,xgboost,local,0.5
+Turkey,Bangladesh,2.208123600899585,0.2464292728107319,extreme_abs_151_h3,xgboost,local,0.5
