@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+India,China,1.0422902517636383,1.242437378132992,extreme_abs_151_h3,xgboost,local,2.0
+India,Ethiopia,1.1908264732743048,1.153507115315825,extreme_abs_151_h3,xgboost,local,2.0
+India,Russia,1.2240836780917024,1.1344845021821262,extreme_abs_151_h3,xgboost,local,2.0
+India,Nigeria,1.271998689922928,1.1076280740630404,extreme_abs_151_h3,xgboost,local,2.0
+India,Turkey,1.2804797733480349,1.1029410757424642,extreme_abs_151_h3,xgboost,local,2.0
+India,Indonesia,1.298525325713846,1.0930342460365634,extreme_abs_151_h3,xgboost,local,2.0
+India,Brazil,1.3130586460853624,1.0851203263060138,extreme_abs_151_h3,xgboost,local,2.0
+India,Mexico,1.3510888884007193,1.0646815703820174,extreme_abs_151_h3,xgboost,local,2.0
+India,Vietnam,1.405277882628883,1.03622185057397,extreme_abs_151_h3,xgboost,local,2.0
+India,Philippines,1.4416448527083665,1.0175500001798834,extreme_abs_151_h3,xgboost,local,2.0
+India,Thailand,1.4418128720344752,1.0174645197378693,extreme_abs_151_h3,xgboost,local,2.0
+India,South Korea,1.4978797128909678,0.9893375979874026,extreme_abs_151_h3,xgboost,local,2.0
+India,Egypt,1.5067579190734472,0.9849555597535339,extreme_abs_151_h3,xgboost,local,2.0
+India,Bangladesh,1.5719251772195524,0.9533793603614312,extreme_abs_151_h3,xgboost,local,2.0
+India,United Kingdom,1.609488326999242,0.9356404978358301,extreme_abs_151_h3,xgboost,local,2.0
+India,Saudi Arabia,1.6144580235921584,0.9333184592902275,extreme_abs_151_h3,xgboost,local,2.0
+India,South Africa,1.6189956827530037,0.9312033191154554,extreme_abs_151_h3,xgboost,local,2.0
+India,Germany,1.6382153130360984,0.9222974875934759,extreme_abs_151_h3,xgboost,local,2.0
+India,France,1.7019521700393256,0.8933687214984471,extreme_abs_151_h3,xgboost,local,2.0
+India,Pakistan,1.7364333025967509,0.8780985502802218,extreme_abs_151_h3,xgboost,local,2.0
+India,United States,1.7705155556954872,0.8632615404966393,extreme_abs_151_h3,xgboost,local,2.0
+India,Japan,1.8004439534244359,0.8504396967052035,extreme_abs_151_h3,xgboost,local,2.0
+India,Australia,1.8987998398393977,0.8096285504293704,extreme_abs_151_h3,xgboost,local,2.0
