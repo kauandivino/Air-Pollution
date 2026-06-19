@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8250,1.4059868247694334,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Ethiopia,8498,1.3649554370849406,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Nigeria,8549,1.3568126452623495,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Australia,8718,1.3305105877893812,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Germany,8743,1.3267060853651866,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+United Kingdom,8777,1.32156674311813,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Turkey,8875,1.3069736680955297,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+South Africa,8988,1.2905419786768833,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Saudi Arabia,8988,1.2905419786768833,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Bangladesh,9099,1.2747984728374355,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Vietnam,9103,1.2742383065305751,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+France,9723,1.192984809662432,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Russia,10154,1.1423469868374854,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Brazil,10400,1.1153260869565218,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+South Korea,10514,1.103232956472116,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Mexico,10525,1.1020799339047815,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Indonesia,11263,1.0298669363711113,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Egypt,12723,0.9116868116283758,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Philippines,17020,0.6815153527818935,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+India,17122,0.6774553968197539,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+China,18407,0.6301619657927867,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+Japan,18899,0.6137568815465276,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
+United States,23448,0.4946857431059291,extreme_abs_151_h3,xgboost,local,inverse_country_size,Pakistan
