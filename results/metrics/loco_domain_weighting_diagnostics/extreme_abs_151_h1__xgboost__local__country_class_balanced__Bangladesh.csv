@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8837,2,0.6665010258252112,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Australia,1,1,2,5889.869565217391,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Brazil,0,9558,2,0.6162240599725247,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Brazil,1,969,2,6.078296764930228,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+China,0,16740,2,0.3518440600488286,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+China,1,1945,2,3.0282105733765508,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Egypt,0,8636,2,0.6820136133878406,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Egypt,1,4277,2,1.3771030080003253,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Ethiopia,0,7897,2,0.7458363385104966,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Ethiopia,1,696,2,8.462456271864069,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+France,0,9860,1,1.194699708969045,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Germany,0,8878,1,1.3268460385711627,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+India,0,11010,2,0.5349563637799629,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+India,1,6370,2,0.924626305371647,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Indonesia,0,10105,2,0.5828668545489749,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Indonesia,1,1331,2,4.425146179727567,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Japan,0,19186,1,0.6139757703760441,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Mexico,0,9655,2,0.6100330984171302,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Mexico,1,1026,2,5.740613611322994,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Nigeria,0,5307,2,1.1098303307362711,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Nigeria,1,3416,2,1.72420069239385,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Pakistan,0,1710,2,3.444368166793796,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Pakistan,1,7797,2,0.7554020219593935,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Philippines,0,17158,2,0.3432725005954885,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Philippines,1,120,2,49.0822463768116,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Russia,0,9196,2,0.6404816839079372,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Russia,1,1044,2,5.641637514576045,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Saudi Arabia,0,9021,2,0.6529065031833934,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Saudi Arabia,1,110,2,53.54426877470356,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+South Africa,0,9057,2,0.6503113133727936,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+South Africa,1,55,2,107.08853754940712,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+South Korea,0,10579,2,0.5567510695923426,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+South Korea,1,109,2,54.03550059832469,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Thailand,0,8342,2,0.7060500557680881,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Thailand,1,47,2,125.3163737280296,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Turkey,0,8495,2,0.6933336745400107,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Turkey,1,519,2,11.348496272095167,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+United Kingdom,0,8882,2,0.663124247378675,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+United Kingdom,1,1,2,5889.869565217391,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+United States,0,23736,2,0.2481407804692194,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+United States,1,30,2,196.3289855072464,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Vietnam,0,8511,2,0.6920302626268818,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
+Vietnam,1,715,2,8.237579811492855,extreme_abs_151_h1,xgboost,local,country_class_balanced,Bangladesh
