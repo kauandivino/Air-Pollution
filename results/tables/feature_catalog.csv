@@ -1,0 +1,65 @@
+feature,group,description
+is_aug_oct,calendar,Temporal calendar encoding
+is_dec_feb,calendar,Temporal calendar encoding
+month,calendar,Temporal calendar encoding
+month_cos,calendar,Temporal calendar encoding
+month_sin,calendar,Temporal calendar encoding
+quarter,calendar,Temporal calendar encoding
+time_index_months,calendar,Temporal calendar encoding
+year,calendar,Temporal calendar encoding
+AQI,current_aqi,Current city-month observation
+Humidity (%),current_meteorology,Current city-month observation
+Wind_Speed (km/h),current_meteorology,Current city-month observation
+Benzene (ug/m3),current_pollutant,Current city-month observation
+CO (mg/m3),current_pollutant,Current city-month observation
+NH3 (ug/m3),current_pollutant,Current city-month observation
+NO (ug/m3),current_pollutant,Current city-month observation
+NO2 (ug/m3),current_pollutant,Current city-month observation
+NOx (ppb),current_pollutant,Current city-month observation
+O3 (ug/m3),current_pollutant,Current city-month observation
+PM10 (ug/m3),current_pollutant,Current city-month observation
+PM2.5 (ug/m3),current_pollutant,Current city-month observation
+SO2 (ug/m3),current_pollutant,Current city-month observation
+Toluene (ug/m3),current_pollutant,Current city-month observation
+Xylene (ug/m3),current_pollutant,Current city-month observation
+CO2_Emission_MT,current_socio_environmental,Current city-month observation
+Deforestation_Rate_%,current_socio_environmental,Current city-month observation
+Industry_Growth_%,current_socio_environmental,Current city-month observation
+Population_Density_per_SqKm,current_socio_environmental,Current city-month observation
+PM25_PM10_ratio,interaction,Domain-informed interaction
+deforestation_aug_oct,interaction,Domain-informed interaction
+humidity_PM25,interaction,Domain-informed interaction
+industry_NO2,interaction,Domain-informed interaction
+low_wind_PM25,interaction,Domain-informed interaction
+AQI_lag_1,lag,City-level lagged observation
+AQI_lag_12,lag,City-level lagged observation
+AQI_lag_2,lag,City-level lagged observation
+AQI_lag_3,lag,City-level lagged observation
+AQI_lag_6,lag,City-level lagged observation
+CO_lag_1,lag,City-level lagged observation
+Deforestation_Rate_lag_1,lag,City-level lagged observation
+Humidity_lag_1,lag,City-level lagged observation
+NO2_lag_1,lag,City-level lagged observation
+O3_lag_1,lag,City-level lagged observation
+PM10_lag_1,lag,City-level lagged observation
+PM10_lag_2,lag,City-level lagged observation
+PM10_lag_3,lag,City-level lagged observation
+PM25_lag_1,lag,City-level lagged observation
+PM25_lag_2,lag,City-level lagged observation
+PM25_lag_3,lag,City-level lagged observation
+SO2_lag_1,lag,City-level lagged observation
+Wind_Speed_lag_1,lag,City-level lagged observation
+AQI_delta_1,rolling,City-level rolling statistic using past months
+AQI_roll_max_3,rolling,City-level rolling statistic using past months
+AQI_roll_max_6,rolling,City-level rolling statistic using past months
+AQI_roll_mean_3,rolling,City-level rolling statistic using past months
+AQI_roll_mean_6,rolling,City-level rolling statistic using past months
+AQI_roll_std_3,rolling,City-level rolling statistic using past months
+AQI_roll_std_6,rolling,City-level rolling statistic using past months
+AQI_trend_3,rolling,City-level rolling statistic using past months
+PM10_roll_max_3,rolling,City-level rolling statistic using past months
+PM10_roll_mean_3,rolling,City-level rolling statistic using past months
+PM10_roll_std_3,rolling,City-level rolling statistic using past months
+PM25_roll_max_3,rolling,City-level rolling statistic using past months
+PM25_roll_mean_3,rolling,City-level rolling statistic using past months
+PM25_roll_std_3,rolling,City-level rolling statistic using past months
