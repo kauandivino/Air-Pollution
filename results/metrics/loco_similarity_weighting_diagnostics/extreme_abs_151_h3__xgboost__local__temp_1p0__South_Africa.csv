@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+South Africa,Australia,0.45968320873701657,1.7855808992251325,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,France,0.5047514843855468,1.706894299974716,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,United Kingdom,0.5334577666317704,1.6585923125716449,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Germany,0.5338569516836945,1.6579303594429167,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Thailand,0.6255165805372858,1.5127216176098477,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,South Korea,0.6278181288249653,1.50924401922651,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,United States,0.7295693951778642,1.3632309892898737,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Saudi Arabia,0.872978089473261,1.1811031980182365,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Turkey,0.8881336132312787,1.1633379215157982,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Japan,0.9276359736067722,1.118279150729192,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Philippines,1.046905286322305,0.9925496112180121,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Indonesia,1.1282823375440183,0.9149779313159113,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,China,1.1804124252598425,0.8685019739353401,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Ethiopia,1.2272374962432895,0.828771751661999,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Russia,1.385240005192198,0.7076448040113487,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Mexico,1.3857670792085985,0.7072719210993929,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Brazil,1.4057501923048874,0.6932787059606478,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Vietnam,1.5310829146393523,0.6116127795485363,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,India,1.6189956827530037,0.5601399151448719,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Egypt,1.6354854699677617,0.5509790649475146,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Nigeria,1.9317699245699307,0.4096947454777615,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Bangladesh,2.6615596344902177,0.24883101403739535,extreme_abs_151_h3,xgboost,local,1.0
+South Africa,Pakistan,2.686368385754775,0.24883101403739535,extreme_abs_151_h3,xgboost,local,1.0
