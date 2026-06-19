@@ -1,0 +1,3 @@
+split_name,target,held_out_country,model,model_family,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+leave_one_country_out,extreme_abs_151_h1,United Kingdom,random_forest,ensemble,validation,47877,6516,0.13609875305470268,0.9197109259143221,0.9101539668488696,0.6481481481481481,0.8970227133210559,0.7525428093214883,0.8523122922199563,38188,3173,671,5845,0.07671477962331665,0.10297728667894414,0.9748738699215306,0.8771784736494046
+leave_one_country_out,extreme_abs_151_h1,United Kingdom,random_forest,ensemble,test,10439,1,9.579461634256155e-05,0.9999042053836574,0.5,0.0,0.0,0.0,0.49997605019878333,10438,0,1,0,0.0,1.0,0.8200804751868174,0.0005321979776476849
