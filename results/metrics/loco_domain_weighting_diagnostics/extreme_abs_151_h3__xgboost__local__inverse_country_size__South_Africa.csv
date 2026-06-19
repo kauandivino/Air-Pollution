@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8225,1.4127923880005286,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Ethiopia,8520,1.3638752806695245,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Nigeria,8557,1.3579779585490648,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Australia,8706,1.334736663370589,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Germany,8778,1.3237887208138925,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Turkey,8782,1.3231857653500738,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+United Kingdom,8784,1.322884493545577,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Saudi Arabia,9010,1.2897022631858321,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Bangladesh,9097,1.2773680764322686,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Vietnam,9103,1.2765261332862077,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Pakistan,9472,1.2267965995887191,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+France,9746,1.192306319649533,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Russia,10102,1.1502887934373736,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Brazil,10382,1.1192657861013626,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Mexico,10519,1.1046884106192933,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+South Korea,10544,1.102069175958303,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Indonesia,11271,1.030983709635733,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Egypt,12717,0.9137546112529958,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Philippines,17065,0.6809386106829386,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+India,17098,0.6796243649142794,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+China,18486,0.6285955529213647,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+Japan,18888,0.6152169309246266,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
+United States,23413,0.49631475638766276,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Africa
