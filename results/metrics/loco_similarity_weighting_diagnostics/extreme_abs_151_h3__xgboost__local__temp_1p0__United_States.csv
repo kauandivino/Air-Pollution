@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+United States,France,0.41122705993169717,1.799943712922741,extreme_abs_151_h3,xgboost,local,1.0
+United States,Japan,0.4462832415303286,1.7379377552926982,extreme_abs_151_h3,xgboost,local,1.0
+United States,Germany,0.5509713228446906,1.5651961176007068,extreme_abs_151_h3,xgboost,local,1.0
+United States,United Kingdom,0.5528955772226839,1.5621871780300136,extreme_abs_151_h3,xgboost,local,1.0
+United States,South Korea,0.6375107428346092,1.4354404141094563,extreme_abs_151_h3,xgboost,local,1.0
+United States,Thailand,0.6462221949445969,1.4229899532201586,extreme_abs_151_h3,xgboost,local,1.0
+United States,South Africa,0.7295693951778642,1.309195803920768,extreme_abs_151_h3,xgboost,local,1.0
+United States,Philippines,0.8941462299687519,1.110528717263107,extreme_abs_151_h3,xgboost,local,1.0
+United States,Australia,0.932887045957595,1.068328639177024,extreme_abs_151_h3,xgboost,local,1.0
+United States,Turkey,0.967069136915196,1.0324280072949663,extreme_abs_151_h3,xgboost,local,1.0
+United States,Indonesia,0.987833481223088,1.011211353931465,extreme_abs_151_h3,xgboost,local,1.0
+United States,China,1.0568225016671278,0.9438008982801283,extreme_abs_151_h3,xgboost,local,1.0
+United States,Saudi Arabia,1.0675789685899777,0.9337033395228471,extreme_abs_151_h3,xgboost,local,1.0
+United States,Russia,1.080679243782298,0.9215513398873163,extreme_abs_151_h3,xgboost,local,1.0
+United States,Ethiopia,1.0973130537622289,0.9063492151532494,extreme_abs_151_h3,xgboost,local,1.0
+United States,Mexico,1.1626478821446038,0.8490260343665889,extreme_abs_151_h3,xgboost,local,1.0
+United States,Brazil,1.222450413231151,0.7997405155552826,extreme_abs_151_h3,xgboost,local,1.0
+United States,Vietnam,1.36010680156899,0.6968923360342788,extreme_abs_151_h3,xgboost,local,1.0
+United States,Egypt,1.6806855599210937,0.5057549041599408,extreme_abs_151_h3,xgboost,local,1.0
+United States,India,1.7705155556954872,0.4623037659291099,extreme_abs_151_h3,xgboost,local,1.0
+United States,Nigeria,1.8494785859483194,0.4272029302321951,extreme_abs_151_h3,xgboost,local,1.0
+United States,Bangladesh,2.558816408237308,0.24914353405797776,extreme_abs_151_h3,xgboost,local,1.0
+United States,Pakistan,2.5628676502233048,0.24914353405797776,extreme_abs_151_h3,xgboost,local,1.0
