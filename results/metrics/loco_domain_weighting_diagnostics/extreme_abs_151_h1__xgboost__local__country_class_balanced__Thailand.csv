@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8842,2,0.6682164176902727,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Australia,1,1,2,5908.369565217391,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Bangladesh,0,2882,2,2.0500935340795943,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Bangladesh,1,6355,2,0.9297198371703213,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Brazil,0,9593,2,0.6159042598996551,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Brazil,1,978,2,6.0412776740464125,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+China,0,16760,2,0.3525280170177441,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+China,1,1939,2,3.0471220037222233,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Egypt,0,8608,2,0.6863812227250687,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Egypt,1,4271,2,1.383369132572557,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Ethiopia,0,7933,2,0.7447837596391518,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Ethiopia,1,717,2,8.240403856649081,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+France,0,9882,1,1.1957841662046937,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Germany,0,8879,1,1.33086373808253,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+India,0,10988,2,0.5377110998559693,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+India,1,6293,2,0.9388796385217529,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Indonesia,0,10064,2,0.5870796467823322,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Indonesia,1,1339,2,4.412523947137708,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Japan,0,19183,1,0.6160005802238848,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Mexico,0,9647,2,0.6124566772278834,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Mexico,1,1000,2,5.9083695652173915,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Nigeria,0,5323,2,1.1099698600821701,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Nigeria,1,3400,2,1.7377557544757034,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Pakistan,0,1706,2,3.463288139048881,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Pakistan,1,7880,2,0.7497930920326639,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Philippines,0,17275,2,0.34201849871012396,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Philippines,1,119,2,49.650164413591526,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Russia,0,9131,2,0.6470670863232276,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Russia,1,1042,2,5.670220312108821,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Saudi Arabia,0,9033,2,0.6540871875586617,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Saudi Arabia,1,111,2,53.22855464159812,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+South Africa,0,9027,2,0.6545219414221105,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+South Africa,1,52,2,113.62249163879599,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+South Korea,0,10563,2,0.5593457886223034,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+South Korea,1,114,2,51.827803203661325,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Turkey,0,8461,2,0.6983062953808523,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Turkey,1,528,2,11.190093873517787,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+United Kingdom,0,8875,2,0.6657317819963258,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+United Kingdom,1,1,2,5908.369565217391,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+United States,0,23722,2,0.24906709237068508,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+United States,1,29,2,203.7368815592204,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Vietnam,0,8527,2,0.6929013211231841,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
+Vietnam,1,712,2,8.298271861260382,extreme_abs_151_h1,xgboost,local,country_class_balanced,Thailand
