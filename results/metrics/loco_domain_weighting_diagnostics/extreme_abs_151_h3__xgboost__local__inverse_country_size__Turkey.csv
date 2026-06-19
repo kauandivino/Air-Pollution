@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8226,1.413254896986226,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Ethiopia,8517,1.3649682731723254,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Nigeria,8566,1.357160259468678,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Australia,8710,1.3347227075325712,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+United Kingdom,8761,1.326952948591336,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Germany,8769,1.325742363166689,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+South Africa,8965,1.296757923325008,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Saudi Arabia,9015,1.2895656996792786,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Bangladesh,9084,1.2797704516301955,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Vietnam,9088,1.2792071723821188,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Pakistan,9476,1.2268293354378108,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+France,9747,1.1927192759422074,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Russia,10082,1.1530881553866987,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Brazil,10382,1.1197683281264397,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+South Korea,10527,1.104344521953899,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Mexico,10536,1.1034011752665809,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Indonesia,11267,1.031812796894355,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Egypt,12692,0.9159655517340605,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Philippines,17068,0.6811246064336006,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+India,17112,0.6793732341402932,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+China,18469,0.6294566453304833,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+Japan,18905,0.614939686993319,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
+United States,23421,0.4963679937922674,extreme_abs_151_h3,xgboost,local,inverse_country_size,Turkey
