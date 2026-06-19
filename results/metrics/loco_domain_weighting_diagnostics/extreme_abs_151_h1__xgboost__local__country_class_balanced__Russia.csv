@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8835,2,0.6642602298171797,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Australia,1,1,2,5868.739130434783,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Bangladesh,0,2879,2,2.0384644426657808,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Bangladesh,1,6340,2,0.9256686325606913,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Brazil,0,9592,2,0.6118368568009573,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Brazil,1,980,2,5.988509316770187,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+China,0,16765,2,0.35005899972769355,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+China,1,1942,2,3.022007791161062,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Egypt,0,8611,2,0.6815397898542309,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Egypt,1,4249,2,1.3812047847575388,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Ethiopia,0,7936,2,0.7395084589761571,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Ethiopia,1,711,2,8.254204121567907,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+France,0,9884,1,1.1875230939770909,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Germany,0,8886,1,1.3208955954163364,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+India,0,11010,2,0.5330371598941673,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+India,1,6289,2,0.9331752473262495,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Indonesia,0,10060,2,0.583373671017374,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Indonesia,1,1350,2,4.347214170692432,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Japan,0,19169,1,0.6123156273602987,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Mexico,0,9637,2,0.6089798827887084,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Mexico,1,1014,2,5.787711173998799,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Nigeria,0,5330,2,1.101076759931479,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Nigeria,1,3398,2,1.7271156946541444,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Pakistan,0,1701,2,3.450169976740025,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Pakistan,1,7869,2,0.7458049473166581,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Philippines,0,17270,2,0.339822763777347,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Philippines,1,124,2,47.32854137447406,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Saudi Arabia,0,8965,2,0.6546279007735396,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Saudi Arabia,1,124,2,47.32854137447406,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+South Africa,0,9088,2,0.6457679500918555,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+South Africa,1,50,2,117.37478260869565,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+South Korea,0,10563,2,0.5555939723974991,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+South Korea,1,114,2,51.480167810831425,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Thailand,0,8303,2,0.7068215260068388,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Thailand,1,38,2,154.44050343249427,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Turkey,0,8454,2,0.6941967270445686,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Turkey,1,535,2,10.969605851279967,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+United Kingdom,0,8910,2,0.6586688137412775,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+United Kingdom,1,1,2,5868.739130434783,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+United States,0,23698,2,0.2476470221299174,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+United States,1,31,2,189.31416549789623,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Vietnam,0,8538,2,0.6873669630399136,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
+Vietnam,1,718,2,8.17373137943563,extreme_abs_151_h1,xgboost,local,country_class_balanced,Russia
