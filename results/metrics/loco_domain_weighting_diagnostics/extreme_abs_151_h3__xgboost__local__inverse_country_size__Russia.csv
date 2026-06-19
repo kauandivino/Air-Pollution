@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8241,1.4043567950280411,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Ethiopia,8520,1.3583690549091652,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Nigeria,8558,1.3523375026672222,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Australia,8708,1.32904275928182,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Germany,8778,1.3184443321743093,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Turkey,8782,1.317843810957195,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+United Kingdom,8791,1.3164946363128298,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+South Africa,8990,1.287353097644726,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Saudi Arabia,9036,1.2807995072848701,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Vietnam,9099,1.2719314592621263,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Bangladesh,9119,1.2691418300061506,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Pakistan,9461,1.223264385141749,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+France,9744,1.1877364888984079,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Brazil,10388,1.11410322947883,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Mexico,10519,1.1002285719009495,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+South Korea,10550,1.0969956727797239,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Indonesia,11269,1.027003669165506,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Egypt,12708,0.9107101312422164,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Philippines,17072,0.6779114543009658,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+India,17092,0.6771182042959331,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+China,18473,0.6264983677705888,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+Japan,18896,0.6124737694658174,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
+United States,23392,0.4947548028311426,extreme_abs_151_h3,xgboost,local,inverse_country_size,Russia
