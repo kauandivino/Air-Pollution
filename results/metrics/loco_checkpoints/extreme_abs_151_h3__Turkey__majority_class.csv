@@ -1,0 +1,3 @@
+split_name,target,held_out_country,model,model_family,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+leave_one_country_out,extreme_abs_151_h3,Turkey,majority_class,baseline,validation,47186,6317,0.1338744542872886,0.8661255457127114,0.5,0.0,0.0,0.0,0.4641303730622906,40869,0,6317,0,0.0,1.0,0.5,0.1338744542872886
+leave_one_country_out,extreme_abs_151_h3,Turkey,majority_class,baseline,test,10434,600,0.05750431282346176,0.9424956871765382,0.5,0.0,0.0,0.0,0.485198342214328,9834,0,600,0,0.0,1.0,0.5,0.05750431282346176
