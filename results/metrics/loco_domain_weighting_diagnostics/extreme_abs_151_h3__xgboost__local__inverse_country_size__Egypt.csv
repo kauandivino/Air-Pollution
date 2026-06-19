@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8229,1.3924772939815182,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Ethiopia,8480,1.3512612797374897,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Nigeria,8630,1.3277746989772785,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Australia,8704,1.3164861732736572,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+United Kingdom,8766,1.3071749546171474,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Germany,8770,1.3065787516731941,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Turkey,8838,1.29652587148381,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+South Africa,8996,1.27375451891662,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Saudi Arabia,8996,1.27375451891662,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Bangladesh,9076,1.2625270661275796,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Vietnam,9079,1.2621098856893835,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Pakistan,9461,1.2111505815636734,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+France,9748,1.1754919626768479,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Russia,10143,1.1297146457826988,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Brazil,10391,1.102751963446628,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+South Korea,10543,1.0868534242790395,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Mexico,10572,1.0838720821201204,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Indonesia,11245,1.019003615133296,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Philippines,16963,0.6755111508680017,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+India,17143,0.6684183428906209,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+China,18475,0.6202270988998059,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+Japan,18864,0.6074372165062507,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
+United States,23438,0.4888939180891677,extreme_abs_151_h3,xgboost,local,inverse_country_size,Egypt
