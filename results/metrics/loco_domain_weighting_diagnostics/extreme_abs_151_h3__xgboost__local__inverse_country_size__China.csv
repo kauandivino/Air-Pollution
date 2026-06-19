@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8290,1.352687890071852,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Ethiopia,8570,1.3084927198011262,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Nigeria,8605,1.3031705530151834,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Australia,8699,1.2890887008501726,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+United Kingdom,8722,1.2856893612354565,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Germany,8802,1.2740039319127077,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Turkey,8829,1.270107895423678,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+South Africa,8961,1.251398572558381,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Vietnam,9083,1.2345901804134816,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Bangladesh,9084,1.2344542722033964,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Saudi Arabia,9126,1.2287730230874043,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Pakistan,9487,1.1820156644561666,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+France,9705,1.15546446251372,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Russia,10021,1.1190283014365485,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Brazil,10362,1.0822025293085942,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Mexico,10588,1.0591030042213498,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+South Korea,10593,1.0586030972052913,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Indonesia,11234,0.9982003390329047,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Egypt,12725,0.8812402835910139,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Philippines,16953,0.6614630218070933,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+India,17155,0.6536742995450686,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+Japan,18928,0.5924441361314271,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
+United States,23395,0.47932389864054936,extreme_abs_151_h3,xgboost,local,inverse_country_size,China
