@@ -1,0 +1,92 @@
+target,held_out_country,feature,native_importance
+extreme_abs_151_h3,Vietnam,PM2.5 (ug/m3),0.10866795
+extreme_abs_151_h3,Vietnam,PM25_city_past_anomaly,0.070703536
+extreme_abs_151_h3,Vietnam,humidity_PM25,0.06391483
+extreme_abs_151_h3,Vietnam,CO (mg/m3),0.05760536
+extreme_abs_151_h3,Vietnam,PM10 (ug/m3),0.037797783
+extreme_abs_151_h3,Vietnam,PM10_city_past_anomaly,0.03485843
+extreme_abs_151_h3,Vietnam,AQI_lag_6,0.02560252
+extreme_abs_151_h3,Vietnam,AQI,0.024910014
+extreme_abs_151_h3,Vietnam,month,0.02238483
+extreme_abs_151_h3,Vietnam,PM25_city_past_zscore,0.021838041
+extreme_abs_151_h3,Vietnam,CO_city_past_anomaly,0.021294767
+extreme_abs_151_h3,Vietnam,SO2 (ug/m3),0.02023372
+extreme_abs_151_h3,Vietnam,AQI_roll_max_6,0.016920485
+extreme_abs_151_h3,Vietnam,AQI_roll_mean_6,0.016703678
+extreme_abs_151_h3,Vietnam,is_aug_oct,0.016067654
+extreme_abs_151_h3,Vietnam,month_cos,0.01413773
+extreme_abs_151_h3,Vietnam,AQI_city_past_anomaly,0.014069376
+extreme_abs_151_h3,Vietnam,Toluene (ug/m3),0.013223175
+extreme_abs_151_h3,Vietnam,deforestation_aug_oct,0.012444236
+extreme_abs_151_h3,Vietnam,NO (ug/m3),0.012372533
+extreme_abs_151_h3,Vietnam,SO2_lag_1,0.0118662305
+extreme_abs_151_h3,Vietnam,NOx (ppb),0.011738569
+extreme_abs_151_h3,Vietnam,is_dec_feb,0.011721811
+extreme_abs_151_h3,Vietnam,AQI_city_past_zscore,0.011295091
+extreme_abs_151_h3,Vietnam,month_sin,0.010915071
+extreme_abs_151_h3,Vietnam,Population_Density_per_SqKm,0.010817492
+extreme_abs_151_h3,Vietnam,NO2 (ug/m3),0.010601246
+extreme_abs_151_h3,Vietnam,NO2_city_past_anomaly,0.010285576
+extreme_abs_151_h3,Vietnam,Humidity_lag_1,0.009930488
+extreme_abs_151_h3,Vietnam,PM10_city_past_zscore,0.009656391
+extreme_abs_151_h3,Vietnam,AQI_trend_3,0.00938612
+extreme_abs_151_h3,Vietnam,low_wind_PM25,0.0092840055
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_%,0.009177345
+extreme_abs_151_h3,Vietnam,industry_NO2,0.009005764
+extreme_abs_151_h3,Vietnam,PM25_roll_max_3,0.008939814
+extreme_abs_151_h3,Vietnam,Xylene (ug/m3),0.008501084
+extreme_abs_151_h3,Vietnam,quarter,0.007915652
+extreme_abs_151_h3,Vietnam,CO2_Emission_MT,0.007900738
+extreme_abs_151_h3,Vietnam,PM10_roll_max_3,0.0077909655
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_lag_1,0.007703037
+extreme_abs_151_h3,Vietnam,AQI_lag_12,0.007702509
+extreme_abs_151_h3,Vietnam,PM10_roll_mean_3,0.0076667103
+extreme_abs_151_h3,Vietnam,CO_city_past_zscore,0.0071374252
+extreme_abs_151_h3,Vietnam,PM10_lag_3,0.0065213377
+extreme_abs_151_h3,Vietnam,AQI_roll_std_6,0.006242054
+extreme_abs_151_h3,Vietnam,Benzene (ug/m3),0.0062160227
+extreme_abs_151_h3,Vietnam,PM25_roll_mean_3,0.0056879614
+extreme_abs_151_h3,Vietnam,Humidity_city_past_zscore,0.005566678
+extreme_abs_151_h3,Vietnam,AQI_roll_max_3,0.005387129
+extreme_abs_151_h3,Vietnam,CO_lag_1,0.005275016
+extreme_abs_151_h3,Vietnam,Industry_Growth_%,0.005155459
+extreme_abs_151_h3,Vietnam,Humidity_city_past_anomaly,0.0048425975
+extreme_abs_151_h3,Vietnam,AQI_delta_1,0.0046341782
+extreme_abs_151_h3,Vietnam,NO2_city_past_zscore,0.004527212
+extreme_abs_151_h3,Vietnam,time_index_months,0.004277143
+extreme_abs_151_h3,Vietnam,AQI_roll_mean_3,0.0040792893
+extreme_abs_151_h3,Vietnam,NH3 (ug/m3),0.004052107
+extreme_abs_151_h3,Vietnam,Humidity (%),0.0038687247
+extreme_abs_151_h3,Vietnam,NO2_lag_1,0.0038605076
+extreme_abs_151_h3,Vietnam,PM25_roll_std_3,0.0037945085
+extreme_abs_151_h3,Vietnam,PM10_lag_2,0.0037634834
+extreme_abs_151_h3,Vietnam,AQI_city_history_count,0.0037414369
+extreme_abs_151_h3,Vietnam,PM10_roll_std_3,0.0037275923
+extreme_abs_151_h3,Vietnam,year,0.003526322
+extreme_abs_151_h3,Vietnam,AQI_lag_3,0.0033995938
+extreme_abs_151_h3,Vietnam,AQI_roll_std_3,0.0032392493
+extreme_abs_151_h3,Vietnam,PM25_city_history_count,0.0032252173
+extreme_abs_151_h3,Vietnam,PM25_lag_2,0.0032044726
+extreme_abs_151_h3,Vietnam,PM10_lag_1,0.0031083967
+extreme_abs_151_h3,Vietnam,PM25_lag_3,0.0030576272
+extreme_abs_151_h3,Vietnam,PM10_city_history_count,0.0030536246
+extreme_abs_151_h3,Vietnam,Wind_Speed_lag_1,0.0029975793
+extreme_abs_151_h3,Vietnam,PM25_PM10_ratio,0.0029812828
+extreme_abs_151_h3,Vietnam,O3_lag_1,0.0029210385
+extreme_abs_151_h3,Vietnam,O3 (ug/m3),0.0028411453
+extreme_abs_151_h3,Vietnam,O3_city_past_zscore,0.0027243728
+extreme_abs_151_h3,Vietnam,PM25_lag_1,0.0026352247
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_past_anomaly,0.0026193445
+extreme_abs_151_h3,Vietnam,AQI_lag_1,0.00261391
+extreme_abs_151_h3,Vietnam,O3_city_past_anomaly,0.0025513556
+extreme_abs_151_h3,Vietnam,Wind_Speed (km/h),0.0025228714
+extreme_abs_151_h3,Vietnam,AQI_lag_2,0.002482845
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_past_anomaly,0.0022503303
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_past_zscore,0.0021566765
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_past_zscore,0.001977261
+extreme_abs_151_h3,Vietnam,CO_city_history_count,0.0
+extreme_abs_151_h3,Vietnam,NO2_city_history_count,0.0
+extreme_abs_151_h3,Vietnam,O3_city_history_count,0.0
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_history_count,0.0
+extreme_abs_151_h3,Vietnam,Humidity_city_history_count,0.0
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_history_count,0.0
