@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Thailand,United Kingdom,0.2971548981872281,1.3722253650811747,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Germany,0.36466995330485785,1.3266755790981972,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Turkey,0.41211561254695994,1.2955734541830273,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,France,0.5095174316829632,1.233989614510453,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,South Africa,0.6255165805372858,1.164454730430544,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Philippines,0.627477546496159,1.1633135619266013,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,United States,0.6462221949445969,1.1524615438030383,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,South Korea,0.678294699446288,1.1341277751398064,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Australia,0.7992529838949864,1.0675696749063581,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Japan,0.8890336191513076,1.0207058681929984,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Ethiopia,0.9047178108493615,1.0127326989809873,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Indonesia,0.9169852808798866,1.006539876944711,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Saudi Arabia,0.9481364698249769,0.9909838814278618,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Mexico,0.9654428768158206,0.9824456908681517,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Russia,0.9786545122788826,0.9759772219882981,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,China,1.005441413011853,0.9629926676008868,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Vietnam,1.0318751792253202,0.9503486474095705,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Brazil,1.068645427013376,0.9330360049775666,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Egypt,1.3644490660439188,0.8047582897342803,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,India,1.4418128720344752,0.7742230947247782,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Nigeria,1.6640021904519622,0.6928166632037692,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Pakistan,2.3391670085379253,0.4943199600252156,extreme_abs_151_h3,xgboost,local,2.0
+Thailand,Bangladesh,2.366016708545493,0.4877281348417251,extreme_abs_151_h3,xgboost,local,2.0
