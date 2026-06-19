@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Japan,United States,0.4462832415303286,1.9529134301582034,extreme_abs_151_h3,xgboost,local,1.0
+Japan,South Korea,0.5930898646905709,1.6862644556358874,extreme_abs_151_h3,xgboost,local,1.0
+Japan,France,0.7742888849691646,1.4067986765671134,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Germany,0.8230711407244093,1.3398188591978273,extreme_abs_151_h3,xgboost,local,1.0
+Japan,United Kingdom,0.8250468850000319,1.3371743330703318,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Thailand,0.8890336191513076,1.2542928488129619,extreme_abs_151_h3,xgboost,local,1.0
+Japan,South Africa,0.9276359736067722,1.206796818803334,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Indonesia,0.9510597178537853,1.1788576165680589,extreme_abs_151_h3,xgboost,local,1.0
+Japan,China,0.9759477735396628,1.1498802336583929,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Philippines,1.0039153748679184,1.1181663889430633,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Ethiopia,1.06975560453935,1.0469173210660927,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Russia,1.0773724331350165,1.0389734233374999,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Mexico,1.176568096359369,0.9408584926007484,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Turkey,1.1854685393452933,0.9325215913226867,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Brazil,1.1989500736608618,0.9200341336679235,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Australia,1.230505066615717,0.8914557300202466,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Saudi Arabia,1.2418570343663324,0.8813931762755924,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Vietnam,1.4445626407282712,0.7196739081716673,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Nigeria,1.763956048126428,0.5229076111305981,extreme_abs_151_h3,xgboost,local,1.0
+Japan,India,1.8004439534244359,0.5041717034011879,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Egypt,1.8692318797935041,0.4706567054180455,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Bangladesh,2.5354323074657312,0.24973627108626764,extreme_abs_151_h3,xgboost,local,1.0
+Japan,Pakistan,2.5703775771821076,0.24973627108626764,extreme_abs_151_h3,xgboost,local,1.0
