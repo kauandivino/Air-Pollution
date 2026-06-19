@@ -1,0 +1,274 @@
+target,held_out_country,feature,native_importance,group
+extreme_abs_151_h3,Brazil,PM2.5 (ug/m3),0.13173276,current_pollutant
+extreme_abs_151_h3,Brazil,humidity_PM25,0.0935209,interaction
+extreme_abs_151_h3,Brazil,PM25_city_past_anomaly,0.06332881,local_normalization
+extreme_abs_151_h3,Brazil,AQI_lag_6,0.042374477,lag
+extreme_abs_151_h3,Brazil,AQI_roll_mean_6,0.036828067,rolling
+extreme_abs_151_h3,Brazil,CO (mg/m3),0.035545476,current_pollutant
+extreme_abs_151_h3,Brazil,PM10_city_past_anomaly,0.029665671,local_normalization
+extreme_abs_151_h3,Brazil,PM10 (ug/m3),0.027299175,current_pollutant
+extreme_abs_151_h3,Brazil,AQI,0.027258314,current_aqi
+extreme_abs_151_h3,Brazil,month,0.025456041,calendar
+extreme_abs_151_h3,Brazil,SO2 (ug/m3),0.023903009,current_pollutant
+extreme_abs_151_h3,Brazil,PM25_city_past_zscore,0.020102069,local_normalization
+extreme_abs_151_h3,Brazil,industry_NO2,0.012877327,interaction
+extreme_abs_151_h3,Brazil,quarter,0.012558083,calendar
+extreme_abs_151_h3,Brazil,AQI_roll_max_6,0.012318612,rolling
+extreme_abs_151_h3,Brazil,NO (ug/m3),0.0121285925,current_pollutant
+extreme_abs_151_h3,Brazil,is_dec_feb,0.0120515665,calendar
+extreme_abs_151_h3,Brazil,Population_Density_per_SqKm,0.012016793,current_socio_environmental
+extreme_abs_151_h3,Brazil,deforestation_aug_oct,0.011268837,interaction
+extreme_abs_151_h3,Brazil,Xylene (ug/m3),0.011178946,current_pollutant
+extreme_abs_151_h3,Brazil,month_cos,0.010733129,calendar
+extreme_abs_151_h3,Brazil,SO2_lag_1,0.010700286,lag
+extreme_abs_151_h3,Brazil,PM10_roll_mean_3,0.0105357,rolling
+extreme_abs_151_h3,Brazil,Toluene (ug/m3),0.010464225,current_pollutant
+extreme_abs_151_h3,Brazil,NO2 (ug/m3),0.010256239,current_pollutant
+extreme_abs_151_h3,Brazil,month_sin,0.010228663,calendar
+extreme_abs_151_h3,Brazil,AQI_city_past_zscore,0.010192205,local_normalization
+extreme_abs_151_h3,Brazil,is_aug_oct,0.009968638,calendar
+extreme_abs_151_h3,Brazil,NO2_city_past_anomaly,0.009777361,local_normalization
+extreme_abs_151_h3,Brazil,PM10_city_past_zscore,0.009556596,local_normalization
+extreme_abs_151_h3,Brazil,AQI_city_past_anomaly,0.00936745,local_normalization
+extreme_abs_151_h3,Brazil,NOx (ppb),0.009027136,current_pollutant
+extreme_abs_151_h3,Brazil,CO_city_past_anomaly,0.008714057,local_normalization
+extreme_abs_151_h3,Brazil,Deforestation_Rate_%,0.008341838,current_socio_environmental
+extreme_abs_151_h3,Brazil,PM25_roll_max_3,0.007986187,rolling
+extreme_abs_151_h3,Brazil,Deforestation_Rate_lag_1,0.0077323387,lag
+extreme_abs_151_h3,Brazil,PM25_roll_mean_3,0.00712929,rolling
+extreme_abs_151_h3,Brazil,PM10_roll_max_3,0.0071142404,rolling
+extreme_abs_151_h3,Brazil,Industry_Growth_%,0.007110015,current_socio_environmental
+extreme_abs_151_h3,Brazil,CO2_Emission_MT,0.006932733,current_socio_environmental
+extreme_abs_151_h3,Brazil,AQI_lag_12,0.0067080646,lag
+extreme_abs_151_h3,Brazil,Humidity_city_past_anomaly,0.0065417164,local_normalization
+extreme_abs_151_h3,Brazil,AQI_roll_max_3,0.006228972,rolling
+extreme_abs_151_h3,Brazil,CO_city_past_zscore,0.005849934,local_normalization
+extreme_abs_151_h3,Brazil,AQI_trend_3,0.005769401,rolling
+extreme_abs_151_h3,Brazil,Humidity_lag_1,0.005572974,lag
+extreme_abs_151_h3,Brazil,Benzene (ug/m3),0.0051508415,current_pollutant
+extreme_abs_151_h3,Brazil,NH3 (ug/m3),0.0048779338,current_pollutant
+extreme_abs_151_h3,Brazil,NO2_lag_1,0.0048553813,lag
+extreme_abs_151_h3,Brazil,NO2_city_past_zscore,0.0046413997,local_normalization
+extreme_abs_151_h3,Brazil,AQI_delta_1,0.00458392,rolling
+extreme_abs_151_h3,Brazil,Humidity_city_past_zscore,0.004462625,local_normalization
+extreme_abs_151_h3,Brazil,Humidity (%),0.0042903405,current_meteorology
+extreme_abs_151_h3,Brazil,AQI_roll_std_6,0.004232213,rolling
+extreme_abs_151_h3,Brazil,low_wind_PM25,0.0040820367,interaction
+extreme_abs_151_h3,Brazil,AQI_roll_mean_3,0.004075237,rolling
+extreme_abs_151_h3,Brazil,time_index_months,0.0040501105,calendar
+extreme_abs_151_h3,Brazil,CO_lag_1,0.004025942,lag
+extreme_abs_151_h3,Brazil,PM10_lag_3,0.003994432,lag
+extreme_abs_151_h3,Brazil,PM25_lag_2,0.0038318369,lag
+extreme_abs_151_h3,Brazil,O3 (ug/m3),0.0036418173,current_pollutant
+extreme_abs_151_h3,Brazil,PM10_lag_1,0.0035292823,lag
+extreme_abs_151_h3,Brazil,AQI_city_history_count,0.0033419146,local_normalization
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_past_anomaly,0.0033122126,local_normalization
+extreme_abs_151_h3,Brazil,PM10_lag_2,0.0033105405,lag
+extreme_abs_151_h3,Brazil,PM25_roll_std_3,0.0031439792,rolling
+extreme_abs_151_h3,Brazil,Wind_Speed_lag_1,0.002946602,lag
+extreme_abs_151_h3,Brazil,O3_lag_1,0.002945096,lag
+extreme_abs_151_h3,Brazil,O3_city_past_zscore,0.002917793,local_normalization
+extreme_abs_151_h3,Brazil,AQI_roll_std_3,0.0028984244,rolling
+extreme_abs_151_h3,Brazil,AQI_lag_3,0.0028852187,lag
+extreme_abs_151_h3,Brazil,PM25_lag_1,0.0028224313,lag
+extreme_abs_151_h3,Brazil,PM25_lag_3,0.0027801562,lag
+extreme_abs_151_h3,Brazil,AQI_lag_1,0.0027366774,lag
+extreme_abs_151_h3,Brazil,PM10_roll_std_3,0.0027262168,rolling
+extreme_abs_151_h3,Brazil,PM25_PM10_ratio,0.0026480837,interaction
+extreme_abs_151_h3,Brazil,AQI_lag_2,0.0026384518,lag
+extreme_abs_151_h3,Brazil,O3_city_past_anomaly,0.0025674284,local_normalization
+extreme_abs_151_h3,Brazil,Wind_Speed (km/h),0.002500277,current_meteorology
+extreme_abs_151_h3,Brazil,PM25_city_history_count,0.00249909,local_normalization
+extreme_abs_151_h3,Brazil,Wind_Speed_city_past_anomaly,0.0024037128,local_normalization
+extreme_abs_151_h3,Brazil,Wind_Speed_city_past_zscore,0.0021989627,local_normalization
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_past_zscore,0.0021514047,local_normalization
+extreme_abs_151_h3,Brazil,PM10_city_history_count,0.000867559,local_normalization
+extreme_abs_151_h3,Brazil,year,0.00047956963,calendar
+extreme_abs_151_h3,Brazil,Humidity_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Brazil,O3_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Brazil,Wind_Speed_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Brazil,NO2_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Brazil,CO_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Brazil,Deforestation_Rate_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,China,PM25_city_past_anomaly,0.0748127,local_normalization
+extreme_abs_151_h3,China,humidity_PM25,0.074396245,interaction
+extreme_abs_151_h3,China,PM2.5 (ug/m3),0.065157354,current_pollutant
+extreme_abs_151_h3,China,AQI_lag_6,0.062454235,lag
+extreme_abs_151_h3,China,CO (mg/m3),0.0449586,current_pollutant
+extreme_abs_151_h3,China,AQI,0.037390415,current_aqi
+extreme_abs_151_h3,China,AQI_roll_mean_6,0.03135098,rolling
+extreme_abs_151_h3,China,PM10_city_past_anomaly,0.030760707,local_normalization
+extreme_abs_151_h3,China,SO2 (ug/m3),0.02360276,current_pollutant
+extreme_abs_151_h3,China,PM25_city_past_zscore,0.021408334,local_normalization
+extreme_abs_151_h3,China,month,0.021278365,calendar
+extreme_abs_151_h3,China,PM10 (ug/m3),0.019414421,current_pollutant
+extreme_abs_151_h3,China,is_aug_oct,0.018959861,calendar
+extreme_abs_151_h3,China,CO_city_past_anomaly,0.018266551,local_normalization
+extreme_abs_151_h3,China,month_cos,0.015224433,calendar
+extreme_abs_151_h3,China,AQI_roll_max_6,0.014943858,rolling
+extreme_abs_151_h3,China,quarter,0.014038053,calendar
+extreme_abs_151_h3,China,industry_NO2,0.01394809,interaction
+extreme_abs_151_h3,China,is_dec_feb,0.013487308,calendar
+extreme_abs_151_h3,China,NO (ug/m3),0.012747654,current_pollutant
+extreme_abs_151_h3,China,month_sin,0.012746494,calendar
+extreme_abs_151_h3,China,SO2_lag_1,0.012543095,lag
+extreme_abs_151_h3,China,Population_Density_per_SqKm,0.011820879,current_socio_environmental
+extreme_abs_151_h3,China,PM10_roll_max_3,0.0114002,rolling
+extreme_abs_151_h3,China,AQI_city_past_anomaly,0.011310646,local_normalization
+extreme_abs_151_h3,China,NO2_city_past_anomaly,0.0110831335,local_normalization
+extreme_abs_151_h3,China,Humidity_lag_1,0.010609394,lag
+extreme_abs_151_h3,China,Xylene (ug/m3),0.010235956,current_pollutant
+extreme_abs_151_h3,China,Toluene (ug/m3),0.010232808,current_pollutant
+extreme_abs_151_h3,China,CO2_Emission_MT,0.010148471,current_socio_environmental
+extreme_abs_151_h3,China,low_wind_PM25,0.010123801,interaction
+extreme_abs_151_h3,China,AQI_city_past_zscore,0.010084176,local_normalization
+extreme_abs_151_h3,China,NO2 (ug/m3),0.010031741,current_pollutant
+extreme_abs_151_h3,China,PM10_city_past_zscore,0.009862531,local_normalization
+extreme_abs_151_h3,China,Deforestation_Rate_%,0.009457504,current_socio_environmental
+extreme_abs_151_h3,China,deforestation_aug_oct,0.009202274,interaction
+extreme_abs_151_h3,China,AQI_trend_3,0.008800895,rolling
+extreme_abs_151_h3,China,NOx (ppb),0.008768782,current_pollutant
+extreme_abs_151_h3,China,Deforestation_Rate_lag_1,0.008326151,lag
+extreme_abs_151_h3,China,PM10_roll_mean_3,0.007265405,rolling
+extreme_abs_151_h3,China,Humidity_city_past_anomaly,0.0072555197,local_normalization
+extreme_abs_151_h3,China,PM25_roll_max_3,0.0067674373,rolling
+extreme_abs_151_h3,China,AQI_roll_max_3,0.0056391926,rolling
+extreme_abs_151_h3,China,CO_city_past_zscore,0.00550206,local_normalization
+extreme_abs_151_h3,China,Industry_Growth_%,0.005488588,current_socio_environmental
+extreme_abs_151_h3,China,AQI_lag_12,0.0053904154,lag
+extreme_abs_151_h3,China,AQI_roll_std_6,0.005379176,rolling
+extreme_abs_151_h3,China,Benzene (ug/m3),0.0052114623,current_pollutant
+extreme_abs_151_h3,China,NO2_lag_1,0.005095643,lag
+extreme_abs_151_h3,China,PM25_roll_mean_3,0.004897386,rolling
+extreme_abs_151_h3,China,AQI_delta_1,0.004890601,rolling
+extreme_abs_151_h3,China,AQI_city_history_count,0.0044844435,local_normalization
+extreme_abs_151_h3,China,NO2_city_past_zscore,0.0044599716,local_normalization
+extreme_abs_151_h3,China,time_index_months,0.0044503063,calendar
+extreme_abs_151_h3,China,year,0.0043175826,calendar
+extreme_abs_151_h3,China,Humidity_city_past_zscore,0.0042720647,local_normalization
+extreme_abs_151_h3,China,Humidity (%),0.0041249665,current_meteorology
+extreme_abs_151_h3,China,NH3 (ug/m3),0.0037597395,current_pollutant
+extreme_abs_151_h3,China,AQI_roll_mean_3,0.0035554029,rolling
+extreme_abs_151_h3,China,PM25_lag_3,0.0034433177,lag
+extreme_abs_151_h3,China,PM25_PM10_ratio,0.00340548,interaction
+extreme_abs_151_h3,China,Deforestation_Rate_city_past_anomaly,0.0033660624,local_normalization
+extreme_abs_151_h3,China,PM25_lag_2,0.0032913198,lag
+extreme_abs_151_h3,China,CO_lag_1,0.00327876,lag
+extreme_abs_151_h3,China,O3_lag_1,0.0032345192,lag
+extreme_abs_151_h3,China,PM10_lag_3,0.0031611545,lag
+extreme_abs_151_h3,China,AQI_lag_3,0.003114924,lag
+extreme_abs_151_h3,China,PM10_lag_2,0.003058909,lag
+extreme_abs_151_h3,China,PM10_roll_std_3,0.002985214,rolling
+extreme_abs_151_h3,China,Wind_Speed_lag_1,0.0029685989,lag
+extreme_abs_151_h3,China,O3_city_past_zscore,0.0029304815,local_normalization
+extreme_abs_151_h3,China,O3 (ug/m3),0.0028865498,current_pollutant
+extreme_abs_151_h3,China,AQI_lag_1,0.0028310625,lag
+extreme_abs_151_h3,China,PM25_roll_std_3,0.002803067,rolling
+extreme_abs_151_h3,China,AQI_roll_std_3,0.0027441385,rolling
+extreme_abs_151_h3,China,PM10_lag_1,0.002715704,lag
+extreme_abs_151_h3,China,AQI_lag_2,0.0026882808,lag
+extreme_abs_151_h3,China,Wind_Speed (km/h),0.0026729908,current_meteorology
+extreme_abs_151_h3,China,PM25_lag_1,0.0025720934,lag
+extreme_abs_151_h3,China,O3_city_past_anomaly,0.002480964,local_normalization
+extreme_abs_151_h3,China,Deforestation_Rate_city_past_zscore,0.002216072,local_normalization
+extreme_abs_151_h3,China,Wind_Speed_city_past_zscore,0.0021873154,local_normalization
+extreme_abs_151_h3,China,PM25_city_history_count,0.0021832478,local_normalization
+extreme_abs_151_h3,China,Wind_Speed_city_past_anomaly,0.0021246977,local_normalization
+extreme_abs_151_h3,China,PM10_city_history_count,0.0010579027,local_normalization
+extreme_abs_151_h3,China,NO2_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,China,O3_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,China,Wind_Speed_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,China,CO_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,China,Humidity_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,China,Deforestation_Rate_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Vietnam,PM2.5 (ug/m3),0.10866795,current_pollutant
+extreme_abs_151_h3,Vietnam,PM25_city_past_anomaly,0.070703536,local_normalization
+extreme_abs_151_h3,Vietnam,humidity_PM25,0.06391483,interaction
+extreme_abs_151_h3,Vietnam,CO (mg/m3),0.05760536,current_pollutant
+extreme_abs_151_h3,Vietnam,PM10 (ug/m3),0.037797783,current_pollutant
+extreme_abs_151_h3,Vietnam,PM10_city_past_anomaly,0.03485843,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_lag_6,0.02560252,lag
+extreme_abs_151_h3,Vietnam,AQI,0.024910014,current_aqi
+extreme_abs_151_h3,Vietnam,month,0.02238483,calendar
+extreme_abs_151_h3,Vietnam,PM25_city_past_zscore,0.021838041,local_normalization
+extreme_abs_151_h3,Vietnam,CO_city_past_anomaly,0.021294767,local_normalization
+extreme_abs_151_h3,Vietnam,SO2 (ug/m3),0.02023372,current_pollutant
+extreme_abs_151_h3,Vietnam,AQI_roll_max_6,0.016920485,rolling
+extreme_abs_151_h3,Vietnam,AQI_roll_mean_6,0.016703678,rolling
+extreme_abs_151_h3,Vietnam,is_aug_oct,0.016067654,calendar
+extreme_abs_151_h3,Vietnam,month_cos,0.01413773,calendar
+extreme_abs_151_h3,Vietnam,AQI_city_past_anomaly,0.014069376,local_normalization
+extreme_abs_151_h3,Vietnam,Toluene (ug/m3),0.013223175,current_pollutant
+extreme_abs_151_h3,Vietnam,deforestation_aug_oct,0.012444236,interaction
+extreme_abs_151_h3,Vietnam,NO (ug/m3),0.012372533,current_pollutant
+extreme_abs_151_h3,Vietnam,SO2_lag_1,0.0118662305,lag
+extreme_abs_151_h3,Vietnam,NOx (ppb),0.011738569,current_pollutant
+extreme_abs_151_h3,Vietnam,is_dec_feb,0.011721811,calendar
+extreme_abs_151_h3,Vietnam,AQI_city_past_zscore,0.011295091,local_normalization
+extreme_abs_151_h3,Vietnam,month_sin,0.010915071,calendar
+extreme_abs_151_h3,Vietnam,Population_Density_per_SqKm,0.010817492,current_socio_environmental
+extreme_abs_151_h3,Vietnam,NO2 (ug/m3),0.010601246,current_pollutant
+extreme_abs_151_h3,Vietnam,NO2_city_past_anomaly,0.010285576,local_normalization
+extreme_abs_151_h3,Vietnam,Humidity_lag_1,0.009930488,lag
+extreme_abs_151_h3,Vietnam,PM10_city_past_zscore,0.009656391,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_trend_3,0.00938612,rolling
+extreme_abs_151_h3,Vietnam,low_wind_PM25,0.0092840055,interaction
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_%,0.009177345,current_socio_environmental
+extreme_abs_151_h3,Vietnam,industry_NO2,0.009005764,interaction
+extreme_abs_151_h3,Vietnam,PM25_roll_max_3,0.008939814,rolling
+extreme_abs_151_h3,Vietnam,Xylene (ug/m3),0.008501084,current_pollutant
+extreme_abs_151_h3,Vietnam,quarter,0.007915652,calendar
+extreme_abs_151_h3,Vietnam,CO2_Emission_MT,0.007900738,current_socio_environmental
+extreme_abs_151_h3,Vietnam,PM10_roll_max_3,0.0077909655,rolling
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_lag_1,0.007703037,lag
+extreme_abs_151_h3,Vietnam,AQI_lag_12,0.007702509,lag
+extreme_abs_151_h3,Vietnam,PM10_roll_mean_3,0.0076667103,rolling
+extreme_abs_151_h3,Vietnam,CO_city_past_zscore,0.0071374252,local_normalization
+extreme_abs_151_h3,Vietnam,PM10_lag_3,0.0065213377,lag
+extreme_abs_151_h3,Vietnam,AQI_roll_std_6,0.006242054,rolling
+extreme_abs_151_h3,Vietnam,Benzene (ug/m3),0.0062160227,current_pollutant
+extreme_abs_151_h3,Vietnam,PM25_roll_mean_3,0.0056879614,rolling
+extreme_abs_151_h3,Vietnam,Humidity_city_past_zscore,0.005566678,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_roll_max_3,0.005387129,rolling
+extreme_abs_151_h3,Vietnam,CO_lag_1,0.005275016,lag
+extreme_abs_151_h3,Vietnam,Industry_Growth_%,0.005155459,current_socio_environmental
+extreme_abs_151_h3,Vietnam,Humidity_city_past_anomaly,0.0048425975,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_delta_1,0.0046341782,rolling
+extreme_abs_151_h3,Vietnam,NO2_city_past_zscore,0.004527212,local_normalization
+extreme_abs_151_h3,Vietnam,time_index_months,0.004277143,calendar
+extreme_abs_151_h3,Vietnam,AQI_roll_mean_3,0.0040792893,rolling
+extreme_abs_151_h3,Vietnam,NH3 (ug/m3),0.004052107,current_pollutant
+extreme_abs_151_h3,Vietnam,Humidity (%),0.0038687247,current_meteorology
+extreme_abs_151_h3,Vietnam,NO2_lag_1,0.0038605076,lag
+extreme_abs_151_h3,Vietnam,PM25_roll_std_3,0.0037945085,rolling
+extreme_abs_151_h3,Vietnam,PM10_lag_2,0.0037634834,lag
+extreme_abs_151_h3,Vietnam,AQI_city_history_count,0.0037414369,local_normalization
+extreme_abs_151_h3,Vietnam,PM10_roll_std_3,0.0037275923,rolling
+extreme_abs_151_h3,Vietnam,year,0.003526322,calendar
+extreme_abs_151_h3,Vietnam,AQI_lag_3,0.0033995938,lag
+extreme_abs_151_h3,Vietnam,AQI_roll_std_3,0.0032392493,rolling
+extreme_abs_151_h3,Vietnam,PM25_city_history_count,0.0032252173,local_normalization
+extreme_abs_151_h3,Vietnam,PM25_lag_2,0.0032044726,lag
+extreme_abs_151_h3,Vietnam,PM10_lag_1,0.0031083967,lag
+extreme_abs_151_h3,Vietnam,PM25_lag_3,0.0030576272,lag
+extreme_abs_151_h3,Vietnam,PM10_city_history_count,0.0030536246,local_normalization
+extreme_abs_151_h3,Vietnam,Wind_Speed_lag_1,0.0029975793,lag
+extreme_abs_151_h3,Vietnam,PM25_PM10_ratio,0.0029812828,interaction
+extreme_abs_151_h3,Vietnam,O3_lag_1,0.0029210385,lag
+extreme_abs_151_h3,Vietnam,O3 (ug/m3),0.0028411453,current_pollutant
+extreme_abs_151_h3,Vietnam,O3_city_past_zscore,0.0027243728,local_normalization
+extreme_abs_151_h3,Vietnam,PM25_lag_1,0.0026352247,lag
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_past_anomaly,0.0026193445,local_normalization
+extreme_abs_151_h3,Vietnam,AQI_lag_1,0.00261391,lag
+extreme_abs_151_h3,Vietnam,O3_city_past_anomaly,0.0025513556,local_normalization
+extreme_abs_151_h3,Vietnam,Wind_Speed (km/h),0.0025228714,current_meteorology
+extreme_abs_151_h3,Vietnam,AQI_lag_2,0.002482845,lag
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_past_anomaly,0.0022503303,local_normalization
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_past_zscore,0.0021566765,local_normalization
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_past_zscore,0.001977261,local_normalization
+extreme_abs_151_h3,Vietnam,CO_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Vietnam,NO2_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Vietnam,O3_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Vietnam,Wind_Speed_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Vietnam,Humidity_city_history_count,0.0,local_normalization
+extreme_abs_151_h3,Vietnam,Deforestation_Rate_city_history_count,0.0,local_normalization
