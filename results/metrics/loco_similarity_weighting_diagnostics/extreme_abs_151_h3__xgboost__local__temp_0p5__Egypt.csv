@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Egypt,Turkey,1.1369148150644859,2.2065416656245422,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Saudi Arabia,1.1702376878648035,2.0642783274064995,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Thailand,1.3644490660439188,1.399839980883338,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,China,1.380541666610411,1.3555031713720809,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Mexico,1.403119816913423,1.2956550909454039,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Ethiopia,1.4213597771562214,1.2492414267423728,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Nigeria,1.4743578311847985,1.1236029035993966,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Russia,1.4855263043897888,1.0987832750603945,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,India,1.5067579190734472,1.05310213701169,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,France,1.538169386459627,0.9889784768719858,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,South Korea,1.5657295736363894,0.9359407699587156,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,United Kingdom,1.5723400706729675,0.9236481420234505,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Germany,1.6150465042221342,0.8480319681277555,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Pakistan,1.6169843875570078,0.8447515552546552,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,South Africa,1.6354854699677617,0.8140651517902516,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,United States,1.6806855599210937,0.7437018549671368,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Philippines,1.6849134716285425,0.7374397563205064,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Vietnam,1.6877117561894068,0.733324151127885,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Australia,1.7719151856422983,0.6196662152096365,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Japan,1.8692318797935041,0.510069801583178,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Indonesia,1.873550860523064,0.5056828128929246,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Bangladesh,1.8890720741070242,0.4902263354677852,extreme_abs_151_h3,xgboost,local,0.5
+Egypt,Brazil,1.923152930778926,0.45792502975841287,extreme_abs_151_h3,xgboost,local,0.5
