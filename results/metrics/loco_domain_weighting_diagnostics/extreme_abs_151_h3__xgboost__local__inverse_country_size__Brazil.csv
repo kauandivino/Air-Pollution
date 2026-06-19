@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8239,1.4028032106049173,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Ethiopia,8517,1.3570148705147251,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Nigeria,8587,1.345952678720614,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Australia,8703,1.3280128291593603,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Germany,8769,1.318017522200241,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+United Kingdom,8778,1.316666171357247,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Turkey,8794,1.3142705995194353,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+South Africa,8977,1.2874786289599993,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Saudi Arabia,9040,1.2785061562139284,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Vietnam,9100,1.2700764452938367,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Bangladesh,9124,1.2667356041400606,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Pakistan,9463,1.2213564041185578,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+France,9751,1.1852831147752962,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Russia,10186,1.1346647999385346,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+South Korea,10540,1.0965555647223826,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Mexico,10572,1.0932364408034347,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Indonesia,11191,1.032767013865956,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Egypt,12782,0.9042165273176274,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Philippines,16917,0.6832000740186743,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+India,17201,0.6719199844296211,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+China,18328,0.6306032110527015,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+Japan,18872,0.6124255856387194,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
+United States,23396,0.4940030625822326,extreme_abs_151_h3,xgboost,local,inverse_country_size,Brazil
