@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8234,1.4125154449736512,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Ethiopia,8522,1.3647796496025633,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Nigeria,8604,1.351772684090312,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Australia,8704,1.3362422074808185,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+United Kingdom,8762,1.3273969611861496,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Turkey,8804,1.3210645358828992,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+South Africa,8998,1.292581926418431,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Saudi Arabia,9018,1.2897152554793794,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Bangladesh,9099,1.2782341107718478,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Vietnam,9118,1.27557053892444,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Pakistan,9471,1.2280278929271506,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+France,9746,1.1933769930138562,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Russia,10152,1.145651317367321,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Brazil,10389,1.1195160433066746,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+South Korea,10541,1.10337275153335,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Mexico,10556,1.1018048667973706,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Indonesia,11191,1.0392862276751893,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Egypt,12707,0.915294890525934,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Philippines,16943,0.686457662392318,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+India,17177,0.6771061404152672,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+China,18485,0.6291940586374382,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+Japan,18885,0.6158672053965074,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
+United States,23399,0.4970576594689108,extreme_abs_151_h3,xgboost,local,inverse_country_size,Germany
