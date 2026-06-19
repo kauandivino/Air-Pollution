@@ -1,0 +1,43 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8703,2,0.6583187206810245,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Australia,1,1,2,5729.347826086957,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Bangladesh,0,2870,2,1.996288441145281,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Bangladesh,1,6206,2,0.9231949445837829,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Brazil,0,9420,2,0.6082110218775962,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Brazil,1,971,2,5.900461200913447,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+China,0,16568,2,0.34580805324040054,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+China,1,1907,2,3.0043774651740724,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Ethiopia,0,7816,2,0.7330281251390681,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Ethiopia,1,664,2,8.62853588266108,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+France,0,9748,1,1.1754919626768479,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Germany,0,8770,1,1.3065787516731941,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+India,0,10950,2,0.5232281119714115,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+India,1,6193,2,0.9251328638926137,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Indonesia,0,9885,2,0.5796001847331266,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Indonesia,1,1360,2,4.212755754475704,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Japan,0,18864,1,0.6074372165062507,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Mexico,0,9567,2,0.5988656659440741,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Mexico,1,1005,2,5.700843608046723,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Nigeria,0,5286,2,1.0838720821201204,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Nigeria,1,3344,2,1.7133217183274392,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Pakistan,0,1717,2,3.336836241168874,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Pakistan,1,7744,2,0.7398434692777578,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Philippines,0,16844,2,0.34014176122577516,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Philippines,1,119,2,48.14578005115089,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Russia,0,9123,2,0.6280113806957094,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Russia,1,1020,2,5.617007672634271,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Saudi Arabia,0,8885,2,0.6448337451983068,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Saudi Arabia,1,111,2,51.61574618096357,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+South Africa,0,8944,2,0.6405800342226025,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+South Africa,1,52,2,110.17976588628763,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+South Korea,0,10439,2,0.548840676893089,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+South Korea,1,104,2,55.08988294314381,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Thailand,0,8187,2,0.6998104099287842,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Thailand,1,42,2,136.41304347826087,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Turkey,0,8311,2,0.6893692487169963,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Turkey,1,527,2,10.871627753485686,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+United Kingdom,0,8766,1,1.3071749546171474,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+United States,0,23407,2,0.2447707021868226,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+United States,1,31,2,184.81767180925667,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Vietnam,0,8393,2,0.6826340791239076,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
+Vietnam,1,686,2,8.35181898846495,extreme_abs_151_h3,xgboost,local,country_class_balanced,Egypt
