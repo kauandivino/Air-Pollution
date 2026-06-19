@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8233,1.4107858617757805,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Ethiopia,8520,1.363262910798122,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Nigeria,8571,1.3551510908878777,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Australia,8728,1.3307745187901008,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Germany,8749,1.3275802948908446,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+United Kingdom,8765,1.325156873930405,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Turkey,8903,1.3046164214309783,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Saudi Arabia,8982,1.2931418392340237,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+South Africa,8987,1.292422387893624,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Vietnam,9091,1.2776372236277638,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Pakistan,9454,1.2285804950285593,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+France,9699,1.1975461387771935,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Russia,10150,1.144334975369458,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Brazil,10411,1.1156469119200845,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+South Korea,10520,1.104087452471483,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Mexico,10560,1.099905303030303,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Indonesia,11239,1.0334549337129637,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Egypt,12735,0.912053396152336,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Philippines,17048,0.6813115908024402,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+India,17091,0.6795974489497396,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+China,18401,0.6312156947991957,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+Japan,18876,0.6153316380589108,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
+United States,23432,0.4956896551724138,extreme_abs_151_h3,xgboost,local,inverse_country_size,Bangladesh
