@@ -1,0 +1,92 @@
+target,held_out_country,feature,native_importance
+extreme_abs_151_h3,China,PM25_city_past_anomaly,0.0748127
+extreme_abs_151_h3,China,humidity_PM25,0.074396245
+extreme_abs_151_h3,China,PM2.5 (ug/m3),0.065157354
+extreme_abs_151_h3,China,AQI_lag_6,0.062454235
+extreme_abs_151_h3,China,CO (mg/m3),0.0449586
+extreme_abs_151_h3,China,AQI,0.037390415
+extreme_abs_151_h3,China,AQI_roll_mean_6,0.03135098
+extreme_abs_151_h3,China,PM10_city_past_anomaly,0.030760707
+extreme_abs_151_h3,China,SO2 (ug/m3),0.02360276
+extreme_abs_151_h3,China,PM25_city_past_zscore,0.021408334
+extreme_abs_151_h3,China,month,0.021278365
+extreme_abs_151_h3,China,PM10 (ug/m3),0.019414421
+extreme_abs_151_h3,China,is_aug_oct,0.018959861
+extreme_abs_151_h3,China,CO_city_past_anomaly,0.018266551
+extreme_abs_151_h3,China,month_cos,0.015224433
+extreme_abs_151_h3,China,AQI_roll_max_6,0.014943858
+extreme_abs_151_h3,China,quarter,0.014038053
+extreme_abs_151_h3,China,industry_NO2,0.01394809
+extreme_abs_151_h3,China,is_dec_feb,0.013487308
+extreme_abs_151_h3,China,NO (ug/m3),0.012747654
+extreme_abs_151_h3,China,month_sin,0.012746494
+extreme_abs_151_h3,China,SO2_lag_1,0.012543095
+extreme_abs_151_h3,China,Population_Density_per_SqKm,0.011820879
+extreme_abs_151_h3,China,PM10_roll_max_3,0.0114002
+extreme_abs_151_h3,China,AQI_city_past_anomaly,0.011310646
+extreme_abs_151_h3,China,NO2_city_past_anomaly,0.0110831335
+extreme_abs_151_h3,China,Humidity_lag_1,0.010609394
+extreme_abs_151_h3,China,Xylene (ug/m3),0.010235956
+extreme_abs_151_h3,China,Toluene (ug/m3),0.010232808
+extreme_abs_151_h3,China,CO2_Emission_MT,0.010148471
+extreme_abs_151_h3,China,low_wind_PM25,0.010123801
+extreme_abs_151_h3,China,AQI_city_past_zscore,0.010084176
+extreme_abs_151_h3,China,NO2 (ug/m3),0.010031741
+extreme_abs_151_h3,China,PM10_city_past_zscore,0.009862531
+extreme_abs_151_h3,China,Deforestation_Rate_%,0.009457504
+extreme_abs_151_h3,China,deforestation_aug_oct,0.009202274
+extreme_abs_151_h3,China,AQI_trend_3,0.008800895
+extreme_abs_151_h3,China,NOx (ppb),0.008768782
+extreme_abs_151_h3,China,Deforestation_Rate_lag_1,0.008326151
+extreme_abs_151_h3,China,PM10_roll_mean_3,0.007265405
+extreme_abs_151_h3,China,Humidity_city_past_anomaly,0.0072555197
+extreme_abs_151_h3,China,PM25_roll_max_3,0.0067674373
+extreme_abs_151_h3,China,AQI_roll_max_3,0.0056391926
+extreme_abs_151_h3,China,CO_city_past_zscore,0.00550206
+extreme_abs_151_h3,China,Industry_Growth_%,0.005488588
+extreme_abs_151_h3,China,AQI_lag_12,0.0053904154
+extreme_abs_151_h3,China,AQI_roll_std_6,0.005379176
+extreme_abs_151_h3,China,Benzene (ug/m3),0.0052114623
+extreme_abs_151_h3,China,NO2_lag_1,0.005095643
+extreme_abs_151_h3,China,PM25_roll_mean_3,0.004897386
+extreme_abs_151_h3,China,AQI_delta_1,0.004890601
+extreme_abs_151_h3,China,AQI_city_history_count,0.0044844435
+extreme_abs_151_h3,China,NO2_city_past_zscore,0.0044599716
+extreme_abs_151_h3,China,time_index_months,0.0044503063
+extreme_abs_151_h3,China,year,0.0043175826
+extreme_abs_151_h3,China,Humidity_city_past_zscore,0.0042720647
+extreme_abs_151_h3,China,Humidity (%),0.0041249665
+extreme_abs_151_h3,China,NH3 (ug/m3),0.0037597395
+extreme_abs_151_h3,China,AQI_roll_mean_3,0.0035554029
+extreme_abs_151_h3,China,PM25_lag_3,0.0034433177
+extreme_abs_151_h3,China,PM25_PM10_ratio,0.00340548
+extreme_abs_151_h3,China,Deforestation_Rate_city_past_anomaly,0.0033660624
+extreme_abs_151_h3,China,PM25_lag_2,0.0032913198
+extreme_abs_151_h3,China,CO_lag_1,0.00327876
+extreme_abs_151_h3,China,O3_lag_1,0.0032345192
+extreme_abs_151_h3,China,PM10_lag_3,0.0031611545
+extreme_abs_151_h3,China,AQI_lag_3,0.003114924
+extreme_abs_151_h3,China,PM10_lag_2,0.003058909
+extreme_abs_151_h3,China,PM10_roll_std_3,0.002985214
+extreme_abs_151_h3,China,Wind_Speed_lag_1,0.0029685989
+extreme_abs_151_h3,China,O3_city_past_zscore,0.0029304815
+extreme_abs_151_h3,China,O3 (ug/m3),0.0028865498
+extreme_abs_151_h3,China,AQI_lag_1,0.0028310625
+extreme_abs_151_h3,China,PM25_roll_std_3,0.002803067
+extreme_abs_151_h3,China,AQI_roll_std_3,0.0027441385
+extreme_abs_151_h3,China,PM10_lag_1,0.002715704
+extreme_abs_151_h3,China,AQI_lag_2,0.0026882808
+extreme_abs_151_h3,China,Wind_Speed (km/h),0.0026729908
+extreme_abs_151_h3,China,PM25_lag_1,0.0025720934
+extreme_abs_151_h3,China,O3_city_past_anomaly,0.002480964
+extreme_abs_151_h3,China,Deforestation_Rate_city_past_zscore,0.002216072
+extreme_abs_151_h3,China,Wind_Speed_city_past_zscore,0.0021873154
+extreme_abs_151_h3,China,PM25_city_history_count,0.0021832478
+extreme_abs_151_h3,China,Wind_Speed_city_past_anomaly,0.0021246977
+extreme_abs_151_h3,China,PM10_city_history_count,0.0010579027
+extreme_abs_151_h3,China,NO2_city_history_count,0.0
+extreme_abs_151_h3,China,O3_city_history_count,0.0
+extreme_abs_151_h3,China,Wind_Speed_city_history_count,0.0
+extreme_abs_151_h3,China,CO_city_history_count,0.0
+extreme_abs_151_h3,China,Humidity_city_history_count,0.0
+extreme_abs_151_h3,China,Deforestation_Rate_city_history_count,0.0
