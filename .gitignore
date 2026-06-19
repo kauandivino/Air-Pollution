@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Local planning and manuscript support files.
+base/
+paper/
+
+# Generated feature matrices and previews. Rebuild with scripts/02_build_targets.py,
+# scripts/03_build_features.py, and scripts/20_build_local_normalized_features.py.
+data/processed/*.csv
+
+# Duplicate raw-data extracts not used by the configured loader.
+data/world_AQI/
+data/*/
+
+# Large prediction-level outputs. Summary metrics, tables, and figures remain tracked.
+results/predictions/
+results/models/
