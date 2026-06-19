@@ -1,4 +1,4 @@
-# Air Pollution Extreme Event Benchmark
+# Air Pollution Extreme Event 
 
 This repository contains a reproducible machine-learning pipeline for early detection of
 future extreme air-quality events using a global monthly air-pollution benchmark. The
