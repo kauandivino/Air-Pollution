@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8223,1.4125015201264746,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Ethiopia,8516,1.3639032409581964,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Nigeria,8561,1.3567340263987853,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Australia,8708,1.3338309600367477,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Germany,8771,1.3242503705392772,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+United Kingdom,8806,1.318987054281172,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Turkey,8883,1.307553754362265,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+South Africa,8966,1.295449475797457,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Saudi Arabia,9007,1.2895525702231598,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Bangladesh,9080,1.2791850220264318,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Pakistan,9479,1.2253402257622112,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+France,9745,1.1918932786044125,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Russia,10092,1.1509116131589379,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Brazil,10382,1.1187632440762858,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+South Korea,10520,1.104087452471483,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Mexico,10533,1.1027247697711953,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Indonesia,11271,1.0305208056073107,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Egypt,12696,0.9148550724637681,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Philippines,17073,0.6803139459966028,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+India,17114,0.6786841182657474,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+China,18467,0.6289597660692046,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+Japan,18905,0.6143877281142555,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
+United States,23347,0.4974943247526449,extreme_abs_151_h3,xgboost,local,inverse_country_size,Vietnam
