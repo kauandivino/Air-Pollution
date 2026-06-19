@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8842,2,0.6676189726896334,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Australia,1,1,2,5903.086956521739,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Bangladesh,0,2879,2,2.0503949136928585,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Bangladesh,1,6366,2,0.9272835307134368,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Brazil,0,9594,2,0.6152894472088534,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Brazil,1,982,2,6.0112901797573715,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+China,0,16758,2,0.3522548607543704,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+China,1,1938,2,3.0459685018172027,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Egypt,0,8611,2,0.6855286211266681,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Egypt,1,4280,2,1.379225924420967,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+France,0,9872,1,1.1959252343034317,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Germany,0,8858,1,1.3328261360401308,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+India,0,11056,2,0.5339260995406783,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+India,1,6302,2,0.936700564348102,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Indonesia,0,10074,2,0.5859724991584018,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Indonesia,1,1333,2,4.428422322972048,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Japan,0,19104,1,0.6179948656325104,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Mexico,0,9695,2,0.6088795210440164,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Mexico,1,1030,2,5.731152384972562,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Nigeria,0,5338,2,1.1058611758189845,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Nigeria,1,3400,2,1.7362020460358056,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Pakistan,0,1742,2,3.3886836719412967,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Pakistan,1,7857,2,0.7513156365688862,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Philippines,0,17111,2,0.34498784153595574,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Philippines,1,116,2,50.888680659670165,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Russia,0,9272,2,0.6366573507896612,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Russia,1,1043,2,5.659719037892367,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Saudi Arabia,0,8976,2,0.6576522901650779,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Saudi Arabia,1,112,2,52.70613354037267,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+South Africa,0,9075,2,0.6504779015450952,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+South Africa,1,50,2,118.06173913043479,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+South Korea,0,10535,2,0.5603309878046264,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+South Korea,1,102,2,57.873401534526856,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Thailand,0,8310,2,0.7103594412180192,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Thailand,1,46,2,128.32797731569,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Turkey,0,8486,2,0.695626556271711,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Turkey,1,512,2,11.529466711956522,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+United Kingdom,0,8886,2,0.6643131843936236,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+United Kingdom,1,1,2,5903.086956521739,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+United States,0,23740,2,0.24865572689645069,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+United States,1,30,2,196.76956521739132,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Vietnam,0,8508,2,0.6938278040105477,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
+Vietnam,1,719,2,8.210134849126202,extreme_abs_151_h1,xgboost,local,country_class_balanced,Ethiopia
