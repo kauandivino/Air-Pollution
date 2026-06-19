@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8702,2,0.6640827196146812,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Australia,1,1,2,5778.847826086957,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Bangladesh,0,2879,2,2.0072413428575744,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Bangladesh,1,6245,2,0.9253559369234517,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+China,0,16443,2,0.3514472922269024,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+China,1,1885,2,3.0657017645023643,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Egypt,0,8556,2,0.6754146594304531,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Egypt,1,4226,2,1.3674509763575382,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Ethiopia,0,7838,2,0.7372860201692979,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Ethiopia,1,679,2,8.510821540628802,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+France,0,9751,1,1.1852831147752962,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Germany,0,8769,1,1.318017522200241,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+India,0,11000,2,0.5253498023715415,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+India,1,6201,2,0.9319219200269241,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Indonesia,0,9866,2,0.5857336130232066,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Indonesia,1,1325,2,4.361394585726005,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Japan,0,18872,1,0.6124255856387194,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Mexico,0,9575,2,0.6035350210012487,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Mexico,1,997,2,5.796236535694039,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Nigeria,0,5248,2,1.1011524058854718,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Nigeria,1,3339,2,1.730712137192859,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Pakistan,0,1727,2,3.346177085169054,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Pakistan,1,7736,2,0.7470072164021402,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Philippines,0,16794,2,0.34410193081379997,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Philippines,1,123,2,46.98250265111347,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Russia,0,9150,2,0.631568068424804,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Russia,1,1036,2,5.578038442168877,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Saudi Arabia,0,8926,2,0.6474174127366072,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Saudi Arabia,1,114,2,50.691647597254004,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+South Africa,0,8918,2,0.6479981863744064,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+South Africa,1,59,2,97.94657332350774,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+South Korea,0,10438,2,0.5536355457067405,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+South Korea,1,102,2,56.65537084398977,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Thailand,0,8200,2,0.7047375397667021,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Thailand,1,39,2,148.17558528428094,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Turkey,0,8288,2,0.6972548052711096,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Turkey,1,506,2,11.420647877642207,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+United Kingdom,0,8777,2,0.6584080922965656,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+United Kingdom,1,1,2,5778.847826086957,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+United States,0,23363,2,0.2473504184431347,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+United States,1,33,2,175.11660079051384,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Vietnam,0,8404,2,0.6876306313763633,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
+Vietnam,1,696,2,8.30294227886057,extreme_abs_151_h3,xgboost,local,country_class_balanced,Brazil
