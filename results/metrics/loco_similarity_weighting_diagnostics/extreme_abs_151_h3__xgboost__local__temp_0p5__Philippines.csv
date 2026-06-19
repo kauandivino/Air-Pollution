@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Philippines,Vietnam,0.5635514477773921,2.1395449995891602,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Thailand,0.627477546496159,1.882764154523065,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,United Kingdom,0.6567595213429097,1.7756686252553535,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Germany,0.6741198762063109,1.715074178676826,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Turkey,0.6924322079071176,1.6533965201212164,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Indonesia,0.7492712167189535,1.4757312822832578,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Brazil,0.7827606043621457,1.3801261061243635,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Russia,0.8807278114530929,1.1345549529076737,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,France,0.8911352913162208,1.1111833208770479,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,United States,0.8941462299687519,1.104512018298204,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Ethiopia,0.9004287108129546,1.0907206922907662,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,South Korea,0.9945856931324282,0.9035034944311789,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Japan,1.0039153748679184,0.8868010078240091,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Mexico,1.0196270413751887,0.8593680393869632,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,South Africa,1.046905286322305,0.8137399077582387,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,China,1.1143511798176458,0.711054446562285,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Australia,1.184891007398021,0.6174939983317109,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Saudi Arabia,1.4080724557355488,0.3951662065513148,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,India,1.4416448527083665,0.3695040342766301,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Egypt,1.6849134716285425,0.24502300348268458,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Nigeria,1.7668363602338102,0.24502300348268458,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Bangladesh,2.4181668060584793,0.24502300348268458,extreme_abs_151_h3,xgboost,local,0.5
+Philippines,Pakistan,2.4435176749123446,0.24502300348268458,extreme_abs_151_h3,xgboost,local,0.5
