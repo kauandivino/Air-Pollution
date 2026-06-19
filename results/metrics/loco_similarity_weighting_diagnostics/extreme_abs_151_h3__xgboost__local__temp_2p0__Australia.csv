@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Australia,South Africa,0.45968320873701657,1.5284694628969226,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Germany,0.6202830968156856,1.4105320020300451,extreme_abs_151_h3,xgboost,local,2.0
+Australia,France,0.6290274453150737,1.4043783725053562,extreme_abs_151_h3,xgboost,local,2.0
+Australia,United Kingdom,0.639483958471362,1.397055082741675,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Thailand,0.7992529838949864,1.289793329814499,extreme_abs_151_h3,xgboost,local,2.0
+Australia,United States,0.932887045957595,1.206429251681714,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Turkey,1.010776429052223,1.160348363637644,extreme_abs_151_h3,xgboost,local,2.0
+Australia,South Korea,1.0260601933613132,1.151514913266096,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Saudi Arabia,1.0871463638606889,1.116875780894864,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Philippines,1.184891007398021,1.0636038331727082,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Japan,1.230505066615717,1.0396207204189774,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Indonesia,1.3805209882163563,0.9644936734487978,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Ethiopia,1.5021414622371154,0.9075902733010489,extreme_abs_151_h3,xgboost,local,2.0
+Australia,China,1.5402657896459395,0.8904534899272196,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Brazil,1.6148927058890827,0.8578398388682826,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Mexico,1.6163470482306637,0.8572162692167163,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Russia,1.622417661604592,0.8546182997542389,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Vietnam,1.6619473016915198,0.8378927560147762,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Egypt,1.7719151856422983,0.7930657841134274,extreme_abs_151_h3,xgboost,local,2.0
+Australia,India,1.8987998398393977,0.7443146388403209,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Nigeria,2.221723017524533,0.6333367417990511,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Bangladesh,2.920944412082097,0.4464786402476572,extreme_abs_151_h3,xgboost,local,2.0
+Australia,Pakistan,2.9317249205645894,0.444078481407969,extreme_abs_151_h3,xgboost,local,2.0
