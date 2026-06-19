@@ -1,0 +1,25 @@
+held_out_country,rows,events,event_rate,prevalence_group,methodological_note
+Pakistan,11297,9269,0.8204833141542003,high,High event prevalence; recall is important but majority-risk bias must be checked.
+Bangladesh,10868,7466,0.686970923813029,high,High event prevalence; recall is important but majority-risk bias must be checked.
+Nigeria,10296,4021,0.3905400155400155,high,High event prevalence; recall is important but majority-risk bias must be checked.
+India,20449,7406,0.3621692992322363,high,High event prevalence; recall is important but majority-risk bias must be checked.
+Egypt,15158,5032,0.3319699168755772,high,High event prevalence; recall is important but majority-risk bias must be checked.
+Indonesia,13442,1568,0.1166493081386698,moderate,Moderate event prevalence; useful for balanced transfer analysis.
+China,21879,2273,0.1038895744778097,moderate,Moderate event prevalence; useful for balanced transfer analysis.
+Russia,12012,1231,0.1024808524808524,moderate,Moderate event prevalence; useful for balanced transfer analysis.
+Mexico,12584,1206,0.0958359821996185,low,Low event prevalence; precision is sensitive to small false-positive counts.
+Brazil,12441,1135,0.0912306084719877,low,Low event prevalence; precision is sensitive to small false-positive counts.
+Ethiopia,10153,828,0.081552250566335,low,Low event prevalence; precision is sensitive to small false-positive counts.
+Vietnam,10868,838,0.0771071034228929,low,Low event prevalence; precision is sensitive to small false-positive counts.
+Turkey,10582,611,0.0577395577395577,low,Low event prevalence; precision is sensitive to small false-positive counts.
+Saudi Arabia,10725,135,0.0125874125874125,low,Low event prevalence; precision is sensitive to small false-positive counts.
+South Korea,12584,130,0.0103305785123966,low,Low event prevalence; precision is sensitive to small false-positive counts.
+Philippines,20306,142,0.0069930069930069,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+South Africa,10725,61,0.0056876456876456,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+Thailand,9867,51,0.005168744299179,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+United States,27885,35,0.0012551551013089,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+United Kingdom,10439,1,9.579461634256155e-05,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+Australia,10439,1,9.579461634256155e-05,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+Japan,22594,0,0.0,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+Germany,10439,0,0.0,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
+France,11583,0,0.0,near_zero,Near-zero event prevalence; PR-AUC and F1 are unstable or undefined.
