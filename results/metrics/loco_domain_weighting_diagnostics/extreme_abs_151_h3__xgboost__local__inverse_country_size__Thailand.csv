@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Ethiopia,8530,1.3659411794688823,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Nigeria,8567,1.3600418187077816,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Australia,8706,1.3383273904054176,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+United Kingdom,8765,1.3293186834990947,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Germany,8776,1.3276524909833143,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Turkey,8826,1.3201312328200279,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+South Africa,8959,1.3005333475688765,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Saudi Arabia,9002,1.2943210687480078,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Vietnam,9081,1.2830611453440772,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Bangladesh,9106,1.2795385746617138,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Pakistan,9466,1.2308766385875307,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+France,9749,1.1951459904471808,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Russia,10083,1.155556705431872,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Brazil,10388,1.121628635047128,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+South Korea,10532,1.1062930365428756,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Mexico,10535,1.1059780029301913,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Indonesia,11265,1.0343078793492735,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Egypt,12690,0.9181621954979957,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Philippines,17063,0.6828505105121939,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+India,17105,0.6811738240788989,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+China,18463,0.6310717792812417,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+Japan,18903,0.6163824927720237,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
+United States,23424,0.497416250890948,extreme_abs_151_h3,xgboost,local,inverse_country_size,Thailand
