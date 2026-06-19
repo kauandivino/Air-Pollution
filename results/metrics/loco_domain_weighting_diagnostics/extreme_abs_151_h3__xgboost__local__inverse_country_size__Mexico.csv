@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8251,1.4001306824469235,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Ethiopia,8529,1.3544938751166098,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Nigeria,8582,1.3461289047855471,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Australia,8707,1.326803521404567,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Germany,8782,1.3154723594704583,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Turkey,8794,1.313677309628106,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+United Kingdom,8794,1.313677309628106,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+South Africa,8969,1.2880452961165754,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Saudi Arabia,9058,1.27538951875354,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Vietnam,9098,1.269782178596347,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Bangladesh,9123,1.2663025606565346,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Pakistan,9467,1.2202892427241538,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+France,9744,1.1855991647033626,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Russia,10180,1.134821047236696,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Brazil,10392,1.111670348428557,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+South Korea,10527,1.0974141028659223,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Indonesia,11263,1.0257017012225487,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Egypt,12703,0.9094291317696265,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Philippines,16921,0.6827302323071666,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+India,17064,0.6770088057237205,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+China,18467,0.6255741734374596,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+Japan,18906,0.6110482524526375,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
+United States,23386,0.4939912024659867,extreme_abs_151_h3,xgboost,local,inverse_country_size,Mexico
