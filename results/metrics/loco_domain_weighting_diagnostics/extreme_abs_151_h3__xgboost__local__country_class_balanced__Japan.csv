@@ -1,0 +1,45 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8693,2,0.6434887640730422,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Australia,1,1,2,5593.847826086957,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Bangladesh,0,2864,2,1.953159157153267,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Bangladesh,1,6238,2,0.8967373879587939,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Brazil,0,9411,2,0.5943946260851085,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Brazil,1,974,2,5.743170252656013,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+China,0,16524,2,0.3385286750234178,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+China,1,1888,2,2.9628431282240237,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Egypt,0,8504,2,0.6577901959180334,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Egypt,1,4239,2,1.319614962511667,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Ethiopia,0,7840,2,0.7135009982253772,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Ethiopia,1,676,2,8.274922819655261,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+France,0,9773,1,1.1447555154173654,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Germany,0,8736,1,1.2806428173275999,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+India,0,10905,2,0.5129617447122381,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+India,1,6195,2,0.9029617152682738,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Indonesia,0,9946,2,0.5624218606562393,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Indonesia,1,1329,2,4.209065331893872,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Mexico,0,9532,2,0.5868493313142003,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Mexico,1,971,2,5.760914342005105,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Nigeria,0,5284,2,1.0586388770035875,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Nigeria,1,3364,2,1.662856071964018,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Pakistan,0,1712,2,3.267434477854531,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Pakistan,1,7719,2,0.7246855585032979,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Philippines,0,16838,2,0.3322156922488987,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Philippines,1,112,2,49.9450698757764,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Russia,0,8992,2,0.6220916176698128,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Russia,1,1040,2,5.3786998327759195,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Saudi Arabia,0,8960,2,0.624313373447205,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Saudi Arabia,1,116,2,48.22282608695652,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+South Africa,0,8993,2,0.62202244257611,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+South Africa,1,49,2,114.16015971606033,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+South Korea,0,10455,2,0.535040442476036,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+South Korea,1,110,2,50.85316205533597,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Thailand,0,8251,2,0.6779599837700832,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Thailand,1,45,2,124.30772946859904,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Turkey,0,8339,2,0.6708055913283315,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Turkey,1,513,2,10.904186795491142,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+United Kingdom,0,8675,2,0.6448239568976318,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+United Kingdom,1,1,2,5593.847826086957,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+United States,0,23355,2,0.23951392961194418,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+United States,1,30,2,186.46159420289854,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Vietnam,0,8427,2,0.6638006201598382,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
+Vietnam,1,698,2,8.014108633362403,extreme_abs_151_h3,xgboost,local,country_class_balanced,Japan
