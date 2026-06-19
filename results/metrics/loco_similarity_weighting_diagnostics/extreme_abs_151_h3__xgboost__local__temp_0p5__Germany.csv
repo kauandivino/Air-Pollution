@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Germany,United Kingdom,0.07280975625747606,3.9131888341412555,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Thailand,0.36466995330485785,2.2872224363841447,extreme_abs_151_h3,xgboost,local,0.5
+Germany,France,0.40771238050240655,2.0985640332064537,extreme_abs_151_h3,xgboost,local,0.5
+Germany,South Africa,0.5338569516836945,1.6306263009998667,extreme_abs_151_h3,xgboost,local,0.5
+Germany,United States,0.5509713228446906,1.5757564338460264,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Australia,0.6202830968156856,1.3717837283741645,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Turkey,0.649046783567134,1.2950955950457101,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Philippines,0.6741198762063109,1.23175296023738,extreme_abs_151_h3,xgboost,local,0.5
+Germany,South Korea,0.7544999052504555,1.0488331574563492,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Japan,0.8230711407244093,0.9144209977748413,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Indonesia,0.9718324715464308,0.6791000148715827,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Saudi Arabia,1.0049234528835218,0.6356108158950796,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Ethiopia,1.01278727753315,0.6256923533926457,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Mexico,1.1055609609856902,0.5197310338380271,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Russia,1.1068280561542816,0.5184156039529801,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Brazil,1.1147477733698157,0.5102688840294147,extreme_abs_151_h3,xgboost,local,0.5
+Germany,China,1.1636795465455072,0.4626978568283488,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Vietnam,1.1683811020719101,0.4583674490565861,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Egypt,1.6150465042221342,0.24457430213382847,extreme_abs_151_h3,xgboost,local,0.5
+Germany,India,1.6382153130360984,0.24457430213382847,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Nigeria,1.8487213104830065,0.24457430213382847,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Bangladesh,2.600019119075145,0.24457430213382847,extreme_abs_151_h3,xgboost,local,0.5
+Germany,Pakistan,2.600146338873805,0.24457430213382847,extreme_abs_151_h3,xgboost,local,0.5
