@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8836,2,0.6668766114905427,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Australia,1,1,2,5892.521739130435,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Bangladesh,0,2881,2,2.0453043176433305,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Bangladesh,1,6340,2,0.9294198326704156,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Brazil,0,9600,2,0.613804347826087,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Brazil,1,979,2,6.01891903894835,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+China,0,16765,2,0.351477586586963,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+China,1,1942,2,3.034254242600636,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Egypt,0,8616,2,0.6839045658229381,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Egypt,1,4247,2,1.3874550833836672,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Ethiopia,0,7932,2,0.7428796947970795,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Ethiopia,1,708,2,8.32277081798084,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+France,0,9886,1,1.1920942219563897,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Germany,0,8883,1,1.326696327621397,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+India,0,11002,2,0.5355864151181998,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+India,1,6276,2,0.9388976639787181,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Indonesia,0,10063,2,0.5855631262178709,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Indonesia,1,1344,2,4.384316770186335,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Japan,0,19165,1,0.6149253054140814,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Mexico,0,9636,2,0.6115111808977205,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Mexico,1,1015,2,5.80544013707432,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Nigeria,0,5328,2,1.1059537798668233,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Nigeria,1,3394,2,1.7361584381645359,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Pakistan,0,1702,2,3.4621161804526643,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Pakistan,1,7897,2,0.7461721842636995,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Philippines,0,17275,2,0.3411011136978544,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Philippines,1,112,2,52.61180124223603,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Russia,0,9124,2,0.645826582543888,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Russia,1,1073,2,5.49163256209733,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Saudi Arabia,0,9022,2,0.6531281023199329,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Saudi Arabia,1,117,2,50.36343366778149,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+South Korea,0,10558,2,0.5581096551553736,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+South Korea,1,112,2,52.61180124223603,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Thailand,0,8306,2,0.709429537578911,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Thailand,1,43,2,137.03538928210313,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Turkey,0,8455,2,0.6969274676677037,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Turkey,1,533,2,11.055387878293498,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+United Kingdom,0,8905,2,0.6617093474599028,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+United Kingdom,1,1,2,5892.521739130435,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+United States,0,23694,2,0.24869256939015932,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+United States,1,25,2,235.7008695652174,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Vietnam,0,8550,2,0.6891838291380625,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
+Vietnam,1,713,2,8.264406366241843,extreme_abs_151_h1,xgboost,local,country_class_balanced,South Africa
