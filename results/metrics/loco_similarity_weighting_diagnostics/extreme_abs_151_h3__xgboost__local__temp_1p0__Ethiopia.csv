@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Ethiopia,Mexico,0.5318297038572102,1.675936380914264,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Russia,0.6591245971437487,1.4756183896774913,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,China,0.6971670659163055,1.4205365898331554,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Brazil,0.8334533639292256,1.239549965118924,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Turkey,0.8765522020151557,1.1872616776735372,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Philippines,0.9004287108129546,1.1592497579631775,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Thailand,0.9047178108493615,1.1542882675545583,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,United Kingdom,0.9903181255403402,1.05959167407612,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Germany,1.01278727753315,1.0360490298026588,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,South Korea,1.0144604045815353,1.034317037473088,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Vietnam,1.0443682957257159,1.003840807658919,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Indonesia,1.0444272180892806,1.0037816607284442,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Japan,1.06975560453935,0.9786767662567932,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,United States,1.0973130537622289,0.952075150745835,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Nigeria,1.1022246651441416,0.9474103927159983,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Saudi Arabia,1.1027222678377337,0.9469390760265979,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,France,1.1706671965855588,0.8847364718211177,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,India,1.1908264732743048,0.8670793993704673,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,South Africa,1.2272374962432895,0.8360760092053295,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Egypt,1.4213597771562214,0.6885564110966714,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Australia,1.5021414622371154,0.6351210197768673,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Pakistan,1.933974085684816,0.41239554093651104,extreme_abs_151_h3,xgboost,local,1.0
+Ethiopia,Bangladesh,1.9622137674897964,0.40091252357347673,extreme_abs_151_h3,xgboost,local,1.0
