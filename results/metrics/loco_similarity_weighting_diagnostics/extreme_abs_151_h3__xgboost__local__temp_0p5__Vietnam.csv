@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Vietnam,Philippines,0.5635514477773921,3.5261528445381853,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Brazil,0.8747626907354921,1.8922847188829968,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Turkey,0.8954573012850566,1.8155632022933867,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Russia,0.9307692930369751,1.6917639472542954,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Thailand,1.0318751792253202,1.3820390318938467,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Ethiopia,1.0443682957257159,1.3479349235073983,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Indonesia,1.0448078849710938,1.3467503689094744,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Mexico,1.0764706205647319,1.2641109709155844,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,United Kingdom,1.1431040761010547,1.106389680517981,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Germany,1.1683811020719101,1.0518474794597696,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,China,1.3111608618478474,0.790561839347011,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,France,1.3581317110482074,0.7196767719266122,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,United States,1.36010680156899,0.7168395258931864,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,India,1.405277882628883,0.6549178711201569,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,South Korea,1.4080602119375194,0.6512835978680702,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Japan,1.4445626407282712,0.6054308322235875,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,South Africa,1.5310829146393523,0.5092299975839372,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Australia,1.6619473016915198,0.39196439322121174,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Egypt,1.6877117561894068,0.37227844898505363,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Saudi Arabia,1.718636052675742,0.3499511243706802,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Nigeria,1.7651828881643057,0.3188433221835012,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Pakistan,2.2767244427328475,0.2470925535520371,extreme_abs_151_h3,xgboost,local,0.5
+Vietnam,Bangladesh,2.287923342611399,0.2470925535520371,extreme_abs_151_h3,xgboost,local,0.5
