@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+France,United Kingdom,0.406012609056984,1.7492292753086929,extreme_abs_151_h3,xgboost,local,1.0
+France,Germany,0.40771238050240655,1.746258510860583,extreme_abs_151_h3,xgboost,local,1.0
+France,United States,0.41122705993169717,1.7401317451099922,extreme_abs_151_h3,xgboost,local,1.0
+France,South Africa,0.5047514843855468,1.5847654280991024,extreme_abs_151_h3,xgboost,local,1.0
+France,Thailand,0.5095174316829632,1.5772304894128857,extreme_abs_151_h3,xgboost,local,1.0
+France,Australia,0.6290274453150737,1.3995635535551105,extreme_abs_151_h3,xgboost,local,1.0
+France,South Korea,0.7238010685349808,1.2730133637212466,extreme_abs_151_h3,xgboost,local,1.0
+France,Japan,0.7742888849691646,1.2103372029434907,extreme_abs_151_h3,xgboost,local,1.0
+France,Turkey,0.7817358979221979,1.20135728440114,extreme_abs_151_h3,xgboost,local,1.0
+France,Philippines,0.8911352913162208,1.0768634411615,extreme_abs_151_h3,xgboost,local,1.0
+France,Saudi Arabia,0.9309079307775047,1.0348742845062717,extreme_abs_151_h3,xgboost,local,1.0
+France,Indonesia,1.0528437127368224,0.9160761112601423,extreme_abs_151_h3,xgboost,local,1.0
+France,Ethiopia,1.1706671965855588,0.8142569407882222,extreme_abs_151_h3,xgboost,local,1.0
+France,China,1.177377777412821,0.808811096598084,extreme_abs_151_h3,xgboost,local,1.0
+France,Russia,1.1840910312219597,0.8033995273657885,extreme_abs_151_h3,xgboost,local,1.0
+France,Mexico,1.2306742193184974,0.7668329227774224,extreme_abs_151_h3,xgboost,local,1.0
+France,Brazil,1.3294831431410288,0.6946860533529279,extreme_abs_151_h3,xgboost,local,1.0
+France,Vietnam,1.3581317110482074,0.6750666682723772,extreme_abs_151_h3,xgboost,local,1.0
+France,Egypt,1.538169386459627,0.5638418353512751,extreme_abs_151_h3,xgboost,local,1.0
+France,India,1.7019521700393256,0.4786602209249293,extreme_abs_151_h3,xgboost,local,1.0
+France,Nigeria,1.914706015517184,0.38692742739647507,extreme_abs_151_h3,xgboost,local,1.0
+France,Pakistan,2.574270498585913,0.24890830841617023,extreme_abs_151_h3,xgboost,local,1.0
+France,Bangladesh,2.5881674816722,0.24890830841617023,extreme_abs_151_h3,xgboost,local,1.0
