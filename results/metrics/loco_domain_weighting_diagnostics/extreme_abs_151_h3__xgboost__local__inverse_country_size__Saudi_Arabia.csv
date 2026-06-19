@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8228,1.4122772716704362,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Ethiopia,8522,1.363555197289879,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Nigeria,8560,1.357502031694433,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Australia,8708,1.3344301092448723,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Germany,8775,1.3242412981543417,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+United Kingdom,8782,1.3231857653500738,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Turkey,8791,1.3218311217500112,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+South Africa,9007,1.2901318298328353,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Bangladesh,9092,1.2780705445781289,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Vietnam,9096,1.2775085082788422,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Pakistan,9477,1.2261493501429088,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+France,9744,1.1925510459056186,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Russia,10098,1.1507444435833183,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Brazil,10386,1.1188347189778882,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Mexico,10519,1.1046884106192933,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+South Korea,10545,1.1019646648937267,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Indonesia,11274,1.0307093659131052,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Egypt,12714,0.9139702211187941,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Philippines,17061,0.6810982586779408,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+India,17091,0.6799027202214234,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+China,18482,0.628731597841378,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+Japan,18893,0.615054114820534,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
+United States,23420,0.49616641295065533,extreme_abs_151_h3,xgboost,local,inverse_country_size,Saudi Arabia
