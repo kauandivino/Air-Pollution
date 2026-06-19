@@ -1,0 +1,3 @@
+split_name,target,held_out_country,model,model_family,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+leave_one_country_out,extreme_abs_151_h3,South Africa,lightgbm,boosting,validation,47165,6398,0.13565143644651753,0.908555072617407,0.9175855219062872,0.6062149770759042,0.9299781181619255,0.7339789058163202,0.8393834260510099,36902,3865,448,5950,0.09480707434935119,0.0700218818380744,0.9753151957663813,0.8774528299515834
+leave_one_country_out,extreme_abs_151_h3,South Africa,lightgbm,boosting,test,10575,61,0.005768321513002364,0.9942316784869977,0.5,0.0,0.0,0.0,0.4985537483996396,10514,0,61,0,0.0,1.0,0.8377900504245706,0.01766322466536925
