@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8839,2,0.6675479716867441,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Australia,1,1,2,5900.45652173913,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Bangladesh,0,2880,2,2.0487696256038648,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Bangladesh,1,6358,2,0.9280365715223546,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Brazil,0,9600,2,0.6146308876811594,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Brazil,1,965,2,6.114462716828115,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+China,0,16731,2,0.35266610015773897,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+China,1,1936,2,3.04775646784046,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Egypt,0,8601,2,0.6860198258038752,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Egypt,1,4311,2,1.3686978709670912,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Ethiopia,0,7929,2,0.7441614985167273,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Ethiopia,1,704,2,8.381330286561266,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+France,0,9858,1,1.1970899820935545,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Germany,0,8858,1,1.3322322243709936,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+India,0,11027,2,0.5350917313629392,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+India,1,6337,2,0.9311119649264842,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Indonesia,0,10070,2,0.5859440438668452,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Indonesia,1,1321,2,4.466658986933482,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Japan,0,19160,1,0.6159140419351911,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Mexico,0,9635,2,0.6123981859615081,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Mexico,1,984,2,5.996398904206433,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Pakistan,0,1704,2,3.4627092263727293,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Pakistan,1,7866,2,0.7501216020517583,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Philippines,0,17157,2,0.3439095717047928,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Philippines,1,118,2,50.00386882829772,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Russia,0,9267,2,0.636717008928362,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Russia,1,1036,2,5.695421353030048,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Saudi Arabia,0,8990,2,0.6563355419064661,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Saudi Arabia,1,114,2,51.758390541571316,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+South Africa,0,9058,2,0.6514083154933904,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+South Africa,1,49,2,120.41748003549246,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+South Korea,0,10552,2,0.5591789728714112,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+South Korea,1,107,2,55.14445347419748,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Thailand,0,8317,2,0.7094452953876554,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Thailand,1,44,2,134.10128458498025,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Turkey,0,8493,2,0.6947434972022996,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Turkey,1,509,2,11.592252498505168,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+United Kingdom,0,8902,2,0.6628236937473748,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+United Kingdom,1,1,2,5900.45652173913,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+United States,0,23763,2,0.24830436063372177,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+United States,1,30,2,196.68188405797102,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Vietnam,0,8524,2,0.6922168608328403,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
+Vietnam,1,715,2,8.252386743691092,extreme_abs_151_h1,xgboost,local,country_class_balanced,Nigeria
