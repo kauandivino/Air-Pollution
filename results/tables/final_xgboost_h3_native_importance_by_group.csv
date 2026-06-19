@@ -1,0 +1,10 @@
+group,native_importance_sum,n_features
+current_pollutant,0.7960647,12
+local_normalization,0.6769443,27
+lag,0.36581358,18
+rolling,0.33319315,14
+interaction,0.3331032,5
+calendar,0.28097442,8
+current_socio_environmental,0.10436785,4
+current_aqi,0.08955874,1
+current_meteorology,0.01998017,2
