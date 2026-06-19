@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8703,2,0.6681978727974861,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Australia,1,1,2,5815.326086956522,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Bangladesh,0,2875,2,2.0227221172022682,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Bangladesh,1,6224,2,0.9343390242539399,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Brazil,0,9422,2,0.6172071839266102,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Brazil,1,967,2,6.013780855177375,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+China,0,16578,2,0.350785745382828,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+China,1,1907,2,3.0494630765372426,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Egypt,0,8486,2,0.6852847144657697,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Egypt,1,4221,2,1.3777128848511069,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Ethiopia,0,7846,2,0.7411835440933624,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Ethiopia,1,676,2,8.602553383071777,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+France,0,9746,1,1.1933769930138562,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Germany,0,8773,1,1.3257326084478562,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+India,0,10874,2,0.534791804943583,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+India,1,6214,2,0.935842627447139,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Indonesia,0,9936,2,0.5852783903941748,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Indonesia,1,1338,2,4.3462825762006885,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Japan,0,18892,1,0.6156390098408344,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Mexico,0,9532,2,0.6100845664033279,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Mexico,1,993,2,5.856320329261351,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Nigeria,0,5232,2,1.1114919890971946,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Nigeria,1,3329,2,1.7468687554690663,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Pakistan,0,1721,2,3.3790389813808956,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Pakistan,1,7760,2,0.7493976916181084,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Philippines,0,16959,2,0.34290501131885853,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Philippines,1,110,2,52.866600790513836,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Russia,0,9065,2,0.6415141849924458,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Russia,1,1018,2,5.712501067737251,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Saudi Arabia,0,8895,2,0.6537747146662757,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Saudi Arabia,1,118,2,49.282424465733236,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+South Africa,0,8914,2,0.6523812078703749,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+South Africa,1,58,2,100.26424287856072,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+South Korea,0,10410,2,0.5586288267969761,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+South Korea,1,108,2,53.84561191626409,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Thailand,0,8177,2,0.7111808838151549,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Thailand,1,41,2,141.8372216330859,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Turkey,0,8368,2,0.6949481461468119,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Turkey,1,505,2,11.515497201894103,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+United States,0,23408,2,0.2484332743915124,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+United States,1,25,2,232.61304347826086,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Vietnam,0,8386,2,0.6934564854467591,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
+Vietnam,1,694,2,8.379432401954642,extreme_abs_151_h3,xgboost,local,country_class_balanced,United Kingdom
