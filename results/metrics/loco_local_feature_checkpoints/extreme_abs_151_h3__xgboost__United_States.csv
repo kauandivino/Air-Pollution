@@ -1,0 +1,3 @@
+target,model,model_family,feature_set,n_features,held_out_country,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+extreme_abs_151_h3,xgboost,boosting,all_plus_local_normalization,91,United States,validation,44627,6402,0.14345575548434805,0.9429269276446994,0.8655127556811157,0.8302210039403803,0.7569509528272415,0.7918947626440068,0.8794116415310536,37234,991,1556,4846,0.02592544146500981,0.24304904717275852,0.9768828331728414,0.8927160721824103
+extreme_abs_151_h3,xgboost,boosting,all_plus_local_normalization,91,United States,test,27495,35,0.0012729587197672304,0.9987270412802328,0.5,0.0,0.0,0.0,0.4996815576380675,27460,0,35,0,0.0,1.0,0.9077749453750911,0.017144395303020355
