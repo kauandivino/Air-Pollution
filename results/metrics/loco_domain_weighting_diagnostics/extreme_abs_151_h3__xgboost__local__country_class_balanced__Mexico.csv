@@ -1,0 +1,43 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8706,2,0.6634779612261409,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Australia,1,1,2,5776.239130434783,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Bangladesh,0,2878,2,2.007032359428347,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Bangladesh,1,6245,2,0.9249382114387162,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Brazil,0,9424,2,0.6129286004281391,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Brazil,1,968,2,5.967189184333453,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+China,0,16565,2,0.3487014265279072,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+China,1,1902,2,3.0369290906597173,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Egypt,0,8492,2,0.680197730856663,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Egypt,1,4211,2,1.371702476949604,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Ethiopia,0,7851,2,0.7357329168812613,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Ethiopia,1,678,2,8.519526741054252,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+France,0,9744,1,1.1855991647033626,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Germany,0,8782,1,1.3154723594704583,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+India,0,10879,2,0.530953132680833,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+India,1,6185,2,0.9339109345892939,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Indonesia,0,9936,2,0.5813445179584121,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Indonesia,1,1327,2,4.3528554110284725,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Japan,0,18906,1,0.6110482524526375,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Nigeria,0,5249,2,1.1004456335368227,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Nigeria,1,3333,2,1.7330450436347982,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Pakistan,0,1726,2,3.3466043629401985,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Pakistan,1,7741,2,0.7461877186971687,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Philippines,0,16798,2,0.3438646940370748,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Philippines,1,123,2,46.96129374337222,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Russia,0,9148,2,0.6314209805897226,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Russia,1,1032,2,5.5971309403437814,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Saudi Arabia,0,8935,2,0.6464733218169875,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Saudi Arabia,1,123,2,46.96129374337222,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+South Africa,0,8915,2,0.6479236265210075,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+South Africa,1,54,2,106.96739130434783,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+South Korea,0,10427,2,0.5539694188582318,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+South Korea,1,100,2,57.76239130434782,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Thailand,0,8207,2,0.7038185854069432,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Thailand,1,44,2,131.27816205533597,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Turkey,0,8286,2,0.6971082706293487,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Turkey,1,508,2,11.370549469359808,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+United Kingdom,0,8794,1,1.313677309628106,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+United States,0,23356,2,0.24731285881292955,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+United States,1,30,2,192.5413043478261,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Vietnam,0,8397,2,0.6878931916678317,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
+Vietnam,1,701,2,8.239998759536066,extreme_abs_151_h3,xgboost,local,country_class_balanced,Mexico
