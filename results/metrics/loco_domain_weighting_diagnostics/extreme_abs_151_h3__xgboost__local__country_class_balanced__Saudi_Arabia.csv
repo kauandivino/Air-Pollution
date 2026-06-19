@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8707,2,0.6672916843519208,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Australia,1,1,2,5810.108695652174,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Bangladesh,0,2875,2,2.0209073724007562,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Bangladesh,1,6217,2,0.9345518249400312,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Brazil,0,9421,2,0.6167188934987978,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Brazil,1,965,2,6.020838026582564,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+China,0,16572,2,0.3505979179128756,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+China,1,1910,2,3.041941725472342,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Egypt,0,8484,2,0.684831293688375,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Egypt,1,4230,2,1.373548155000514,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Ethiopia,0,7847,2,0.7404241997772619,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Ethiopia,1,675,2,8.60756843800322,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+France,0,9744,1,1.1925510459056186,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Germany,0,8775,1,1.3242412981543417,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+India,0,10881,2,0.5339682653848151,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+India,1,6210,2,0.93560526500035,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Indonesia,0,9938,2,0.5846356103493836,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Indonesia,1,1336,2,4.348883754230669,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Japan,0,18893,1,0.615054114820534,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Mexico,0,9528,2,0.6097931040776841,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Mexico,1,991,2,5.86287456675295,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Nigeria,0,5229,2,1.1111318981931868,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Nigeria,1,3331,2,1.7442535862059965,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Pakistan,0,1722,2,3.374046861586628,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Pakistan,1,7755,2,0.7492080845457348,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Philippines,0,16948,2,0.34281972478476364,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Philippines,1,113,2,51.41689111196614,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Russia,0,9067,2,0.6407972532979126,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Russia,1,1031,2,5.635410956015687,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+South Africa,0,8954,2,0.6488841518485787,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+South Africa,1,53,2,109.62469237079573,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+South Korea,0,10436,2,0.5567371306680887,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+South Korea,1,109,2,53.30374950139609,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Thailand,0,8183,2,0.7100218374254154,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Thailand,1,45,2,129.11352657004832,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Turkey,0,8299,2,0.7000974449514609,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Turkey,1,492,2,11.809164015553199,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+United Kingdom,0,8781,2,0.6616682263582934,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+United Kingdom,1,1,2,5810.108695652174,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+United States,0,23391,2,0.248390778318677,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+United States,1,29,2,200.34857571214394,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Vietnam,0,8396,2,0.6920091347846801,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
+Vietnam,1,700,2,8.300155279503105,extreme_abs_151_h3,xgboost,local,country_class_balanced,Saudi Arabia
