@@ -1,0 +1,7 @@
+split_name,part,rows,countries,min_date,max_date,target,events,non_events,prevalence,train_size,val_size,test_size,random_seed,stratified,train_end,val_start,val_end,test_start,test_end
+random_split,train,230729,24,2014-01-01,2025-11-01,extreme_abs_151_h1,30408,200321,0.13179097556007263,0.7,0.15,0.15,42.0,True,,,,,
+random_split,validation,49443,24,2014-01-01,2025-11-01,extreme_abs_151_h1,6516,42927,0.1317881196529337,0.7,0.15,0.15,42.0,True,,,,,
+random_split,test,49443,24,2014-01-01,2025-11-01,extreme_abs_151_h1,6516,42927,0.1317881196529337,0.7,0.15,0.15,42.0,True,,,,,
+temporal_split,train,221280,24,2014-01-01,2021-12-01,extreme_abs_151_h1,28930,192350,0.13073933477946492,,,,,,2021-12-31,2022-01-01,2023-12-31,2024-01-01,2025-12-31
+temporal_split,validation,55320,24,2022-01-01,2023-12-01,extreme_abs_151_h1,7449,47871,0.1346529284164859,,,,,,2021-12-31,2022-01-01,2023-12-31,2024-01-01,2025-12-31
+temporal_split,test,53015,24,2024-01-01,2025-11-01,extreme_abs_151_h1,7061,45954,0.13318872017353578,,,,,,2021-12-31,2022-01-01,2023-12-31,2024-01-01,2025-12-31
