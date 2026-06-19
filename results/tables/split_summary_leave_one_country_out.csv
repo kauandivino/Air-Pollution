@@ -1,0 +1,73 @@
+split_name,part,rows,countries,min_date,max_date,target,events,non_events,prevalence,held_out_country,val_size,random_seed,stratified
+leave_one_country_out,train,271299,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36923,234376,0.13609707370834392,Australia,0.15,42,True
+leave_one_country_out,validation,47877,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6516,41361,0.13609875305470268,Australia,0.15,42,True
+leave_one_country_out,test,10439,1,2014-01-01,2025-11-01,extreme_abs_151_h1,1,10438,9.579461634256155e-05,Australia,0.15,42,True
+leave_one_country_out,train,270934,23,2014-01-01,2025-11-01,extreme_abs_151_h1,30578,240356,0.11286143488820155,Bangladesh,0.15,42,True
+leave_one_country_out,validation,47813,23,2014-01-01,2025-11-01,extreme_abs_151_h1,5396,42417,0.11285633614289,Bangladesh,0.15,42,True
+leave_one_country_out,test,10868,1,2014-01-01,2025-11-01,extreme_abs_151_h1,7466,3402,0.686970923813029,Bangladesh,0.15,42,True
+leave_one_country_out,train,269597,23,2014-01-01,2025-11-01,extreme_abs_151_h1,35959,233638,0.13338056432378698,Brazil,0.15,42,True
+leave_one_country_out,validation,47577,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6346,41231,0.1333837778758644,Brazil,0.15,42,True
+leave_one_country_out,test,12441,1,2014-01-01,2025-11-01,extreme_abs_151_h1,1135,11306,0.09123060847198779,Brazil,0.15,42,True
+leave_one_country_out,train,261575,23,2014-01-01,2025-11-01,extreme_abs_151_h1,34992,226583,0.13377425212654115,China,0.15,42,True
+leave_one_country_out,validation,46161,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6175,39986,0.13377093217217997,China,0.15,42,True
+leave_one_country_out,test,21879,1,2014-01-01,2025-11-01,extreme_abs_151_h1,2273,19606,0.10388957447780978,China,0.15,42,True
+leave_one_country_out,train,267288,23,2014-01-01,2025-11-01,extreme_abs_151_h1,32647,234641,0.12214165993235761,Egypt,0.15,42,True
+leave_one_country_out,validation,47169,23,2014-01-01,2025-11-01,extreme_abs_151_h1,5761,41408,0.1221353007271725,Egypt,0.15,42,True
+leave_one_country_out,test,15158,1,2014-01-01,2025-11-01,extreme_abs_151_h1,5032,10126,0.33196991687557725,Egypt,0.15,42,True
+leave_one_country_out,train,271542,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36220,235322,0.1333863638037578,Ethiopia,0.15,42,True
+leave_one_country_out,validation,47920,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6392,41528,0.1333889816360601,Ethiopia,0.15,42,True
+leave_one_country_out,test,10153,1,2014-01-01,2025-11-01,extreme_abs_151_h1,828,9325,0.08155225056633507,Ethiopia,0.15,42,True
+leave_one_country_out,train,270327,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36924,233403,0.1365901297317693,France,0.15,42,True
+leave_one_country_out,validation,47705,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6516,41189,0.13658945603186248,France,0.15,42,True
+leave_one_country_out,test,11583,1,2014-01-01,2025-11-01,extreme_abs_151_h1,0,11583,0.0,France,0.15,42,True
+leave_one_country_out,train,271299,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36924,234375,0.13610075967843596,Germany,0.15,42,True
+leave_one_country_out,validation,47877,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6516,41361,0.13609875305470268,Germany,0.15,42,True
+leave_one_country_out,test,10439,1,2014-01-01,2025-11-01,extreme_abs_151_h1,0,10439,0.0,Germany,0.15,42,True
+leave_one_country_out,train,262791,23,2014-01-01,2025-11-01,extreme_abs_151_h1,30629,232162,0.11655269777123266,India,0.15,42,True
+leave_one_country_out,validation,46375,23,2014-01-01,2025-11-01,extreme_abs_151_h1,5405,40970,0.11654986522911051,India,0.15,42,True
+leave_one_country_out,test,20449,1,2014-01-01,2025-11-01,extreme_abs_151_h1,7406,13043,0.3621692992322363,India,0.15,42,True
+leave_one_country_out,train,268747,23,2014-01-01,2025-11-01,extreme_abs_151_h1,35591,233156,0.13243310623002302,Indonesia,0.15,42,True
+leave_one_country_out,validation,47426,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6281,41145,0.1324379032598153,Indonesia,0.15,42,True
+leave_one_country_out,test,13442,1,2014-01-01,2025-11-01,extreme_abs_151_h1,1568,11874,0.11664930813866985,Indonesia,0.15,42,True
+leave_one_country_out,train,260967,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36924,224043,0.1414891538010553,Japan,0.15,42,True
+leave_one_country_out,validation,46054,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6516,39538,0.14148608155643375,Japan,0.15,42,True
+leave_one_country_out,test,22594,1,2014-01-01,2025-11-01,extreme_abs_151_h1,0,22594,0.0,Japan,0.15,42,True
+leave_one_country_out,train,269476,23,2014-01-01,2025-11-01,extreme_abs_151_h1,35899,233577,0.1332178004720272,Mexico,0.15,42,True
+leave_one_country_out,validation,47555,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6335,41220,0.13321417306276942,Mexico,0.15,42,True
+leave_one_country_out,test,12584,1,2014-01-01,2025-11-01,extreme_abs_151_h1,1206,11378,0.09583598219961856,Mexico,0.15,42,True
+leave_one_country_out,train,271421,23,2014-01-01,2025-11-01,extreme_abs_151_h1,33506,237915,0.12344660140519709,Nigeria,0.15,42,True
+leave_one_country_out,validation,47898,23,2014-01-01,2025-11-01,extreme_abs_151_h1,5913,41985,0.12344983089064261,Nigeria,0.15,42,True
+leave_one_country_out,test,10296,1,2014-01-01,2025-11-01,extreme_abs_151_h1,4021,6275,0.39054001554001555,Nigeria,0.15,42,True
+leave_one_country_out,train,270570,23,2014-01-01,2025-11-01,extreme_abs_151_h1,29045,241525,0.10734745167609122,Pakistan,0.15,42,True
+leave_one_country_out,validation,47748,23,2014-01-01,2025-11-01,extreme_abs_151_h1,5126,42622,0.10735528189662394,Pakistan,0.15,42,True
+leave_one_country_out,test,11297,1,2014-01-01,2025-11-01,extreme_abs_151_h1,9269,2028,0.8204833141542003,Pakistan,0.15,42,True
+leave_one_country_out,train,262912,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36803,226109,0.1399821993670886,Philippines,0.15,42,True
+leave_one_country_out,validation,46397,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6495,39902,0.1399874991917581,Philippines,0.15,42,True
+leave_one_country_out,test,20306,1,2014-01-01,2025-11-01,extreme_abs_151_h1,142,20164,0.006993006993006993,Philippines,0.15,42,True
+leave_one_country_out,train,269962,23,2014-01-01,2025-11-01,extreme_abs_151_h1,35878,234084,0.13290018595209696,Russia,0.15,42,True
+leave_one_country_out,validation,47641,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6331,41310,0.13288973783085997,Russia,0.15,42,True
+leave_one_country_out,test,12012,1,2014-01-01,2025-11-01,extreme_abs_151_h1,1231,10781,0.10248085248085248,Russia,0.15,42,True
+leave_one_country_out,train,271056,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36809,234247,0.13579850658166578,Saudi Arabia,0.15,42,True
+leave_one_country_out,validation,47834,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6496,41338,0.13580298532424634,Saudi Arabia,0.15,42,True
+leave_one_country_out,test,10725,1,2014-01-01,2025-11-01,extreme_abs_151_h1,135,10590,0.012587412587412588,Saudi Arabia,0.15,42,True
+leave_one_country_out,train,271056,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36872,234184,0.1360309308777522,South Africa,0.15,42,True
+leave_one_country_out,validation,47834,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6507,41327,0.13603294727599616,South Africa,0.15,42,True
+leave_one_country_out,test,10725,1,2014-01-01,2025-11-01,extreme_abs_151_h1,61,10664,0.005687645687645688,South Africa,0.15,42,True
+leave_one_country_out,train,269476,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36813,232663,0.13660956819902328,South Korea,0.15,42,True
+leave_one_country_out,validation,47555,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6497,41058,0.13662075491536116,South Korea,0.15,42,True
+leave_one_country_out,test,12584,1,2014-01-01,2025-11-01,extreme_abs_151_h1,130,12454,0.010330578512396695,South Korea,0.15,42,True
+leave_one_country_out,train,271785,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36881,234904,0.13569917397943226,Thailand,0.15,42,True
+leave_one_country_out,validation,47963,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6508,41455,0.13568792610970956,Thailand,0.15,42,True
+leave_one_country_out,test,9867,1,2014-01-01,2025-11-01,extreme_abs_151_h1,51,9816,0.005168744299179082,Thailand,0.15,42,True
+leave_one_country_out,train,271178,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36405,234773,0.13424761595704665,Turkey,0.15,42,True
+leave_one_country_out,validation,47855,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6424,41431,0.13423884651551563,Turkey,0.15,42,True
+leave_one_country_out,test,10582,1,2014-01-01,2025-11-01,extreme_abs_151_h1,611,9971,0.05773955773955774,Turkey,0.15,42,True
+leave_one_country_out,train,271299,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36923,234376,0.13609707370834392,United Kingdom,0.15,42,True
+leave_one_country_out,validation,47877,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6516,41361,0.13609875305470268,United Kingdom,0.15,42,True
+leave_one_country_out,test,10439,1,2014-01-01,2025-11-01,extreme_abs_151_h1,1,10438,9.579461634256155e-05,United Kingdom,0.15,42,True
+leave_one_country_out,train,256470,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36894,219576,0.14385308223183998,United States,0.15,42,True
+leave_one_country_out,validation,45260,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6511,38749,0.14385771100309325,United States,0.15,42,True
+leave_one_country_out,test,27885,1,2014-01-01,2025-11-01,extreme_abs_151_h1,35,27850,0.0012551551013089475,United States,0.15,42,True
+leave_one_country_out,train,270934,23,2014-01-01,2025-11-01,extreme_abs_151_h1,36212,234722,0.133656167184628,Vietnam,0.15,42,True
+leave_one_country_out,validation,47813,23,2014-01-01,2025-11-01,extreme_abs_151_h1,6390,41423,0.13364566122184343,Vietnam,0.15,42,True
+leave_one_country_out,test,10868,1,2014-01-01,2025-11-01,extreme_abs_151_h1,838,10030,0.0771071034228929,Vietnam,0.15,42,True
