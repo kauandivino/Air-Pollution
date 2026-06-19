@@ -1,0 +1,3 @@
+split_name,target,held_out_country,model,model_family,part,rows,events,event_rate,accuracy,balanced_accuracy,precision,recall,f1,macro_f1,tn,fp,fn,tp,false_alarm_rate,missed_event_rate,roc_auc,pr_auc
+leave_one_country_out,extreme_abs_151_h3,Egypt,majority_class,baseline,validation,46509,5662,0.12173987830312413,0.8782601216968758,0.5,0.0,0.0,0.0,0.4675923806035075,40847,0,5662,0,0.0,1.0,0.5,0.12173987830312413
+leave_one_country_out,extreme_abs_151_h3,Egypt,majority_class,baseline,test,14946,4966,0.33226281279272046,0.6677371872072796,0.5,0.0,0.0,0.0,0.40038514001444275,9980,0,4966,0,0.0,1.0,0.5,0.33226281279272046
