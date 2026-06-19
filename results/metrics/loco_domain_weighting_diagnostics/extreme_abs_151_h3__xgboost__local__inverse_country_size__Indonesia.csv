@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8269,1.3933023813404701,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Ethiopia,8518,1.3525730677746357,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Nigeria,8595,1.3404557756026,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Australia,8708,1.3230612530207106,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Germany,8769,1.3138576110507867,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Turkey,8783,1.311763337277052,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+United Kingdom,8785,1.3114647002053896,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+South Africa,8963,1.285419769196067,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Saudi Arabia,9049,1.2732033806281742,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Vietnam,9118,1.2635684789761294,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Bangladesh,9126,1.2624608143002791,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Pakistan,9469,1.2167301078576775,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+France,9743,1.1825123053786666,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Russia,10171,1.1327516853116064,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Brazil,10390,1.108875591078378,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+South Korea,10535,1.0936134211015043,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Mexico,10575,1.0894768218727515,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Egypt,12702,0.9070396308694968,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Philippines,16932,0.6804404318039421,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+India,17042,0.6760484327722303,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+China,18462,0.6240503407704663,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+Japan,18904,0.6094592356805093,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
+United States,23380,0.49278089783166584,extreme_abs_151_h3,xgboost,local,inverse_country_size,Indonesia
