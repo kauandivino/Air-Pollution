@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8262,1.3982665529980107,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Ethiopia,8524,1.3552883928753596,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Nigeria,8591,1.3447186894272571,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Australia,8711,1.3261942671185358,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Germany,8779,1.3159218886968407,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Turkey,8782,1.3154723594704583,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+United Kingdom,8798,1.313080047836959,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+South Africa,8957,1.2897709345617467,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Saudi Arabia,9006,1.2827535266344177,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Vietnam,9114,1.2675530240146549,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Bangladesh,9124,1.2661637725635209,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Pakistan,9474,1.2193876146157447,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+France,9745,1.1854775023981083,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Russia,10080,1.1460791925465839,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Brazil,10382,1.1127411154757816,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Mexico,10506,1.0996076776003774,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Indonesia,11256,1.0263395754148512,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Egypt,12710,0.9089282660007526,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+India,17039,0.6780021281101922,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Philippines,17088,0.6760579506595017,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+China,18454,0.6260148618656967,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+Japan,18933,0.6101768478777566,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
+United States,23392,0.493864494736216,extreme_abs_151_h3,xgboost,local,inverse_country_size,South Korea
