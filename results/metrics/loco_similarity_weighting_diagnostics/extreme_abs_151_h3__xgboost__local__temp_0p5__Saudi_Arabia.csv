@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Saudi Arabia,South Africa,0.872978089473261,1.9201337885294751,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,France,0.9309079307775047,1.7100715000400062,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Thailand,0.9481364698249769,1.6521510481674155,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,South Korea,0.9650863178204159,1.597082310240458,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,United Kingdom,0.9864275655517036,1.5303491515249337,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Turkey,0.9980003446025204,1.495335138873742,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Germany,1.0049234528835218,1.4747730865310595,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,United States,1.0675789685899777,1.3010779418282117,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Australia,1.0871463638606889,1.2511439794673789,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Ethiopia,1.1027222678377337,1.2127694044774406,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,China,1.1316418212732002,1.1446139304906584,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Egypt,1.1702376878648035,1.0595832477917397,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Mexico,1.2360921902451683,0.9288264825018873,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Japan,1.2418570343663324,0.9181789023190446,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Philippines,1.4080724557355488,0.6584979523395117,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Russia,1.4321079326895876,0.6275921154030444,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Indonesia,1.5896290877434716,0.45799036536846793,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,India,1.6144580235921584,0.4358029867095937,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Brazil,1.6550618207785288,0.40181134262395934,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Nigeria,1.6895646615620592,0.375019115726677,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Vietnam,1.718636052675742,0.35383624370931416,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Pakistan,2.318847605383008,0.24667998266799243,extreme_abs_151_h3,xgboost,local,0.5
+Saudi Arabia,Bangladesh,2.453426803489013,0.24667998266799243,extreme_abs_151_h3,xgboost,local,0.5
