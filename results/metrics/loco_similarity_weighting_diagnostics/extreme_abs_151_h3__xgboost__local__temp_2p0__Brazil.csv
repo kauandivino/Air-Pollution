@@ -1,0 +1,24 @@
+held_out_country,train_country,profile_distance,similarity_weight,target,model,feature_regime,temperature
+Brazil,Russia,0.7121512600727223,1.2955541311972745,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Indonesia,0.7440570538321982,1.275050272553598,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Philippines,0.7827606043621457,1.2506130011436478,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Ethiopia,0.8334533639292256,1.2193128376557396,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Vietnam,0.8747626907354921,1.1943866485845636,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Mexico,0.892680178121513,1.183734232110002,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,China,1.0599188739683478,1.0887766181226373,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Thailand,1.068645427013376,1.0840363337727579,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,United Kingdom,1.103551003094798,1.0652810197408848,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Turkey,1.1065560331041222,1.0636816208858253,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Germany,1.1147477733698157,1.0593338291773484,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Japan,1.1989500736608618,1.0156604569373078,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,United States,1.222450413231151,1.0037961146477432,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,South Korea,1.2376871926468138,0.9961778609188797,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,India,1.3130586460853624,0.9593347640488519,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,France,1.3294831431410288,0.9514887294335378,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,South Africa,1.4057501923048874,0.9158882111823361,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Nigeria,1.577072904838041,0.8406983880642449,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Australia,1.6148927058890827,0.8249502324735105,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Saudi Arabia,1.6550618207785288,0.808546751876736,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Egypt,1.923152930778926,0.7071147426127165,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Bangladesh,2.1995295923651645,0.6158507326248531,extreme_abs_151_h3,xgboost,local,2.0
+Brazil,Pakistan,2.3169584533819165,0.5807324702350092,extreme_abs_151_h3,xgboost,local,2.0
