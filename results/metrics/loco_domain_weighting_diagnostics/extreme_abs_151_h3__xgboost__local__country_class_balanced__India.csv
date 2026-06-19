@@ -1,0 +1,44 @@
+train_country,class,country_class_rows,country_observed_classes,raw_country_class_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Australia,0,8702,2,0.6473149600791422,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Australia,1,1,2,5632.934782608696,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Bangladesh,0,2867,2,1.9647487905855234,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Bangladesh,1,6263,2,0.8993988156807753,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Brazil,0,9429,2,0.5974053221559757,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Brazil,1,962,2,5.855441561963301,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+China,0,16552,2,0.3403174711580894,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+China,1,1884,2,2.989880457860242,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Egypt,0,8492,2,0.6633225132605624,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Egypt,1,4187,2,1.3453390930519933,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Ethiopia,0,7838,2,0.718669913576001,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Ethiopia,1,684,2,8.235284769895754,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+France,0,9751,1,1.1553553035809037,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Germany,0,8768,1,1.284884758806728,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Indonesia,0,9871,2,0.5706549268168064,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Indonesia,1,1338,2,4.209966205238188,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Japan,0,18862,1,0.5972786324471101,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Mexico,0,9587,2,0.5875596936068317,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Mexico,1,1002,2,5.621691399809078,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Nigeria,0,5248,2,1.0733488533934252,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Nigeria,1,3297,2,1.708503118777281,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Pakistan,0,1704,2,3.3057129005919577,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Pakistan,1,7783,2,0.7237485266103939,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Philippines,0,16840,2,0.33449731488175155,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Philippines,1,116,2,48.55978260869565,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Russia,0,9103,2,0.6187998223232666,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Russia,1,1040,2,5.416283444816053,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Saudi Arabia,0,8976,2,0.6275551228396496,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Saudi Arabia,1,112,2,50.29406055900621,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+South Africa,0,8918,2,0.6316365533313182,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+South Africa,1,52,2,108.32566889632108,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+South Korea,0,10396,2,0.5418367432290011,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+South Korea,1,111,2,50.74716020368194,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Thailand,0,8221,2,0.6851885150965449,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Thailand,1,43,2,130.9984833164813,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Turkey,0,8293,2,0.6792396940321591,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Turkey,1,506,2,11.132282179068568,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+United Kingdom,0,8783,2,0.641345187590652,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+United Kingdom,1,1,2,5632.934782608696,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+United States,0,23379,2,0.24093993680690773,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+United States,1,32,2,176.02921195652175,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Vietnam,0,8412,2,0.6696308586077859,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
+Vietnam,1,709,2,7.944900962776722,extreme_abs_151_h3,xgboost,local,country_class_balanced,India
