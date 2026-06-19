@@ -1,0 +1,24 @@
+train_country,country_rows,country_weight,target,model,feature_regime,weighting_strategy,held_out_country
+Thailand,8252,1.4043815465025606,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Ethiopia,8525,1.3594083896468188,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Nigeria,8600,1.3475530839231546,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Australia,8710,1.330534617880497,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Germany,8768,1.3217331799428753,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+United Kingdom,8788,1.3187251390235697,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Turkey,8793,1.3179752668871978,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+South Africa,8954,1.294277029454895,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Saudi Arabia,9036,1.2825317089131396,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Vietnam,9110,1.2721137784565455,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Bangladesh,9118,1.2709976444109596,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Pakistan,9474,1.2232379693623738,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Russia,10177,1.1387399549709276,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Brazil,10392,1.1151805736854437,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+South Korea,10535,1.1000433338148201,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Mexico,10575,1.0958824134032275,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Indonesia,11188,1.0358380873917707,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Egypt,12701,0.9124444155372908,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Philippines,16927,0.6846432635280398,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+India,17171,0.6749144791648204,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+China,18465,0.6276174666525389,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+Japan,18884,0.6136918302128326,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
+United States,23403,0.4951910661769487,extreme_abs_151_h3,xgboost,local,inverse_country_size,France
