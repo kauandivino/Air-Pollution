@@ -22,6 +22,13 @@ thresholds.
 .
 +-- data/
 |   +-- global_air_quality_2014_2025.csv
+|   +-- openaq/
+|   |   +-- openaq.csv
+|   +-- world_air_quality/
+|   |   +-- world_air_quality.csv
+|   +-- real/
+|   |   +-- processed/
+|   |   |   +-- generated real-data country-month matrices
 |   +-- processed/
 |   |   +-- generated feature matrices and target previews
 +-- src/
@@ -41,12 +48,19 @@ thresholds.
 |   +-- 03_build_features.py
 |   +-- ...
 |   +-- 34_plot_results_heterogeneity_shift_panel.py
+|   +-- 35_profile_openaq_real_data.py
+|   +-- ...
+|   +-- 46_plot_real_validation_article_figures.py
 +-- results/
 |   +-- tables/
 |   +-- metrics/
 |   +-- figures/
 |   +-- predictions/   generated prediction-level outputs
 |   +-- models/        generated model artifacts, when used
++-- results_real/
+|   +-- tables/
+|   +-- metrics/
+|   +-- figures/
 +-- requirements.txt
 ```
 
@@ -59,7 +73,8 @@ data/global_air_quality_2014_2025.csv
 ```
 
 Country-specific duplicate extracts and generated processed matrices are not required to
-run the configured pipeline from scratch.
+run the configured synthetic pipeline from scratch. The OpenAQ and WAQD2024 files are
+only required for the optional real-data validation workflow.
 
 The dataset is a synthetic monthly global air-quality benchmark covering:
 
@@ -84,6 +99,27 @@ Industry_Growth, CO2_Emission, Population_Density
 
 Important note: the data should be treated as a controlled synthetic benchmark, not as
 direct observational measurements from real monitoring networks.
+
+### Real monitoring datasets
+
+The repository also supports a limited real-data validation workflow using:
+
+```text
+data/world_air_quality/world_air_quality.csv
+data/openaq/openaq.csv
+```
+
+These files are processed into country-month pollutant matrices under:
+
+```text
+data/real/processed/
+```
+
+The real-data workflow is not a direct replication of the synthetic AQI city-month task.
+It is a directional external check using measured, irregular monitoring data aggregated
+to country-month level. The primary real-data setting uses WAQD2024 PM2.5, horizon h=1,
+and leave-one-country-out evaluation. OpenAQ and PM10 variants are treated as sensitivity
+checks.
 
 ## Main Methodology
 
@@ -110,6 +146,11 @@ Leave-one-country-out:
 ```
 
 The leave-one-country-out protocol is the main geographic generalization benchmark.
+
+For real monitoring data, the repository applies the same country-holdout principle at
+country-month level and reports results both before and after a minimum-support fold
+filter. The main filtered setting requires at least 10 test rows, at least 3 positive
+events, at least 1 negative event, and both classes in the held-out fold.
 
 ## Targets
 
@@ -277,6 +318,11 @@ Threshold-dependent metrics are computed from model predictions. For probabilist
 classifiers, this corresponds to the default classifier threshold, typically 0.50.
 
 The operational analysis evaluates thresholds from 0.00 to 1.00 in steps of 0.01.
+
+For the real-data operational check, thresholds are selected only on the validation
+portion of each LOCO fold by maximizing F1 over thresholds from 0.05 to 0.95. These
+calibrated-threshold results are treated as operational sensitivity analyses, not as the
+main performance estimate.
 
 ## Installation
 
@@ -560,6 +606,47 @@ results/figures/final_xgboost_h3_permutation_importance_top25.png
 results/figures/final_xgboost_h3_permutation_importance_by_group.png
 ```
 
+### 16. Run the real-data validation workflow
+
+The real-data workflow profiles the measured datasets, builds country-month features,
+runs the compact validation experiments, diagnoses fragile LOCO folds, compares
+synthetic and real directional findings, and generates summary figures.
+
+```bash
+python scripts/35_profile_openaq_real_data.py
+python scripts/36_build_openaq_country_month.py
+python scripts/37_build_openaq_real_targets_features.py
+python scripts/38_run_openaq_real_validation.py
+python scripts/39_summarize_openaq_real_validation.py
+python scripts/40_run_openaq_real_threshold_calibration.py
+python scripts/41_diagnose_real_loco_folds.py
+python scripts/42_summarize_real_loco_filtered.py
+python scripts/43_compare_synthetic_vs_real_findings.py
+python scripts/44_operational_threshold_real_analysis.py
+python scripts/45_select_real_validation_reporting_scope.py
+python scripts/46_plot_real_validation_article_figures.py
+```
+
+Main outputs:
+
+```text
+data/real/processed/openaq_country_month.csv
+data/real/processed/openaq_real_feature_matrix.csv
+data/real/processed/waqd2024_country_month.csv
+data/real/processed/waqd2024_real_feature_matrix.csv
+results_real/metrics/real_validation_metrics.csv
+results_real/metrics/real_threshold_calibration_metrics.csv
+results_real/tables/real_external_validation_main_result.csv
+results_real/tables/real_loco_fold_diagnostics.csv
+results_real/tables/real_loco_all_vs_min_support_summary.csv
+results_real/tables/synthetic_vs_real_finding_bridge.csv
+results_real/tables/real_operational_threshold_article_table.csv
+results_real/figures/real_external_validation_main_pr_auc.png
+results_real/figures/real_external_validation_xgboost_ladder.png
+results_real/figures/real_operational_threshold_tradeoff.png
+results_real/figures/synthetic_vs_real_direction_bridge.png
+```
+
 ## Key Existing Results
 
 The main extreme-event target is imbalanced:
@@ -613,6 +700,17 @@ Country-class balanced:
   False alerts per 100 city-months: 5.84
 ```
 
+The real-data validation is intentionally interpreted as directional evidence. In the
+primary WAQD2024 PM2.5 h=1 LOCO setting, the filtered evaluation contains 6 held-out
+countries, 147 country-month test samples, and 31 positive events. The main real-data
+outputs are stored in:
+
+```text
+results_real/tables/real_external_validation_main_result.csv
+results_real/tables/real_external_validation_sensitivity_direction.csv
+results_real/tables/synthetic_vs_real_finding_bridge.csv
+```
+
 ## Reproducibility Notes
 
 The code uses a fixed random seed of 42 in the main split and model utilities.
@@ -626,6 +724,9 @@ scripts/14_interpret_random_forest.py
 scripts/15_statistical_tests.py
 scripts/23_stat_compare_local_features.py
 scripts/33_interpret_final_xgboost.py
+scripts/38_run_openaq_real_validation.py
+scripts/40_run_openaq_real_threshold_calibration.py
+scripts/41_diagnose_real_loco_folds.py
 ```
 
 The dependency file does not pin exact package versions. For fully reproducible runs,
@@ -648,6 +749,10 @@ Similarity weighting uses unlabeled covariate profiles from the held-out country
 should be treated as a transductive setting, not as a strictly inductive deployment
 scenario.
 
+The real-data validation uses country-month aggregation and pollutant-specific relative
+events. It should not be interpreted as deployment-ready AQI alert performance or as a
+direct replication of the synthetic city-month AQI benchmark.
+
 ## Outputs
 
 The project writes generated artifacts to:
@@ -657,7 +762,11 @@ results/tables/
 results/metrics/
 results/figures/
 results/predictions/
+results_real/tables/
+results_real/metrics/
+results_real/figures/
 data/processed/
+data/real/processed/
 ```
 
 These directories contain the CSV tables, model metrics, diagnostic outputs, figures,
