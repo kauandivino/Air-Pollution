@@ -13,6 +13,13 @@ data/processed/*.csv
 # Duplicate raw-data extracts not used by the configured loader.
 data/world_AQI/
 data/*/
+!data/openaq/
+!data/openaq/**
+!data/world_air_quality/
+!data/world_air_quality/**
+!data/real/
+!data/real/processed/
+!data/real/processed/**
 
 # Large prediction-level outputs. Summary metrics, tables, and figures remain tracked.
 results/predictions/
