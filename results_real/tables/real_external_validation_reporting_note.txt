@@ -1,0 +1,16 @@
+Recommended real-data reporting scope
+=====================================
+
+Use WAQD2024 PM2.5 h=1 under LOCO with the minimum-support fold filter as the main external validation result. This setting keeps the article focused on one real-data question: whether the synthetic benchmark conclusions are directionally visible in independent monitoring data.
+
+Main result to report:
+- XGBoost local features increase PR-AUC from 0.269 to 0.378.
+- XGBoost country-class weighting increases recall from 0.000 to 0.261, with FAR rising from 0.000 to 0.192.
+- Random Forest local features provide the strongest PR-AUC among the default threshold models in this table: 0.395.
+
+Sensitivity handling:
+- OpenAQ should be mentioned as a sensitivity check, not as a second main result: 2/3 directional checks matched in OpenAQ for the same PM2.5 h=1 target.
+- PM10 should remain supplementary: 4/4 PM10 sensitivity settings matched at least two of the three directional checks.
+
+Recommended wording:
+In the real-data validation, WAQD2024 PM2.5 h=1 was treated as the primary external setting, while OpenAQ and PM10 variants were used as sensitivity checks. This avoids overextending the limited and irregular real-data coverage while testing whether the main directional patterns persist outside the synthetic benchmark.

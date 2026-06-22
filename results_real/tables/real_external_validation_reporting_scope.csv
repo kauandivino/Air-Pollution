@@ -1,0 +1,4 @@
+component,dataset,target,include_in_body,recommended_text_role,directional_evidence
+Main real-data validation,waqd2024,PM25_p95_rel_p90_h1,yes,"Primary external validation using WAQD2024, PM2.5, h=1, LOCO, and the minimum-support fold filter.",1/1 settings match at least 2/3 checks; mean checks=3.00
+OpenAQ sensitivity,openaq,PM25_p95_rel_p90_h1,briefly,Mention as an independent sensitivity check; keep numeric detail outside the main narrative unless needed.,1/1 settings match at least 2/3 checks; mean checks=2.00
+PM10 analyses,waqd2024/openaq,PM10_p95_rel_p90_h1 and PM10_p95_rel_p90_h3,optional,Use as supplementary robustness evidence only; avoid giving PM10 the same weight as PM2.5 in the paper body.,4/4 settings match at least 2/3 checks; mean checks=2.50

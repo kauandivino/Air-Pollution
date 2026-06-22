@@ -1,0 +1,108 @@
+feature,group,description
+month,calendar,Calendar encoding for country-month rows
+month_cos,calendar,Calendar encoding for country-month rows
+month_sin,calendar,Calendar encoding for country-month rows
+quarter,calendar,Calendar encoding for country-month rows
+time_index_months,calendar,Calendar encoding for country-month rows
+year,calendar,Calendar encoding for country-month rows
+observed_pollutants,coverage,Current real-data covariate
+total_cities,coverage,Current real-data covariate
+total_locations,coverage,Current real-data covariate
+total_records,coverage,Current real-data covariate
+total_sources,coverage,Current real-data covariate
+NO2_value_p95_lag_1,lag,Exact 1-month country-level lag
+NO2_value_p95_lag_2,lag,Exact 2-month country-level lag
+NO2_value_p95_lag_3,lag,Exact 3-month country-level lag
+O3_value_p95_lag_1,lag,Exact 1-month country-level lag
+O3_value_p95_lag_2,lag,Exact 2-month country-level lag
+O3_value_p95_lag_3,lag,Exact 3-month country-level lag
+PM10_value_p95_lag_1,lag,Exact 1-month country-level lag
+PM10_value_p95_lag_2,lag,Exact 2-month country-level lag
+PM10_value_p95_lag_3,lag,Exact 3-month country-level lag
+PM25_value_p95_lag_1,lag,Exact 1-month country-level lag
+PM25_value_p95_lag_2,lag,Exact 2-month country-level lag
+PM25_value_p95_lag_3,lag,Exact 3-month country-level lag
+NO2_value_p95_country_anomaly,local_normalized,Deviation from past country mean
+NO2_value_p95_country_history_count,local_normalized,Past observed country months
+NO2_value_p95_country_zscore,local_normalized,Z-score against past country history
+O3_value_p95_country_anomaly,local_normalized,Deviation from past country mean
+O3_value_p95_country_history_count,local_normalized,Past observed country months
+O3_value_p95_country_zscore,local_normalized,Z-score against past country history
+PM10_value_p95_country_anomaly,local_normalized,Deviation from past country mean
+PM10_value_p95_country_history_count,local_normalized,Past observed country months
+PM10_value_p95_country_zscore,local_normalized,Z-score against past country history
+PM25_value_p95_country_anomaly,local_normalized,Deviation from past country mean
+PM25_value_p95_country_history_count,local_normalized,Past observed country months
+PM25_value_p95_country_zscore,local_normalized,Z-score against past country history
+CO_cities_count,other,Current real-data covariate
+CO_locations_count,other,Current real-data covariate
+CO_sources_count,other,Current real-data covariate
+CO_units_count,other,Current real-data covariate
+NO2_cities_count,other,Current real-data covariate
+NO2_locations_count,other,Current real-data covariate
+NO2_sources_count,other,Current real-data covariate
+NO2_units_count,other,Current real-data covariate
+O3_cities_count,other,Current real-data covariate
+O3_locations_count,other,Current real-data covariate
+O3_sources_count,other,Current real-data covariate
+O3_units_count,other,Current real-data covariate
+PM10_cities_count,other,Current real-data covariate
+PM10_locations_count,other,Current real-data covariate
+PM10_sources_count,other,Current real-data covariate
+PM10_units_count,other,Current real-data covariate
+PM25_cities_count,other,Current real-data covariate
+PM25_locations_count,other,Current real-data covariate
+PM25_sources_count,other,Current real-data covariate
+PM25_units_count,other,Current real-data covariate
+SO2_cities_count,other,Current real-data covariate
+SO2_locations_count,other,Current real-data covariate
+SO2_sources_count,other,Current real-data covariate
+SO2_units_count,other,Current real-data covariate
+CO_value_count,pollutant,Current real-data covariate
+CO_value_max,pollutant,Current real-data covariate
+CO_value_mean,pollutant,Current real-data covariate
+CO_value_median,pollutant,Current real-data covariate
+CO_value_p90,pollutant,Current real-data covariate
+CO_value_p95,pollutant,Current real-data covariate
+CO_value_std,pollutant,Current real-data covariate
+NO2_value_count,pollutant,Current real-data covariate
+NO2_value_max,pollutant,Current real-data covariate
+NO2_value_mean,pollutant,Current real-data covariate
+NO2_value_median,pollutant,Current real-data covariate
+NO2_value_p90,pollutant,Current real-data covariate
+NO2_value_p95,pollutant,Current real-data covariate
+NO2_value_std,pollutant,Current real-data covariate
+O3_value_count,pollutant,Current real-data covariate
+O3_value_max,pollutant,Current real-data covariate
+O3_value_mean,pollutant,Current real-data covariate
+O3_value_median,pollutant,Current real-data covariate
+O3_value_p90,pollutant,Current real-data covariate
+O3_value_p95,pollutant,Current real-data covariate
+O3_value_std,pollutant,Current real-data covariate
+PM10_value_count,pollutant,Current real-data covariate
+PM10_value_max,pollutant,Current real-data covariate
+PM10_value_mean,pollutant,Current real-data covariate
+PM10_value_median,pollutant,Current real-data covariate
+PM10_value_p90,pollutant,Current real-data covariate
+PM10_value_p95,pollutant,Current real-data covariate
+PM10_value_std,pollutant,Current real-data covariate
+PM25_value_count,pollutant,Current real-data covariate
+PM25_value_max,pollutant,Current real-data covariate
+PM25_value_mean,pollutant,Current real-data covariate
+PM25_value_median,pollutant,Current real-data covariate
+PM25_value_p90,pollutant,Current real-data covariate
+PM25_value_p95,pollutant,Current real-data covariate
+PM25_value_std,pollutant,Current real-data covariate
+SO2_value_count,pollutant,Current real-data covariate
+SO2_value_max,pollutant,Current real-data covariate
+SO2_value_mean,pollutant,Current real-data covariate
+SO2_value_median,pollutant,Current real-data covariate
+SO2_value_p90,pollutant,Current real-data covariate
+SO2_value_p95,pollutant,Current real-data covariate
+SO2_value_std,pollutant,Current real-data covariate
+PM10_value_p95_roll_max_3,rolling,Past rolling country maximum
+PM10_value_p95_roll_mean_3,rolling,Past rolling country mean
+PM10_value_p95_roll_std_3,rolling,Past rolling country standard deviation
+PM25_value_p95_roll_max_3,rolling,Past rolling country maximum
+PM25_value_p95_roll_mean_3,rolling,Past rolling country mean
+PM25_value_p95_roll_std_3,rolling,Past rolling country standard deviation

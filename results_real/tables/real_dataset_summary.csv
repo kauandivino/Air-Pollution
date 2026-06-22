@@ -1,0 +1,3 @@
+dataset,path,file_size_mb,rows,columns,country_codes,country_labels,locations,cities,pollutants,sources,units,missing_city_rows,missing_coordinates_rows,missing_country_label_rows,valid_dates,min_datetime_utc,max_datetime_utc,distinct_months,negative_value_rows,non_negative_value_rows,missing_value_rows
+openaq,data\openaq\openaq.csv,4.734,43450,11,125,112,10287,2448,10,135,2,16720,219,115,43450,2014-03-13T12:00:00+00:00,2023-08-10T01:00:00+00:00,96,597,42853,0
+waqd2024,data\world_air_quality\world_air_quality.csv,6.172,54255,11,131,118,10574,2469,13,147,5,24046,70,115,54255,2014-03-13T12:00:00+00:00,2024-03-25T09:00:00+00:00,102,554,53701,0
